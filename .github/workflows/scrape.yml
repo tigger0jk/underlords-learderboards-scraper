@@ -6,7 +6,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '22 2,14 * * *'
+    - cron:  '15 * * * *'
 
 jobs:
   scheduled:
@@ -21,7 +21,7 @@ jobs:
         files=("duos" "turbo" "solos")
 
         for file in ${files[@]}; do
-          curl -A "underlords-learderboards-scraper: github.com/tigger0jk/underlords-learderboards-scraper" "https://underlords.com//leaderboarddata?type=$file" > $file.json
+          curl -A "underlords-learderboards-scraper: github.com/tigger0jk/underlords-learderboards-scraper" "https://underlords.com//leaderboarddata?type=$file" | jq > $file.json
         done
     - name: Commit and push if it changed
       run: |-
