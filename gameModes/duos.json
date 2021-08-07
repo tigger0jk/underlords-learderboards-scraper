@@ -1,6 +1,6 @@
 {
-  "time_posted": 1628302383,
-  "next_scheduled_post_time": 1628302443,
+  "time_posted": 1628305982,
+  "next_scheduled_post_time": 1628306042,
   "leaderboard": [
     {
       "name": "蘑菇小分队",
@@ -95,7 +95,7 @@
     {
       "name": "SuperNatural",
       "rank": 16,
-      "level_score": 54245,
+      "level_score": 54445,
       "duos_persona_min": "."
     },
     {
@@ -1263,16 +1263,16 @@
       "duos_persona_min": "指尖烟草味"
     },
     {
-      "name": "两支小菜鸡",
-      "rank": 211,
-      "level_score": 13060,
-      "duos_persona_min": "换个名字吧！"
-    },
-    {
       "name": "對阿",
-      "rank": 212,
+      "rank": 211,
       "level_score": 12960,
       "duos_persona_min": "yi"
+    },
+    {
+      "name": "两支小菜鸡",
+      "rank": 212,
+      "level_score": 12810,
+      "duos_persona_min": "换个名字吧！"
     },
     {
       "name": "RailGun",
