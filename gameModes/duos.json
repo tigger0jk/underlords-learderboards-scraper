@@ -1,6 +1,6 @@
 {
-  "time_posted": 1628586782,
-  "next_scheduled_post_time": 1628586842,
+  "time_posted": 1628590383,
+  "next_scheduled_post_time": 1628590443,
   "leaderboard": [
     {
       "name": "懒羊羊",
@@ -171,16 +171,16 @@
       "duos_persona_min": "E45Y"
     },
     {
-      "name": "RÖVGÄNGET",
-      "rank": 29,
-      "level_score": 40560,
-      "duos_persona_min": "SirVäz"
-    },
-    {
       "name": "Непоседы",
-      "rank": 30,
+      "rank": 29,
       "level_score": 40530,
       "duos_persona_min": "enferoff"
+    },
+    {
+      "name": "RÖVGÄNGET",
+      "rank": 30,
+      "level_score": 40530,
+      "duos_persona_min": "SirVäz"
     },
     {
       "name": "Bitirim İkili",
@@ -359,7 +359,7 @@
     {
       "name": "Glorious Glory",
       "rank": 60,
-      "level_score": 29855,
+      "level_score": 29955,
       "duos_persona_min": "Lrak"
     },
     {
@@ -425,7 +425,7 @@
     {
       "name": "3 put lads",
       "rank": 71,
-      "level_score": 27045,
+      "level_score": 27145,
       "duos_persona_min": "stu252"
     },
     {
@@ -497,7 +497,7 @@
     {
       "name": "ахой",
       "rank": 83,
-      "level_score": 24975,
+      "level_score": 25005,
       "duos_persona_min": "chvak"
     },
     {
@@ -551,7 +551,7 @@
     {
       "name": "Прю и Фиби",
       "rank": 92,
-      "level_score": 22565,
+      "level_score": 22595,
       "duos_persona_min": "Фуфелшмерц"
     },
     {
@@ -873,34 +873,34 @@
       "duos_persona_min": "LukasH"
     },
     {
-      "name": "PotatoPlowers",
+      "name": "КуниМастера",
       "rank": 146,
+      "level_score": 17730,
+      "duos_persona_min": "_E_x_c_l_u_s_i_v_e_"
+    },
+    {
+      "name": "PotatoPlowers",
+      "rank": 147,
       "level_score": 17725,
       "duos_persona_min": "Flotato"
     },
     {
       "name": "武统指挥部",
-      "rank": 147,
+      "rank": 148,
       "level_score": 17680,
       "duos_persona_min": "frank is sb"
     },
     {
       "name": "nabs",
-      "rank": 148,
+      "rank": 149,
       "level_score": 17670,
       "duos_persona_min": "Mr. Rice Guy"
     },
     {
       "name": "неграм по ебалу",
-      "rank": 149,
+      "rank": 150,
       "level_score": 17630,
       "duos_persona_min": "AlanWake"
-    },
-    {
-      "name": "КуниМастера",
-      "rank": 150,
-      "level_score": 17580,
-      "duos_persona_min": "_E_x_c_l_u_s_i_v_e_"
     },
     {
       "name": "大富大桂",
@@ -1305,28 +1305,28 @@
       "duos_persona_min": "RatetaDistreta"
     },
     {
-      "name": "пес да лис",
-      "rank": 218,
-      "level_score": 14865,
-      "duos_persona_min": "Дашминатор"
-    },
-    {
       "name": "ʕ•ᴥ•ʔ",
-      "rank": 219,
+      "rank": 218,
       "level_score": 14830,
       "duos_persona_min": "Balmipour"
     },
     {
       "name": "Економисты",
-      "rank": 220,
+      "rank": 219,
       "level_score": 14790,
       "duos_persona_min": "M O R T E M"
     },
     {
       "name": "YNWA Gunners",
-      "rank": 221,
+      "rank": 220,
       "level_score": 14740,
       "duos_persona_min": "KJey"
+    },
+    {
+      "name": "пес да лис",
+      "rank": 221,
+      "level_score": 14665,
+      "duos_persona_min": "Дашминатор"
     },
     {
       "name": "gardinerelas",
