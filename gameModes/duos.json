@@ -1,6 +1,6 @@
 {
-  "time_posted": 1628590383,
-  "next_scheduled_post_time": 1628590443,
+  "time_posted": 1628593982,
+  "next_scheduled_post_time": 1628594042,
   "leaderboard": [
     {
       "name": "懒羊羊",
@@ -549,16 +549,16 @@
       "duos_persona_min": "Vitam1n"
     },
     {
-      "name": "Прю и Фиби",
-      "rank": 92,
-      "level_score": 22595,
-      "duos_persona_min": "Фуфелшмерц"
-    },
-    {
       "name": "Open Fort Losers",
-      "rank": 93,
+      "rank": 92,
       "level_score": 22540,
       "duos_persona_min": "BatyCab"
+    },
+    {
+      "name": "Прю и Фиби",
+      "rank": 93,
+      "level_score": 22495,
+      "duos_persona_min": "Фуфелшмерц"
     },
     {
       "name": "Глаза в мясо",
@@ -669,16 +669,16 @@
       "duos_persona_min": "KackSpeCt"
     },
     {
-      "name": "Pilotos & Amigos",
+      "name": "Gangsta family",
       "rank": 112,
-      "level_score": 20605,
-      "duos_persona_min": "SORVETEIRO"
+      "level_score": 20640,
+      "duos_persona_min": "wados"
     },
     {
-      "name": "Gangsta family",
+      "name": "Pilotos & Amigos",
       "rank": 113,
-      "level_score": 20490,
-      "duos_persona_min": "wados"
+      "level_score": 20605,
+      "duos_persona_min": "SORVETEIRO"
     },
     {
       "name": "Edgerunner Lords",
@@ -1071,40 +1071,40 @@
       "duos_persona_min": "Monoya"
     },
     {
-      "name": "Harvoops",
-      "rank": 179,
-      "level_score": 16500,
-      "duos_persona_min": "coops"
-    },
-    {
       "name": "рот твой шатал",
-      "rank": 180,
+      "rank": 179,
       "level_score": 16475,
       "duos_persona_min": "Antony"
     },
     {
       "name": "Oculus Prime",
-      "rank": 181,
+      "rank": 180,
       "level_score": 16445,
       "duos_persona_min": "gr0m0vnik"
     },
     {
       "name": "aal_group",
-      "rank": 182,
+      "rank": 181,
       "level_score": 16440,
       "duos_persona_min": "bel_den89"
     },
     {
       "name": "БИБА И БОБА",
-      "rank": 183,
+      "rank": 182,
       "level_score": 16365,
       "duos_persona_min": "Диезард"
     },
     {
       "name": "Pants on Heads",
-      "rank": 184,
+      "rank": 183,
       "level_score": 16360,
       "duos_persona_min": "Drool-Cup"
+    },
+    {
+      "name": "Harvoops",
+      "rank": 184,
+      "level_score": 16350,
+      "duos_persona_min": "coops"
     },
     {
       "name": "Soranda",
