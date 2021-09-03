@@ -1,6 +1,6 @@
 {
-  "time_posted": 1630631582,
-  "next_scheduled_post_time": 1630631642,
+  "time_posted": 1630635182,
+  "next_scheduled_post_time": 1630635242,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -843,22 +843,22 @@
       "duos_persona_min": "Rory"
     },
     {
-      "name": "TeamAika",
+      "name": "Water Addicts",
       "rank": 141,
+      "level_score": 18095,
+      "duos_persona_min": "splix."
+    },
+    {
+      "name": "TeamAika",
+      "rank": 142,
       "level_score": 18065,
       "duos_persona_min": "Kotopropeller"
     },
     {
       "name": "Жиробаки",
-      "rank": 142,
+      "rank": 143,
       "level_score": 17965,
       "duos_persona_min": "Headslasher96"
-    },
-    {
-      "name": "Water Addicts",
-      "rank": 143,
-      "level_score": 17945,
-      "duos_persona_min": "splix."
     },
     {
       "name": "Harvoops",
@@ -1451,7 +1451,7 @@
     {
       "name": "gardinerelas",
       "rank": 242,
-      "level_score": 14130,
+      "level_score": 14160,
       "duos_persona_min": "Fuzue LOko"
     },
     {
@@ -1557,20 +1557,14 @@
       "duos_persona_min": "IMBAZOR"
     },
     {
-      "name": "Bailamos",
-      "rank": 260,
-      "level_score": 10035,
-      "duos_persona_min": "yoletsdance"
-    },
-    {
       "name": "Patate et Tomate",
-      "rank": 261,
+      "rank": 260,
       "level_score": 9450,
       "duos_persona_min": "Anagallis"
     },
     {
       "name": "扫黄打非",
-      "rank": 262,
+      "rank": 261,
       "level_score": 8910,
       "duos_persona_min": "Ace Kiki"
     }
