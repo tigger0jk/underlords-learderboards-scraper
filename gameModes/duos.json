@@ -1,11 +1,11 @@
 {
-  "time_posted": 1630833182,
-  "next_scheduled_post_time": 1630833242,
+  "time_posted": 1630836782,
+  "next_scheduled_post_time": 1630836842,
   "leaderboard": [
     {
       "name": "Amaranda",
       "rank": 1,
-      "level_score": 124020,
+      "level_score": 124120,
       "duos_persona_min": "DD"
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Stroganoff",
       "rank": 27,
-      "level_score": 42005,
+      "level_score": 42205,
       "duos_persona_min": "bluesky_sitc"
     },
     {
@@ -203,7 +203,7 @@
     {
       "name": "Vua Trò Chơi",
       "rank": 34,
-      "level_score": 37785,
+      "level_score": 37985,
       "duos_persona_min": "FM (jk)"
     },
     {
@@ -395,7 +395,7 @@
     {
       "name": "Собутыльники",
       "rank": 66,
-      "level_score": 27120,
+      "level_score": 27000,
       "duos_persona_min": "Combo"
     },
     {
@@ -525,22 +525,22 @@
       "duos_persona_min": "baotianshihui"
     },
     {
-      "name": "HAGEBUDDENE",
+      "name": "WINNER",
       "rank": 88,
+      "level_score": 23275,
+      "duos_persona_min": "Jean Valjean"
+    },
+    {
+      "name": "HAGEBUDDENE",
+      "rank": 89,
       "level_score": 23245,
       "duos_persona_min": "HERR_WINKLAAA"
     },
     {
       "name": "หมาเหี้ย",
-      "rank": 89,
+      "rank": 90,
       "level_score": 23185,
       "duos_persona_min": "JNEXX"
-    },
-    {
-      "name": "WINNER",
-      "rank": 90,
-      "level_score": 23175,
-      "duos_persona_min": "Jean Valjean"
     },
     {
       "name": " السلام عليكم",
@@ -717,28 +717,28 @@
       "duos_persona_min": "meta.avazert"
     },
     {
-      "name": "Wehrmacht",
+      "name": "ШОТЛАНДЦЫ",
       "rank": 120,
+      "level_score": 20265,
+      "duos_persona_min": "SiGni"
+    },
+    {
+      "name": "Wehrmacht",
+      "rank": 121,
       "level_score": 20265,
       "duos_persona_min": "VectivuS"
     },
     {
       "name": "нахуйНахуй",
-      "rank": 121,
+      "rank": 122,
       "level_score": 20225,
       "duos_persona_min": "[Tsr]"
     },
     {
       "name": "GoingToBeMammed",
-      "rank": 122,
+      "rank": 123,
       "level_score": 20170,
       "duos_persona_min": "FightorFall"
-    },
-    {
-      "name": "ШОТЛАНДЦЫ",
-      "rank": 123,
-      "level_score": 20115,
-      "duos_persona_min": "SiGni"
     },
     {
       "name": "†††I KILL YOU†††",
@@ -749,7 +749,7 @@
     {
       "name": "I&I",
       "rank": 125,
-      "level_score": 20075,
+      "level_score": 19975,
       "duos_persona_min": "iliescuioana97"
     },
     {
@@ -789,34 +789,34 @@
       "duos_persona_min": "Кило коки"
     },
     {
-      "name": "Домашняя",
+      "name": "AnimeShmanime",
       "rank": 132,
+      "level_score": 19705,
+      "duos_persona_min": "Hakiro Isuzu"
+    },
+    {
+      "name": "Домашняя",
+      "rank": 133,
       "level_score": 19665,
       "duos_persona_min": "9395632"
     },
     {
       "name": "Un de moins",
-      "rank": 133,
+      "rank": 134,
       "level_score": 19640,
       "duos_persona_min": "Capitaine Gressin"
     },
     {
       "name": "Don't COPY STRAT",
-      "rank": 134,
+      "rank": 135,
       "level_score": 19580,
       "duos_persona_min": "✪ ms ✪ ツ"
     },
     {
       "name": "LostInSpace",
-      "rank": 135,
+      "rank": 136,
       "level_score": 19565,
       "duos_persona_min": "LukasH"
-    },
-    {
-      "name": "AnimeShmanime",
-      "rank": 136,
-      "level_score": 19555,
-      "duos_persona_min": "Hakiro Isuzu"
     },
     {
       "name": "хулизыришьчепуха",
@@ -927,686 +927,698 @@
       "duos_persona_min": "Латентный Тракторист"
     },
     {
-      "name": "F A C I L",
+      "name": "PotatoPlowers",
       "rank": 155,
+      "level_score": 17845,
+      "duos_persona_min": "Flotato"
+    },
+    {
+      "name": "F A C I L",
+      "rank": 156,
       "level_score": 17750,
       "duos_persona_min": "GabrieL"
     },
     {
+      "name": "Etet Squad",
+      "rank": 157,
+      "level_score": 17720,
+      "duos_persona_min": "Meie"
+    },
+    {
       "name": "Stari Grad",
-      "rank": 156,
+      "rank": 158,
       "level_score": 17715,
       "duos_persona_min": "Shishkavac"
     },
     {
       "name": "Ko-Manda",
-      "rank": 157,
+      "rank": 159,
       "level_score": 17655,
       "duos_persona_min": "misforunder"
     },
     {
       "name": "StuhlGang",
-      "rank": 158,
+      "rank": 160,
       "level_score": 17655,
       "duos_persona_min": "Duke187"
     },
     {
       "name": "Ahuevshie",
-      "rank": 159,
+      "rank": 161,
       "level_score": 17550,
       "duos_persona_min": "+165"
     },
     {
       "name": "Battle Buddies",
-      "rank": 160,
+      "rank": 162,
       "level_score": 17520,
       "duos_persona_min": "Phillip Noice"
     },
     {
       "name": "Бобче Топче",
-      "rank": 161,
+      "rank": 163,
       "level_score": 17510,
       "duos_persona_min": "Amellyy"
     },
     {
       "name": "SAMOIZOLYACIA",
-      "rank": 162,
+      "rank": 164,
       "level_score": 17430,
       "duos_persona_min": "Блиномес"
     },
     {
       "name": "牛栏山二锅头",
-      "rank": 163,
+      "rank": 165,
       "level_score": 17425,
       "duos_persona_min": "允搻"
     },
     {
       "name": "TILDEATHDOUSPART",
-      "rank": 164,
+      "rank": 166,
       "level_score": 17425,
       "duos_persona_min": "[TDDUP<3]-Whitewalkers"
     },
     {
       "name": "Cute Cats",
-      "rank": 165,
+      "rank": 167,
       "level_score": 17395,
       "duos_persona_min": "Monoya"
     },
     {
       "name": "Mr&Mrs",
-      "rank": 166,
+      "rank": 168,
       "level_score": 17380,
       "duos_persona_min": "Judy"
     },
     {
       "name": "just scrubs",
-      "rank": 167,
+      "rank": 169,
       "level_score": 17335,
       "duos_persona_min": "11"
     },
     {
       "name": "GREECE",
-      "rank": 168,
+      "rank": 170,
       "level_score": 17320,
       "duos_persona_min": "Dem_plays"
     },
     {
       "name": "武统指挥部",
-      "rank": 169,
+      "rank": 171,
       "level_score": 17310,
       "duos_persona_min": "frank is sb"
     },
     {
       "name": "Лихие Лекари",
-      "rank": 170,
+      "rank": 172,
       "level_score": 17280,
       "duos_persona_min": "Dark Wolf"
     },
     {
       "name": "Kabluk United",
-      "rank": 171,
+      "rank": 173,
       "level_score": 17240,
       "duos_persona_min": "Alone"
     },
     {
       "name": "AryanBrotherhood",
-      "rank": 172,
+      "rank": 174,
       "level_score": 17100,
       "duos_persona_min": "Bonnie Blue"
     },
     {
       "name": "Winners",
-      "rank": 173,
+      "rank": 175,
       "level_score": 16975,
       "duos_persona_min": "t!môn"
     },
     {
       "name": "ГабЭнОбновиИгру",
-      "rank": 174,
+      "rank": 176,
       "level_score": 16955,
       "duos_persona_min": "Shmonya"
     },
     {
       "name": "Oculus Prime",
-      "rank": 175,
+      "rank": 177,
       "level_score": 16935,
       "duos_persona_min": "gr0m0vnik"
     },
     {
       "name": "sOMELELELe",
-      "rank": 176,
+      "rank": 178,
       "level_score": 16930,
       "duos_persona_min": "SoMereR"
     },
     {
       "name": "Schlammköpfe",
-      "rank": 177,
+      "rank": 179,
       "level_score": 16870,
       "duos_persona_min": "SchlammIrn"
     },
     {
       "name": "Barbooun",
-      "rank": 178,
+      "rank": 180,
       "level_score": 16860,
       "duos_persona_min": "Boounty"
     },
     {
       "name": "Karmatic-Plim",
-      "rank": 179,
+      "rank": 181,
       "level_score": 16775,
       "duos_persona_min": "Karma"
     },
     {
       "name": "Бэркут сквад",
-      "rank": 180,
+      "rank": 182,
       "level_score": 16650,
       "duos_persona_min": "HolyPower"
     },
     {
       "name": "SupperKu",
-      "rank": 181,
+      "rank": 183,
       "level_score": 16645,
       "duos_persona_min": "KuSieuFake"
     },
     {
       "name": "Yigidolar!",
-      "rank": 182,
+      "rank": 184,
       "level_score": 16620,
       "duos_persona_min": "ali_celik88"
     },
     {
       "name": "Lord&Lady of WS",
-      "rank": 183,
+      "rank": 185,
       "level_score": 16610,
       "duos_persona_min": "firesnapcookie"
     },
     {
       "name": "Миша Бубылда",
-      "rank": 184,
+      "rank": 186,
       "level_score": 16550,
       "duos_persona_min": "предприниматель"
     },
     {
       "name": "YNWA Gunners",
-      "rank": 185,
+      "rank": 187,
       "level_score": 16550,
       "duos_persona_min": "KJey"
     },
     {
       "name": "mr. & ms. Smith",
-      "rank": 186,
+      "rank": 188,
       "level_score": 16500,
       "duos_persona_min": "LOGAN"
     },
     {
       "name": "Жумайсынба",
-      "rank": 187,
+      "rank": 189,
       "level_score": 16390,
       "duos_persona_min": "SPARTAK aka Fanta aka RulonOboev"
     },
     {
       "name": "фиксики",
-      "rank": 188,
+      "rank": 190,
       "level_score": 16385,
       "duos_persona_min": "Диезард"
     },
     {
       "name": "Heimer TOP",
-      "rank": 189,
+      "rank": 191,
       "level_score": 16305,
       "duos_persona_min": "Philopate"
     },
     {
       "name": "MU/GF Power Team",
-      "rank": 190,
+      "rank": 192,
       "level_score": 16270,
       "duos_persona_min": "catuaba"
     },
     {
       "name": "McBigDicks",
-      "rank": 191,
+      "rank": 193,
       "level_score": 16250,
       "duos_persona_min": "Bürgermeister"
     },
     {
       "name": "Boude Seerower",
-      "rank": 192,
+      "rank": 194,
       "level_score": 16175,
       "duos_persona_min": "DieAgterDeurBeer"
     },
     {
       "name": "qwaqwa",
-      "rank": 193,
+      "rank": 195,
       "level_score": 16155,
       "duos_persona_min": "Muxa75"
     },
     {
       "name": "SpittyOnTheDicky",
-      "rank": 194,
+      "rank": 196,
       "level_score": 16095,
       "duos_persona_min": "jemDAprune"
     },
     {
       "name": "Солевые джедаи",
-      "rank": 195,
+      "rank": 197,
       "level_score": 16085,
       "duos_persona_min": "Я ПИДАРАС"
     },
     {
       "name": "鏝狗痛失歐聯 MUC LOL",
-      "rank": 196,
+      "rank": 198,
       "level_score": 15905,
       "duos_persona_min": "收聲啦柒頭"
     },
     {
       "name": "ЁБАРИ ФЕТИШИСТЫ",
-      "rank": 197,
+      "rank": 199,
       "level_score": 15855,
       "duos_persona_min": "Дрифт(IGpаMoH)"
     },
     {
       "name": "ColdNoodleKiller",
-      "rank": 198,
+      "rank": 200,
       "level_score": 15850,
       "duos_persona_min": "Ai_Margarita"
     },
     {
       "name": "Два туза",
-      "rank": 199,
+      "rank": 201,
       "level_score": 15845,
       "duos_persona_min": "MAIN GUY"
     },
     {
       "name": "El Dotoro ",
-      "rank": 200,
+      "rank": 202,
       "level_score": 15830,
       "duos_persona_min": "Jolluit"
     },
     {
       "name": "2 Chill Stonerz",
-      "rank": 201,
+      "rank": 203,
       "level_score": 15820,
       "duos_persona_min": "beav"
     },
     {
       "name": "Team Titties",
-      "rank": 202,
+      "rank": 204,
       "level_score": 15815,
       "duos_persona_min": "josie_shz"
     },
     {
       "name": "Slavic sukas",
-      "rank": 203,
+      "rank": 205,
       "level_score": 15745,
       "duos_persona_min": "Anetkachan"
     },
     {
       "name": "gachi content",
-      "rank": 204,
+      "rank": 206,
       "level_score": 15705,
       "duos_persona_min": "Encore"
     },
     {
       "name": "петухинаместе",
-      "rank": 205,
+      "rank": 207,
       "level_score": 15705,
       "duos_persona_min": "КОРОЛЬ СВИНГА"
     },
     {
       "name": "Економисты",
-      "rank": 206,
+      "rank": 208,
       "level_score": 15680,
       "duos_persona_min": "M O R T E M"
     },
     {
       "name": "Rooster Rippers",
-      "rank": 207,
+      "rank": 209,
       "level_score": 15675,
       "duos_persona_min": "panda.sid.95"
     },
     {
       "name": "struyniy orgazm",
-      "rank": 208,
+      "rank": 210,
       "level_score": 15665,
       "duos_persona_min": "SlamB LYFT"
     },
     {
       "name": "Thing & Thinag",
-      "rank": 209,
+      "rank": 211,
       "level_score": 15665,
       "duos_persona_min": "Luna Eclipse"
     },
     {
       "name": "Pandanuts",
-      "rank": 210,
+      "rank": 212,
       "level_score": 15655,
       "duos_persona_min": "Horsenutable"
     },
     {
       "name": "НяшинаПакость",
-      "rank": 211,
+      "rank": 213,
       "level_score": 15585,
       "duos_persona_min": "Insy"
     },
     {
       "name": "Харьковские Гули",
-      "rank": 212,
+      "rank": 214,
       "level_score": 15525,
       "duos_persona_min": ".4/clclclock"
     },
     {
       "name": "Pipa & Pupa",
-      "rank": 213,
+      "rank": 215,
       "level_score": 15495,
       "duos_persona_min": "Petun1ya"
     },
     {
       "name": "Mad Dog",
-      "rank": 214,
+      "rank": 216,
       "level_score": 15485,
       "duos_persona_min": "Kidonz"
     },
     {
       "name": "The Black Queen",
-      "rank": 215,
+      "rank": 217,
       "level_score": 15485,
       "duos_persona_min": "Lucid"
     },
     {
       "name": "420SM0K3FR33",
-      "rank": 216,
+      "rank": 218,
       "level_score": 15435,
       "duos_persona_min": "Megasena"
     },
     {
       "name": "Jeźdźcy vódy",
-      "rank": 217,
+      "rank": 219,
       "level_score": 15410,
       "duos_persona_min": "robertmackowiak.87"
     },
     {
       "name": "Da machste Nyx",
-      "rank": 218,
+      "rank": 220,
       "level_score": 15405,
       "duos_persona_min": "FadeX ツ"
     },
     {
       "name": "Team Rocket",
-      "rank": 219,
+      "rank": 221,
       "level_score": 15355,
       "duos_persona_min": "James"
     },
     {
       "name": "TunariiDeMortar",
-      "rank": 220,
+      "rank": 222,
       "level_score": 15340,
       "duos_persona_min": "kyubiq94"
     },
     {
       "name": "www.идете на ХУЙ",
-      "rank": 221,
+      "rank": 223,
       "level_score": 15335,
       "duos_persona_min": "Грешник"
     },
     {
       "name": "€@z¥*!",
-      "rank": 222,
+      "rank": 224,
       "level_score": 15325,
       "duos_persona_min": "√♥春の革命♥¿"
     },
     {
       "name": "白色塔尖",
-      "rank": 223,
+      "rank": 225,
       "level_score": 15315,
       "duos_persona_min": "静滴丽咾"
     },
     {
       "name": "黑暗领主",
-      "rank": 224,
+      "rank": 226,
       "level_score": 15295,
       "duos_persona_min": "荔枝叶子"
     },
     {
       "name": "Valve update",
-      "rank": 225,
+      "rank": 227,
       "level_score": 15290,
       "duos_persona_min": "GLJIVA"
     },
     {
       "name": "Жопы в Огне",
-      "rank": 226,
+      "rank": 228,
       "level_score": 15290,
       "duos_persona_min": "lspxxx1"
     },
     {
       "name": "ДА НУ НА ХУЙ",
-      "rank": 227,
+      "rank": 229,
       "level_score": 15285,
       "duos_persona_min": "Babnik"
     },
     {
       "name": "蛇卡就是香",
-      "rank": 228,
+      "rank": 230,
       "level_score": 15280,
       "duos_persona_min": "卡香得亚皮"
     },
     {
+      "name": "Ьелые Шпили",
+      "rank": 231,
+      "level_score": 15280,
+      "duos_persona_min": "axxxone"
+    },
+    {
       "name": "Mommy and Daddy",
-      "rank": 229,
+      "rank": 232,
       "level_score": 15255,
       "duos_persona_min": "Simonka"
     },
     {
-      "name": "Ьелые Шпили",
-      "rank": 230,
-      "level_score": 15250,
-      "duos_persona_min": "axxxone"
-    },
-    {
       "name": "VCG",
-      "rank": 231,
+      "rank": 233,
       "level_score": 15245,
       "duos_persona_min": "Murmel"
     },
     {
       "name": "GazmyASS",
-      "rank": 232,
+      "rank": 234,
       "level_score": 15235,
       "duos_persona_min": "Mr.Sventovit"
     },
     {
       "name": "10 MG",
-      "rank": 233,
+      "rank": 235,
       "level_score": 15195,
       "duos_persona_min": "Cliquez"
     },
     {
       "name": "KOKSY DROPSY",
-      "rank": 234,
+      "rank": 236,
       "level_score": 15150,
       "duos_persona_min": "Matezz"
     },
     {
-      "name": "ChosenRoyals",
-      "rank": 235,
-      "level_score": 15100,
-      "duos_persona_min": "SchadeSchokolade"
-    },
-    {
       "name": "под нямку",
-      "rank": 236,
+      "rank": 237,
       "level_score": 15060,
       "duos_persona_min": "KTanyKaX"
     },
     {
       "name": "}{a4iki",
-      "rank": 237,
+      "rank": 238,
       "level_score": 15050,
       "duos_persona_min": "Strongest"
     },
     {
+      "name": "ChosenRoyals",
+      "rank": 239,
+      "level_score": 14870,
+      "duos_persona_min": "SchadeSchokolade"
+    },
+    {
       "name": "Lr Vegeta Nappa",
-      "rank": 238,
+      "rank": 240,
       "level_score": 14840,
       "duos_persona_min": "Game Over"
     },
     {
       "name": "Охота на хохлов",
-      "rank": 239,
+      "rank": 241,
       "level_score": 14810,
       "duos_persona_min": "[K] OpTeR"
     },
     {
       "name": "VAN DARKHOLe",
-      "rank": 240,
+      "rank": 242,
       "level_score": 14800,
       "duos_persona_min": "b1k"
     },
     {
       "name": "aal_group",
-      "rank": 241,
+      "rank": 243,
       "level_score": 14740,
       "duos_persona_min": "bel_den89"
     },
     {
       "name": "ФИОЛЕТ",
-      "rank": 242,
+      "rank": 244,
       "level_score": 14740,
       "duos_persona_min": "artemkondyukov"
     },
     {
       "name": "MiliMark",
-      "rank": 243,
+      "rank": 245,
       "level_score": 14725,
       "duos_persona_min": "Mili"
     },
     {
       "name": "hnct",
-      "rank": 244,
+      "rank": 246,
       "level_score": 14720,
       "duos_persona_min": "RedRush"
     },
     {
       "name": "Flying Penguins",
-      "rank": 245,
+      "rank": 247,
       "level_score": 14630,
       "duos_persona_min": "Shu"
     },
     {
       "name": "Original Gouvis",
-      "rank": 246,
+      "rank": 248,
       "level_score": 14475,
       "duos_persona_min": "Weissblech"
     },
     {
       "name": "两支小菜鸡",
-      "rank": 247,
+      "rank": 249,
       "level_score": 14350,
       "duos_persona_min": "换个名字吧！"
     },
     {
       "name": "Всем пiзда",
-      "rank": 248,
+      "rank": 250,
       "level_score": 14310,
       "duos_persona_min": "zluka"
     },
     {
       "name": "Marmot",
-      "rank": 249,
+      "rank": 251,
       "level_score": 14120,
       "duos_persona_min": "TkSpawn1"
     },
     {
       "name": "Симпл Димпл",
-      "rank": 250,
+      "rank": 252,
       "level_score": 14115,
       "duos_persona_min": "Ксюшенька."
     },
     {
       "name": "Go for the eyes!",
-      "rank": 251,
+      "rank": 253,
       "level_score": 14010,
       "duos_persona_min": "skallen"
     },
     {
       "name": "Chiki briki",
-      "rank": 252,
+      "rank": 254,
       "level_score": 13950,
       "duos_persona_min": "Шлакоблок"
     },
     {
       "name": "Аня Юры с химии ",
-      "rank": 253,
+      "rank": 255,
       "level_score": 13900,
       "duos_persona_min": "TuRok"
     },
     {
       "name": "PZDC TM*",
-      "rank": 254,
+      "rank": 256,
       "level_score": 13870,
       "duos_persona_min": "codeRED"
     },
     {
       "name": "ПиськиныЛорды",
-      "rank": 255,
+      "rank": 257,
       "level_score": 13845,
       "duos_persona_min": "Terq`"
     },
     {
       "name": "Bæsjen og tissen",
-      "rank": 256,
+      "rank": 258,
       "level_score": 13795,
       "duos_persona_min": "Ganesha"
     },
     {
       "name": "Ordo",
-      "rank": 257,
+      "rank": 259,
       "level_score": 13715,
       "duos_persona_min": "Arcijs"
     },
     {
       "name": "69извращенцы",
-      "rank": 258,
+      "rank": 260,
       "level_score": 13605,
       "duos_persona_min": "gurnickaya"
     },
     {
       "name": "Никак",
-      "rank": 259,
+      "rank": 261,
       "level_score": 13445,
       "duos_persona_min": "Jimbo"
     },
     {
       "name": "Midgard",
-      "rank": 260,
+      "rank": 262,
       "level_score": 13235,
       "duos_persona_min": "Gawr Gura"
     },
     {
       "name": "Тверские братья",
-      "rank": 261,
+      "rank": 263,
       "level_score": 12960,
       "duos_persona_min": "dispa.91"
     },
     {
       "name": "WO YAO NI DE AI",
-      "rank": 262,
+      "rank": 264,
       "level_score": 12885,
       "duos_persona_min": "COCOSLUT"
     },
     {
       "name": "  Zемлянички",
-      "rank": 263,
+      "rank": 265,
       "level_score": 12605,
       "duos_persona_min": "BeautyKosha"
     },
     {
       "name": "ВИРТУХАИ",
-      "rank": 264,
+      "rank": 266,
       "level_score": 12045,
       "duos_persona_min": "TARANTUL"
     },
     {
       "name": "Веселая какашка",
-      "rank": 265,
+      "rank": 267,
       "level_score": 11490,
       "duos_persona_min": "Levada"
     },
     {
       "name": "15minsJoyBehar",
-      "rank": 266,
+      "rank": 268,
       "level_score": 10855,
       "duos_persona_min": "Stardust"
     },
     {
       "name": "Cuquita y Pity",
-      "rank": 267,
+      "rank": 269,
       "level_score": 10605,
       "duos_persona_min": "IMBAZOR"
     },
     {
       "name": "Patate et Tomate",
-      "rank": 268,
+      "rank": 270,
       "level_score": 9600,
       "duos_persona_min": "Anagallis"
     }
