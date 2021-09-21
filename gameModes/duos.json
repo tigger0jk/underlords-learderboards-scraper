@@ -1,6 +1,6 @@
 {
-  "time_posted": 1632204797,
-  "next_scheduled_post_time": 1632204857,
+  "time_posted": 1632208398,
+  "next_scheduled_post_time": 1632208458,
   "leaderboard": [
     {
       "name": "懒羊羊",
@@ -11,7 +11,7 @@
     {
       "name": "Amaranda",
       "rank": 2,
-      "level_score": 134720,
+      "level_score": 134750,
       "duos_persona_min": "DD"
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "The Noobs",
       "rank": 9,
-      "level_score": 74335,
+      "level_score": 74535,
       "duos_persona_min": "confusa115"
     },
     {
@@ -531,22 +531,22 @@
       "duos_persona_min": "Tobirama"
     },
     {
-      "name": "Kartoffelsalat",
+      "name": "Os Mineiros",
       "rank": 89,
+      "level_score": 24130,
+      "duos_persona_min": "Zx10R"
+    },
+    {
+      "name": "Kartoffelsalat",
+      "rank": 90,
       "level_score": 24110,
       "duos_persona_min": "Alopetz"
     },
     {
       "name": "пупырышки",
-      "rank": 90,
+      "rank": 91,
       "level_score": 23990,
       "duos_persona_min": "uvargalanik8"
-    },
-    {
-      "name": "Os Mineiros",
-      "rank": 91,
-      "level_score": 23980,
-      "duos_persona_min": "Zx10R"
     },
     {
       "name": "Продам Гараж",
@@ -1041,22 +1041,22 @@
       "duos_persona_min": "axxxone"
     },
     {
-      "name": "Mezzo",
+      "name": "aal_group",
       "rank": 174,
+      "level_score": 16830,
+      "duos_persona_min": "bel_den89"
+    },
+    {
+      "name": "Mezzo",
+      "rank": 175,
       "level_score": 16805,
       "duos_persona_min": "theyoyofox"
     },
     {
       "name": "Шерстяные МАШИНЫ",
-      "rank": 175,
+      "rank": 176,
       "level_score": 16780,
       "duos_persona_min": "Inoumir"
-    },
-    {
-      "name": "aal_group",
-      "rank": 176,
-      "level_score": 16730,
-      "duos_persona_min": "bel_den89"
     },
     {
       "name": "Pandanuts",
@@ -1443,16 +1443,16 @@
       "duos_persona_min": "Erken"
     },
     {
-      "name": "Биба и Боба",
+      "name": "Ordo",
       "rank": 241,
-      "level_score": 14080,
-      "duos_persona_min": "Asyanya"
+      "level_score": 14175,
+      "duos_persona_min": "Arcijs"
     },
     {
-      "name": "Ordo",
+      "name": "Биба и Боба",
       "rank": 242,
-      "level_score": 13975,
-      "duos_persona_min": "Arcijs"
+      "level_score": 14080,
+      "duos_persona_min": "Asyanya"
     },
     {
       "name": "Go for the eyes!",
