@@ -1,6 +1,6 @@
 {
-  "time_posted": 1633993982,
-  "next_scheduled_post_time": 1633994042,
+  "time_posted": 1634001183,
+  "next_scheduled_post_time": 1634001243,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -155,7 +155,7 @@
     {
       "name": "Simon und Zumba",
       "rank": 26,
-      "level_score": 42815,
+      "level_score": 42615,
       "duos_persona_min": "322"
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "ex patronum",
       "rank": 30,
-      "level_score": 41385,
+      "level_score": 41255,
       "duos_persona_min": "bokitza"
     },
     {
@@ -959,7 +959,7 @@
     {
       "name": "Sarmale",
       "rank": 160,
-      "level_score": 15620,
+      "level_score": 15590,
       "duos_persona_min": "Emaaa"
     },
     {
@@ -1137,14 +1137,20 @@
       "duos_persona_min": "Levada"
     },
     {
-      "name": "  Zемлянички",
+      "name": "Cuquita y Pity",
       "rank": 190,
+      "level_score": 10575,
+      "duos_persona_min": "IMBAZOR"
+    },
+    {
+      "name": "  Zемлянички",
+      "rank": 191,
       "level_score": 10545,
       "duos_persona_min": "BeautyKosha"
     },
     {
       "name": "FendLaBise",
-      "rank": 191,
+      "rank": 192,
       "level_score": 10220,
       "duos_persona_min": "marie_ds"
     }
