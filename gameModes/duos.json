@@ -1,6 +1,6 @@
 {
-  "time_posted": 1634080382,
-  "next_scheduled_post_time": 1634080442,
+  "time_posted": 1634087598,
+  "next_scheduled_post_time": 1634087658,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -303,16 +303,16 @@
       "duos_persona_min": "Гарри Каспаров"
     },
     {
-      "name": "Собутыльники",
+      "name": "Dikko's",
       "rank": 51,
-      "level_score": 28540,
-      "duos_persona_min": "Combo"
+      "level_score": 28565,
+      "duos_persona_min": "Walrusman"
     },
     {
-      "name": "Dikko's",
+      "name": "Собутыльники",
       "rank": 52,
-      "level_score": 28465,
-      "duos_persona_min": "Walrusman"
+      "level_score": 28540,
+      "duos_persona_min": "Combo"
     },
     {
       "name": "入境一律自费隔离",
@@ -603,22 +603,22 @@
       "duos_persona_min": "IDidn'tKnowSheWas15"
     },
     {
-      "name": "MGLwarriors",
+      "name": "Kabluk United",
       "rank": 101,
+      "level_score": 19000,
+      "duos_persona_min": "Alone"
+    },
+    {
+      "name": "MGLwarriors",
+      "rank": 102,
       "level_score": 18910,
       "duos_persona_min": "FUUUCK"
     },
     {
       "name": "Schlammköpfe",
-      "rank": 102,
+      "rank": 103,
       "level_score": 18900,
       "duos_persona_min": "SchlammIrn"
-    },
-    {
-      "name": "Kabluk United",
-      "rank": 103,
-      "level_score": 18850,
-      "duos_persona_min": "Alone"
     },
     {
       "name": "TeamAika",
@@ -975,16 +975,16 @@
       "duos_persona_min": "L9Nine7Seven"
     },
     {
-      "name": "Sarmale",
-      "rank": 163,
-      "level_score": 15090,
-      "duos_persona_min": "Emaaa"
-    },
-    {
       "name": "RDL",
-      "rank": 164,
+      "rank": 163,
       "level_score": 15045,
       "duos_persona_min": "lsf"
+    },
+    {
+      "name": "Sarmale",
+      "rank": 164,
+      "level_score": 14990,
+      "duos_persona_min": "Emaaa"
     },
     {
       "name": " BLYA TM*",
