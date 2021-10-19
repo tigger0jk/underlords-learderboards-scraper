@@ -1,6 +1,6 @@
 {
-  "time_posted": 1634649197,
-  "next_scheduled_post_time": 1634649257,
+  "time_posted": 1634652796,
+  "next_scheduled_post_time": 1634652856,
   "leaderboard": [
     {
       "name": "懒羊羊",
@@ -239,7 +239,7 @@
     {
       "name": "Phineas and Ferb",
       "rank": 40,
-      "level_score": 33000,
+      "level_score": 33150,
       "duos_persona_min": "suhoruckovandrey"
     },
     {
@@ -287,7 +287,7 @@
     {
       "name": "MJ.DEEBOOO",
       "rank": 48,
-      "level_score": 29750,
+      "level_score": 29900,
       "duos_persona_min": "Mj"
     },
     {
@@ -335,7 +335,7 @@
     {
       "name": "养猫家庭",
       "rank": 56,
-      "level_score": 27645,
+      "level_score": 27675,
       "duos_persona_min": "Rose气泡水"
     },
     {
@@ -393,34 +393,34 @@
       "duos_persona_min": "Hmarius"
     },
     {
-      "name": "巴别塔之覆",
-      "rank": 66,
-      "level_score": 23275,
-      "duos_persona_min": "526925485"
-    },
-    {
       "name": "TeamTEAM",
-      "rank": 67,
+      "rank": 66,
       "level_score": 22955,
       "duos_persona_min": "techies"
     },
     {
-      "name": "top7-top8",
+      "name": "巴别塔之覆",
+      "rank": 67,
+      "level_score": 22925,
+      "duos_persona_min": "526925485"
+    },
+    {
+      "name": "Упоротый дуэт",
       "rank": 68,
+      "level_score": 22880,
+      "duos_persona_min": "Мелих"
+    },
+    {
+      "name": "top7-top8",
+      "rank": 69,
       "level_score": 22790,
       "duos_persona_min": "MOOD!?AQ"
     },
     {
       "name": "titushki",
-      "rank": 69,
+      "rank": 70,
       "level_score": 22735,
       "duos_persona_min": "xoka"
-    },
-    {
-      "name": "Упоротый дуэт",
-      "rank": 70,
-      "level_score": 22700,
-      "duos_persona_min": "Мелих"
     },
     {
       "name": "伪强队",
@@ -585,16 +585,16 @@
       "duos_persona_min": "Hywlarn"
     },
     {
-      "name": "MGLwarriors",
-      "rank": 98,
-      "level_score": 19590,
-      "duos_persona_min": "FUUUCK"
-    },
-    {
       "name": "aal_group",
-      "rank": 99,
+      "rank": 98,
       "level_score": 19540,
       "duos_persona_min": "bel_den89"
+    },
+    {
+      "name": "MGLwarriors",
+      "rank": 99,
+      "level_score": 19490,
+      "duos_persona_min": "FUUUCK"
     },
     {
       "name": "кактус",
@@ -605,7 +605,7 @@
     {
       "name": "сыны старых шлюх",
       "rank": 101,
-      "level_score": 19270,
+      "level_score": 19240,
       "duos_persona_min": "МИЛФ ХАНТЕР"
     },
     {
@@ -969,40 +969,40 @@
       "duos_persona_min": "Mr.Sventovit"
     },
     {
-      "name": "Timon u Pumba",
-      "rank": 162,
-      "level_score": 15110,
-      "duos_persona_min": "Oksi"
-    },
-    {
       "name": "Two of 'em",
-      "rank": 163,
+      "rank": 162,
       "level_score": 15000,
       "duos_persona_min": "sangfroid"
     },
     {
       "name": "Team Titties",
-      "rank": 164,
+      "rank": 163,
       "level_score": 14985,
       "duos_persona_min": "josie_shz"
     },
     {
       "name": "Уважаемые люди",
-      "rank": 165,
+      "rank": 164,
       "level_score": 14975,
       "duos_persona_min": "PiF-PaFf"
     },
     {
       "name": "DoubleTrouble",
-      "rank": 166,
+      "rank": 165,
       "level_score": 14970,
       "duos_persona_min": "lisul"
     },
     {
       "name": "Patch pls",
-      "rank": 167,
+      "rank": 166,
       "level_score": 14940,
       "duos_persona_min": "Laborde"
+    },
+    {
+      "name": "Timon u Pumba",
+      "rank": 167,
+      "level_score": 14910,
+      "duos_persona_min": "Oksi"
     },
     {
       "name": "下一把就琐血",
