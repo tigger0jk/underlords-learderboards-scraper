@@ -1,6 +1,6 @@
 {
-  "time_posted": 1638699183,
-  "next_scheduled_post_time": 1638699243,
+  "time_posted": 1638702782,
+  "next_scheduled_post_time": 1638702842,
   "leaderboard": [
     {
       "name": "Vua của Hà Nội ",
@@ -107,7 +107,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 18,
-      "level_score": 51340,
+      "level_score": 51540,
       "duos_persona_min": "Mutex"
     },
     {
@@ -275,7 +275,7 @@
     {
       "name": "Собутыльники",
       "rank": 46,
-      "level_score": 31310,
+      "level_score": 31110,
       "duos_persona_min": "Combo"
     },
     {
@@ -353,7 +353,7 @@
     {
       "name": "Open Fort Losers",
       "rank": 59,
-      "level_score": 25650,
+      "level_score": 25500,
       "duos_persona_min": "BatyCab"
     },
     {
@@ -501,22 +501,22 @@
       "duos_persona_min": "malov86"
     },
     {
-      "name": "Зай,убивай нахуй",
+      "name": "Mowmi Beybi",
       "rank": 84,
+      "level_score": 20990,
+      "duos_persona_min": "kate"
+    },
+    {
+      "name": "Зай,убивай нахуй",
+      "rank": 85,
       "level_score": 20980,
       "duos_persona_min": "Кловн"
     },
     {
       "name": "Электрики деж.",
-      "rank": 85,
+      "rank": 86,
       "level_score": 20805,
       "duos_persona_min": "{x}"
-    },
-    {
-      "name": "Mowmi Beybi",
-      "rank": 86,
-      "level_score": 20790,
-      "duos_persona_min": "kate"
     },
     {
       "name": "Dawgs",
@@ -545,7 +545,7 @@
     {
       "name": "PotatoPlowers",
       "rank": 91,
-      "level_score": 19975,
+      "level_score": 20075,
       "duos_persona_min": "Flotato"
     },
     {
@@ -801,16 +801,16 @@
       "duos_persona_min": "Zai"
     },
     {
-      "name": "WTF",
+      "name": "Father's soup",
       "rank": 134,
       "level_score": 15690,
-      "duos_persona_min": "LvK'n"
+      "duos_persona_min": "PashkaSkywalker"
     },
     {
-      "name": "Father's soup",
+      "name": "WTF",
       "rank": 135,
-      "level_score": 15690,
-      "duos_persona_min": "PashkaSkywalker"
+      "level_score": 15660,
+      "duos_persona_min": "LvK'n"
     },
     {
       "name": "Cibai + Lanciau",
@@ -921,68 +921,74 @@
       "duos_persona_min": "skallen"
     },
     {
-      "name": "Heffalumps",
+      "name": "УТКАГРАФ",
       "rank": 154,
+      "level_score": 14455,
+      "duos_persona_min": "GRAF4ik"
+    },
+    {
+      "name": "Heffalumps",
+      "rank": 155,
       "level_score": 14320,
       "duos_persona_min": "mariana"
     },
     {
       "name": "Lσʂιɳɠ Sƚɾҽαƙ",
-      "rank": 155,
+      "rank": 156,
       "level_score": 14305,
       "duos_persona_min": ".Mat"
     },
     {
       "name": "Ogre Mage",
-      "rank": 156,
+      "rank": 157,
       "level_score": 14275,
       "duos_persona_min": "_shuter_"
     },
     {
       "name": "❤️❤️🍻😊😆MiauMiau",
-      "rank": 157,
+      "rank": 158,
       "level_score": 13515,
       "duos_persona_min": "andrei"
     },
     {
       "name": "你爸爸",
-      "rank": 158,
+      "rank": 159,
       "level_score": 13345,
       "duos_persona_min": "丝与宝贝"
     },
     {
       "name": "Уважаемые люди",
-      "rank": 159,
+      "rank": 160,
       "level_score": 13135,
       "duos_persona_min": "PiF-PaFf"
     },
     {
       "name": "无聊的不要哒卵",
-      "rank": 160,
+      "rank": 161,
       "level_score": 12785,
       "duos_persona_min": "指尖烟草味"
     },
     {
       "name": "",
-      "rank": 161,
+      "rank": 162,
       "level_score": 10925,
       "duos_persona_min": "Sarka"
     },
     {
       "name": "ДЕДОВЫ ТРАНКИ",
-      "rank": 162,
+      "rank": 163,
       "level_score": 10770,
       "duos_persona_min": "aquata"
     },
     {
       "name": "扫黄打非",
-      "rank": 163,
+      "rank": 164,
       "level_score": 8550,
       "duos_persona_min": "Ace Kiki"
     },
     {
       "name": "FendLaBise",
-      "rank": 164,
+      "rank": 165,
       "level_score": 8490,
       "duos_persona_min": "marie_ds"
     }
