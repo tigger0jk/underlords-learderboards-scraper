@@ -1,11 +1,11 @@
 {
-  "time_posted": 1639300383,
-  "next_scheduled_post_time": 1639300443,
+  "time_posted": 1639303982,
+  "next_scheduled_post_time": 1639304042,
   "leaderboard": [
     {
       "name": "Amaranda",
       "rank": 1,
-      "level_score": 147500,
+      "level_score": 147400,
       "duos_persona_min": "DD"
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Next Level Play",
       "rank": 17,
-      "level_score": 60025,
+      "level_score": 60125,
       "duos_persona_min": "CrackerJack"
     },
     {
@@ -527,7 +527,7 @@
     {
       "name": "楠婷",
       "rank": 88,
-      "level_score": 20520,
+      "level_score": 20490,
       "duos_persona_min": "琬儿"
     },
     {
@@ -663,16 +663,16 @@
       "duos_persona_min": "Еблøøтßо∂"
     },
     {
-      "name": "Економисты",
-      "rank": 111,
-      "level_score": 17070,
-      "duos_persona_min": "M O R T E M"
-    },
-    {
       "name": "98 flow ",
-      "rank": 112,
+      "rank": 111,
       "level_score": 17035,
       "duos_persona_min": "Oxxxymicron"
+    },
+    {
+      "name": "Економисты",
+      "rank": 112,
+      "level_score": 16920,
+      "duos_persona_min": "M O R T E M"
     },
     {
       "name": "ZiZorg",
@@ -867,40 +867,52 @@
       "duos_persona_min": "Root0ShadowLT"
     },
     {
-      "name": "Go for the eyes!",
+      "name": "hnct",
       "rank": 145,
+      "level_score": 14300,
+      "duos_persona_min": "RedRush"
+    },
+    {
+      "name": "Go for the eyes!",
+      "rank": 146,
       "level_score": 14240,
       "duos_persona_min": "skallen"
     },
     {
       "name": "Original Gouvis",
-      "rank": 146,
+      "rank": 147,
       "level_score": 13915,
       "duos_persona_min": "Weissblech"
     },
     {
       "name": "Mental fedme",
-      "rank": 147,
+      "rank": 148,
       "level_score": 13405,
       "duos_persona_min": "PsychoTzar"
     },
     {
       "name": "❤️❤️🍻😊😆MiauMiau",
-      "rank": 148,
+      "rank": 149,
       "level_score": 13265,
       "duos_persona_min": "andrei"
     },
     {
       "name": "Ordo",
-      "rank": 149,
+      "rank": 150,
       "level_score": 12955,
       "duos_persona_min": "Arcijs"
     },
     {
       "name": "Marmot",
-      "rank": 150,
+      "rank": 151,
       "level_score": 12730,
       "duos_persona_min": "TkSpawn1"
+    },
+    {
+      "name": "FendLaBise",
+      "rank": 152,
+      "level_score": 8400,
+      "duos_persona_min": "marie_ds"
     }
   ],
   "success": true
