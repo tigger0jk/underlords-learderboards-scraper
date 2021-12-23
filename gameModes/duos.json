@@ -1,6 +1,6 @@
 {
-  "time_posted": 1640265183,
-  "next_scheduled_post_time": 1640265243,
+  "time_posted": 1640268783,
+  "next_scheduled_post_time": 1640268843,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -95,7 +95,7 @@
     {
       "name": "NAMIMIW",
       "rank": 16,
-      "level_score": 57820,
+      "level_score": 58020,
       "duos_persona_min": "igris"
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "Blutklingen",
       "rank": 29,
-      "level_score": 42325,
+      "level_score": 42225,
       "duos_persona_min": "Ignifor"
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "Phineas and Ferb",
       "rank": 32,
-      "level_score": 37060,
+      "level_score": 37090,
       "duos_persona_min": "suhoruckovandrey"
     },
     {
@@ -279,16 +279,16 @@
       "duos_persona_min": "MOOD!?AQ"
     },
     {
-      "name": "Упоротый дуэт",
-      "rank": 47,
-      "level_score": 28000,
-      "duos_persona_min": "Мелих"
-    },
-    {
       "name": "One Big Holiday",
-      "rank": 48,
+      "rank": 47,
       "level_score": 27875,
       "duos_persona_min": "81waves"
+    },
+    {
+      "name": "Упоротый дуэт",
+      "rank": 48,
+      "level_score": 27850,
+      "duos_persona_min": "Мелих"
     },
     {
       "name": "МАТЬ ЗА ТРИПЛЕТ?",
@@ -333,16 +333,16 @@
       "duos_persona_min": "ЛОРД КУКОЛД"
     },
     {
-      "name": "Steppe",
+      "name": "attwition",
       "rank": 56,
-      "level_score": 24570,
-      "duos_persona_min": "EZ"
+      "level_score": 24600,
+      "duos_persona_min": "Ruse"
     },
     {
-      "name": "attwition",
+      "name": "Steppe",
       "rank": 57,
-      "level_score": 24500,
-      "duos_persona_min": "Ruse"
+      "level_score": 24570,
+      "duos_persona_min": "EZ"
     },
     {
       "name": "SupperKu",
@@ -441,16 +441,16 @@
       "duos_persona_min": "Gressin Vigoureux"
     },
     {
-      "name": "Mommy and Daddy",
+      "name": "wdk协议",
       "rank": 74,
       "level_score": 19735,
-      "duos_persona_min": "Simonka"
+      "duos_persona_min": "ospunk"
     },
     {
-      "name": "wdk协议",
+      "name": "Mommy and Daddy",
       "rank": 75,
-      "level_score": 19585,
-      "duos_persona_min": "ospunk"
+      "level_score": 19735,
+      "duos_persona_min": "Simonka"
     },
     {
       "name": "DumbleDoodies",
@@ -753,21 +753,15 @@
       "duos_persona_min": "andrei"
     },
     {
-      "name": "Marmot",
-      "rank": 126,
-      "level_score": 12880,
-      "duos_persona_min": "TkSpawn1"
-    },
-    {
       "name": "Cuquita y Pity",
-      "rank": 127,
+      "rank": 126,
       "level_score": 10745,
       "duos_persona_min": "IMBAZOR"
     },
     {
       "name": "FendLaBise",
-      "rank": 128,
-      "level_score": 8860,
+      "rank": 127,
+      "level_score": 9010,
       "duos_persona_min": "marie_ds"
     }
   ],
