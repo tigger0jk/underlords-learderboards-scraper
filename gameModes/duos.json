@@ -1,6 +1,6 @@
 {
-  "time_posted": 1640697183,
-  "next_scheduled_post_time": 1640697243,
+  "time_posted": 1640700784,
+  "next_scheduled_post_time": 1640700844,
   "leaderboard": [
     {
       "name": "Vua của Hà Nội ",
@@ -143,7 +143,7 @@
     {
       "name": "Потрогано",
       "rank": 24,
-      "level_score": 40790,
+      "level_score": 40940,
       "duos_persona_min": "Затащи"
     },
     {
@@ -233,7 +233,7 @@
     {
       "name": "пепси",
       "rank": 39,
-      "level_score": 31255,
+      "level_score": 31055,
       "duos_persona_min": "24"
     },
     {
@@ -263,7 +263,7 @@
     {
       "name": "Упоротый дуэт",
       "rank": 44,
-      "level_score": 28350,
+      "level_score": 28320,
       "duos_persona_min": "Мелих"
     },
     {
@@ -363,16 +363,16 @@
       "duos_persona_min": "Ruse"
     },
     {
-      "name": "Rip Again",
+      "name": "巴别塔之覆",
       "rank": 61,
-      "level_score": 24735,
-      "duos_persona_min": "Nyx"
+      "level_score": 24775,
+      "duos_persona_min": "526925485"
     },
     {
-      "name": "巴别塔之覆",
+      "name": "Rip Again",
       "rank": 62,
-      "level_score": 24725,
-      "duos_persona_min": "526925485"
+      "level_score": 24735,
+      "duos_persona_min": "Nyx"
     },
     {
       "name": "Steppe",
@@ -435,16 +435,16 @@
       "duos_persona_min": "Haxx"
     },
     {
-      "name": "lvkrn:*",
+      "name": "MGLwarriors",
       "rank": 73,
-      "level_score": 21465,
-      "duos_persona_min": "freak <3shtex"
+      "level_score": 21490,
+      "duos_persona_min": "FUUUCK"
     },
     {
-      "name": "MGLwarriors",
+      "name": "lvkrn:*",
       "rank": 74,
-      "level_score": 21460,
-      "duos_persona_min": "FUUUCK"
+      "level_score": 21465,
+      "duos_persona_min": "freak <3shtex"
     },
     {
       "name": "Домашняя",
@@ -551,7 +551,7 @@
     {
       "name": "Lytoumbos K.T",
       "rank": 92,
-      "level_score": 18585,
+      "level_score": 18735,
       "duos_persona_min": "Stami"
     },
     {
@@ -719,7 +719,7 @@
     {
       "name": "2 man Show",
       "rank": 120,
-      "level_score": 15760,
+      "level_score": 15860,
       "duos_persona_min": "Dadomeister"
     },
     {
@@ -729,16 +729,16 @@
       "duos_persona_min": "夝天"
     },
     {
-      "name": "GK",
-      "rank": 122,
-      "level_score": 15690,
-      "duos_persona_min": "ILT丶DD"
-    },
-    {
       "name": "The Howlers ",
-      "rank": 123,
+      "rank": 122,
       "level_score": 15660,
       "duos_persona_min": "Darrow"
+    },
+    {
+      "name": "GK",
+      "rank": 123,
+      "level_score": 15660,
+      "duos_persona_min": "ILT丶DD"
     },
     {
       "name": "Team Rocket",
@@ -879,16 +879,16 @@
       "duos_persona_min": "Sarka"
     },
     {
-      "name": "Leteci Stojko",
+      "name": "FendLaBise",
       "rank": 147,
-      "level_score": 8775,
-      "duos_persona_min": "NoPain"
+      "level_score": 8890,
+      "duos_persona_min": "marie_ds"
     },
     {
-      "name": "FendLaBise",
+      "name": "Leteci Stojko",
       "rank": 148,
-      "level_score": 8690,
-      "duos_persona_min": "marie_ds"
+      "level_score": 8775,
+      "duos_persona_min": "NoPain"
     }
   ],
   "success": true
