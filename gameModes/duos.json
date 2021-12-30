@@ -1,6 +1,6 @@
 {
-  "time_posted": 1640880783,
-  "next_scheduled_post_time": 1640880843,
+  "time_posted": 1640884386,
+  "next_scheduled_post_time": 1640884446,
   "leaderboard": [
     {
       "name": "2hp",
@@ -17,7 +17,7 @@
     {
       "name": "ебем всех",
       "rank": 3,
-      "level_score": 82135,
+      "level_score": 82165,
       "duos_persona_min": "_MAD_"
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "Toxic Bitches",
       "rank": 5,
-      "level_score": 73260,
+      "level_score": 73290,
       "duos_persona_min": "stalekc"
     },
     {
@@ -83,7 +83,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 14,
-      "level_score": 55530,
+      "level_score": 55730,
       "duos_persona_min": "Mutex"
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "WE ARE GROOT",
       "rank": 17,
-      "level_score": 48900,
+      "level_score": 49000,
       "duos_persona_min": "Sparky73"
     },
     {
@@ -243,16 +243,16 @@
       "duos_persona_min": "24"
     },
     {
-      "name": "Склад Хуёв",
-      "rank": 41,
-      "level_score": 30920,
-      "duos_persona_min": "76561198202225107"
-    },
-    {
       "name": "MartiniLovers",
-      "rank": 42,
+      "rank": 41,
       "level_score": 30545,
       "duos_persona_min": "Tapas"
+    },
+    {
+      "name": "Склад Хуёв",
+      "rank": 42,
+      "level_score": 30520,
+      "duos_persona_min": "76561198202225107"
     },
     {
       "name": "Dikko's",
@@ -275,7 +275,7 @@
     {
       "name": "2 Maiden 1 Tusk",
       "rank": 46,
-      "level_score": 28385,
+      "level_score": 28585,
       "duos_persona_min": "Hmarius"
     },
     {
@@ -647,7 +647,7 @@
     {
       "name": "Vikings!",
       "rank": 108,
-      "level_score": 17935,
+      "level_score": 17905,
       "duos_persona_min": "yigg"
     },
     {
@@ -911,7 +911,7 @@
     {
       "name": "FendLaBise",
       "rank": 152,
-      "level_score": 8660,
+      "level_score": 8860,
       "duos_persona_min": "marie_ds"
     }
   ],
