@@ -1,6 +1,6 @@
 {
-  "time_posted": 1640956383,
-  "next_scheduled_post_time": 1640956443,
+  "time_posted": 1640959986,
+  "next_scheduled_post_time": 1640960046,
   "leaderboard": [
     {
       "name": "2hp",
@@ -107,7 +107,7 @@
     {
       "name": "Cassage de fion",
       "rank": 18,
-      "level_score": 48900,
+      "level_score": 49000,
       "duos_persona_min": "Cortez"
     },
     {
@@ -351,16 +351,16 @@
       "duos_persona_min": "EZ"
     },
     {
-      "name": "巴别塔之覆",
+      "name": "Rip Again",
       "rank": 59,
-      "level_score": 25175,
-      "duos_persona_min": "526925485"
+      "level_score": 25285,
+      "duos_persona_min": "Nyx"
     },
     {
-      "name": "Rip Again",
+      "name": "巴别塔之覆",
       "rank": 60,
-      "level_score": 25135,
-      "duos_persona_min": "Nyx"
+      "level_score": 25175,
+      "duos_persona_min": "526925485"
     },
     {
       "name": "Katsapliades",
@@ -663,28 +663,28 @@
       "duos_persona_min": "IglooBird"
     },
     {
-      "name": "DJP",
+      "name": "bad luckers",
       "rank": 111,
+      "level_score": 16615,
+      "duos_persona_min": "Giles"
+    },
+    {
+      "name": "DJP",
+      "rank": 112,
       "level_score": 16595,
       "duos_persona_min": "►DJP◄ Player 2: Danulineček"
     },
     {
       "name": "DoubleTrouble",
-      "rank": 112,
+      "rank": 113,
       "level_score": 16550,
       "duos_persona_min": "lisul"
     },
     {
       "name": "DerankingService",
-      "rank": 113,
+      "rank": 114,
       "level_score": 16490,
       "duos_persona_min": "Schtieglitz"
-    },
-    {
-      "name": "bad luckers",
-      "rank": 114,
-      "level_score": 16415,
-      "duos_persona_min": "Giles"
     },
     {
       "name": "KYS",
@@ -795,22 +795,22 @@
       "duos_persona_min": "NEREGEN"
     },
     {
-      "name": "MORON",
-      "rank": 133,
-      "level_score": 14985,
-      "duos_persona_min": "\"Nano\""
-    },
-    {
       "name": "Cibai + Lanciau",
-      "rank": 134,
+      "rank": 133,
       "level_score": 14955,
       "duos_persona_min": "Combat_Phoenix"
     },
     {
       "name": "Как Папич учил!",
-      "rank": 135,
+      "rank": 134,
       "level_score": 14920,
       "duos_persona_min": "Nani"
+    },
+    {
+      "name": "MORON",
+      "rank": 135,
+      "level_score": 14885,
+      "duos_persona_min": "\"Nano\""
     },
     {
       "name": "Крепкие вложения",
@@ -857,7 +857,7 @@
     {
       "name": "BuTaЛя 6apMaTyXa",
       "rank": 143,
-      "level_score": 13295,
+      "level_score": 13095,
       "duos_persona_min": "†6apMaTyXa†"
     },
     {
@@ -881,7 +881,7 @@
     {
       "name": "FendLaBise",
       "rank": 147,
-      "level_score": 8860,
+      "level_score": 8890,
       "duos_persona_min": "marie_ds"
     }
   ],
