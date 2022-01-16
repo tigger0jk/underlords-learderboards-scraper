@@ -1,11 +1,11 @@
 {
-  "time_posted": 1642331598,
-  "next_scheduled_post_time": 1642331658,
+  "time_posted": 1642335198,
+  "next_scheduled_post_time": 1642335258,
   "leaderboard": [
     {
       "name": "Amaranda",
       "rank": 1,
-      "level_score": 150420,
+      "level_score": 150490,
       "duos_persona_min": "DD"
     },
     {
@@ -113,7 +113,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 19,
-      "level_score": 58890,
+      "level_score": 59090,
       "duos_persona_min": "Mutex"
     },
     {
@@ -327,28 +327,28 @@
       "duos_persona_min": "ЛОРД КУКОЛД"
     },
     {
-      "name": "TILDEATHDOUSPART",
+      "name": "жарим лохов",
       "rank": 55,
+      "level_score": 25180,
+      "duos_persona_min": "Xoxol"
+    },
+    {
+      "name": "TILDEATHDOUSPART",
+      "rank": 56,
       "level_score": 25135,
       "duos_persona_min": "[TDDUP<3]-Whitewalkers"
     },
     {
       "name": "巴别塔之覆",
-      "rank": 56,
+      "rank": 57,
       "level_score": 25055,
       "duos_persona_min": "526925485"
     },
     {
       "name": "4 MotherRussia",
-      "rank": 57,
+      "rank": 58,
       "level_score": 25010,
       "duos_persona_min": "TOTIK"
-    },
-    {
-      "name": "жарим лохов",
-      "rank": 58,
-      "level_score": 24980,
-      "duos_persona_min": "Xoxol"
     },
     {
       "name": "shh, it's secret",
@@ -425,7 +425,7 @@
     {
       "name": "AnimeShmanime",
       "rank": 71,
-      "level_score": 20495,
+      "level_score": 20645,
       "duos_persona_min": "Hakiro Isuzu"
     },
     {
@@ -777,16 +777,16 @@
       "duos_persona_min": "指尖烟草味"
     },
     {
-      "name": "❤️❤️🍻😊😆MiauMiau",
-      "rank": 130,
-      "level_score": 12525,
-      "duos_persona_min": "andrei"
-    },
-    {
       "name": "Bæsjen og tissen",
-      "rank": 131,
+      "rank": 130,
       "level_score": 12415,
       "duos_persona_min": "Ganesha"
+    },
+    {
+      "name": "❤️❤️🍻😊😆MiauMiau",
+      "rank": 131,
+      "level_score": 12375,
+      "duos_persona_min": "andrei"
     },
     {
       "name": "Cuquita y Pity",
@@ -797,7 +797,7 @@
     {
       "name": "FendLaBise",
       "rank": 133,
-      "level_score": 8350,
+      "level_score": 8380,
       "duos_persona_min": "marie_ds"
     }
   ],
