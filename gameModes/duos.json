@@ -1,6 +1,6 @@
 {
-  "time_posted": 1642842782,
-  "next_scheduled_post_time": 1642842842,
+  "time_posted": 1642846382,
+  "next_scheduled_post_time": 1642846442,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -113,7 +113,7 @@
     {
       "name": "Bottom Boys",
       "rank": 19,
-      "level_score": 45195,
+      "level_score": 45395,
       "duos_persona_min": "֎"
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Blutklingen",
       "rank": 21,
-      "level_score": 43725,
+      "level_score": 43925,
       "duos_persona_min": "Ignifor"
     },
     {
@@ -405,16 +405,16 @@
       "duos_persona_min": "chaurelly"
     },
     {
-      "name": "обновите игру",
+      "name": "Tinderlords",
       "rank": 68,
-      "level_score": 18450,
-      "duos_persona_min": "Каспаров Гари"
+      "level_score": 18515,
+      "duos_persona_min": "Ero±ar"
     },
     {
-      "name": "Tinderlords",
+      "name": "обновите игру",
       "rank": 69,
-      "level_score": 18365,
-      "duos_persona_min": "Ero±ar"
+      "level_score": 18450,
+      "duos_persona_min": "Каспаров Гари"
     },
     {
       "name": "WSVP",
@@ -525,16 +525,16 @@
       "duos_persona_min": "Just 3lb0!"
     },
     {
-      "name": "Cibai + Lanciau",
+      "name": "Shit Breakers",
       "rank": 88,
       "level_score": 15925,
-      "duos_persona_min": "Combat_Phoenix"
+      "duos_persona_min": "Funky"
     },
     {
-      "name": "Shit Breakers",
+      "name": "Cibai + Lanciau",
       "rank": 89,
       "level_score": 15925,
-      "duos_persona_min": "Funky"
+      "duos_persona_min": "Combat_Phoenix"
     },
     {
       "name": "Boude Seerower",
@@ -681,16 +681,16 @@
       "duos_persona_min": "tinkril"
     },
     {
-      "name": "Данюшки",
+      "name": "Original Gouvis",
       "rank": 114,
       "level_score": 13655,
-      "duos_persona_min": "神圣的雨"
+      "duos_persona_min": "Weissblech"
     },
     {
-      "name": "Original Gouvis",
+      "name": "Данюшки",
       "rank": 115,
       "level_score": 13655,
-      "duos_persona_min": "Weissblech"
+      "duos_persona_min": "神圣的雨"
     },
     {
       "name": "VCG",
@@ -721,6 +721,12 @@
       "rank": 120,
       "level_score": 11925,
       "duos_persona_min": "andrei"
+    },
+    {
+      "name": "FendLaBise",
+      "rank": 121,
+      "level_score": 8360,
+      "duos_persona_min": "marie_ds"
     }
   ],
   "success": true
