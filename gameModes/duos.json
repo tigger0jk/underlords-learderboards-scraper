@@ -1,6 +1,6 @@
 {
-  "time_posted": 1643116382,
-  "next_scheduled_post_time": 1643116442,
+  "time_posted": 1643119981,
+  "next_scheduled_post_time": 1643120041,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -71,7 +71,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 12,
-      "level_score": 62590,
+      "level_score": 62560,
       "duos_persona_min": "Mutex"
     },
     {
@@ -245,7 +245,7 @@
     {
       "name": "Упоротый дуэт",
       "rank": 41,
-      "level_score": 30160,
+      "level_score": 30190,
       "duos_persona_min": "Мелих"
     },
     {
@@ -371,7 +371,7 @@
     {
       "name": "LYFT",
       "rank": 62,
-      "level_score": 23485,
+      "level_score": 23335,
       "duos_persona_min": "SlamB LYFT"
     },
     {
@@ -405,16 +405,16 @@
       "duos_persona_min": "Gressin Vigoureux"
     },
     {
-      "name": "Corona positive",
-      "rank": 68,
-      "level_score": 20450,
-      "duos_persona_min": "noah.urseanu"
-    },
-    {
       "name": "Too old to play",
-      "rank": 69,
+      "rank": 68,
       "level_score": 20300,
       "duos_persona_min": "SILENT4ever"
+    },
+    {
+      "name": "Corona positive",
+      "rank": 69,
+      "level_score": 20300,
+      "duos_persona_min": "noah.urseanu"
     },
     {
       "name": "ТЕРЕМ",
@@ -555,22 +555,22 @@
       "duos_persona_min": "Sera"
     },
     {
-      "name": "The Boss & Boss",
+      "name": "EXIBM",
       "rank": 93,
+      "level_score": 17000,
+      "duos_persona_min": "Silent_Bob"
+    },
+    {
+      "name": "The Boss & Boss",
+      "rank": 94,
       "level_score": 16890,
       "duos_persona_min": "butzig66™"
     },
     {
       "name": "Bridge 4",
-      "rank": 94,
+      "rank": 95,
       "level_score": 16810,
       "duos_persona_min": "13awler"
-    },
-    {
-      "name": "EXIBM",
-      "rank": 95,
-      "level_score": 16800,
-      "duos_persona_min": "Silent_Bob"
     },
     {
       "name": "Shit Breakers",
@@ -611,7 +611,7 @@
     {
       "name": "Boude Seerower",
       "rank": 102,
-      "level_score": 16035,
+      "level_score": 16185,
       "duos_persona_min": "DieAgterDeurBeer"
     },
     {
@@ -785,7 +785,7 @@
     {
       "name": "Bæsjen og tissen",
       "rank": 131,
-      "level_score": 11915,
+      "level_score": 11715,
       "duos_persona_min": "Ganesha"
     },
     {
