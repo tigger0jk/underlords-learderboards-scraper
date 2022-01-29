@@ -1,11 +1,11 @@
 {
-  "time_posted": 1643418782,
-  "next_scheduled_post_time": 1643418842,
+  "time_posted": 1643422383,
+  "next_scheduled_post_time": 1643422443,
   "leaderboard": [
     {
       "name": "Amaranda",
       "rank": 1,
-      "level_score": 157720,
+      "level_score": 157820,
       "duos_persona_min": "DD"
     },
     {
@@ -585,22 +585,22 @@
       "duos_persona_min": "[WarLords] Sandrey"
     },
     {
-      "name": "Untameables",
+      "name": "",
       "rank": 98,
+      "level_score": 15570,
+      "duos_persona_min": "m0g1"
+    },
+    {
+      "name": "Untameables",
+      "rank": 99,
       "level_score": 15415,
       "duos_persona_min": "264you"
     },
     {
       "name": "Chiki briki",
-      "rank": 99,
+      "rank": 100,
       "level_score": 15380,
       "duos_persona_min": "Шлакоблок"
-    },
-    {
-      "name": "",
-      "rank": 100,
-      "level_score": 15370,
-      "duos_persona_min": "m0g1"
     },
     {
       "name": "GK",
@@ -669,16 +669,16 @@
       "duos_persona_min": "Kidonz"
     },
     {
-      "name": "Данюшки",
-      "rank": 112,
-      "level_score": 13705,
-      "duos_persona_min": "神圣的雨"
-    },
-    {
       "name": "BuTaЛя 6apMaTyXa",
-      "rank": 113,
+      "rank": 112,
       "level_score": 13645,
       "duos_persona_min": "†6apMaTyXa†"
+    },
+    {
+      "name": "Данюшки",
+      "rank": 113,
+      "level_score": 13605,
+      "duos_persona_min": "神圣的雨"
     },
     {
       "name": "Original Gouvis",
