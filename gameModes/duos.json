@@ -1,11 +1,11 @@
 {
-  "time_posted": 1645351983,
-  "next_scheduled_post_time": 1645352043,
+  "time_posted": 1645355582,
+  "next_scheduled_post_time": 1645355642,
   "leaderboard": [
     {
       "name": "Amaranda",
       "rank": 1,
-      "level_score": 169800,
+      "level_score": 169830,
       "duos_persona_min": "DD"
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 5,
-      "level_score": 68030,
+      "level_score": 68180,
       "duos_persona_min": "Mutex"
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "Kaelas",
       "rank": 40,
-      "level_score": 30035,
+      "level_score": 29885,
       "duos_persona_min": "Raven"
     },
     {
@@ -335,7 +335,7 @@
     {
       "name": "ForSocialism",
       "rank": 56,
-      "level_score": 22930,
+      "level_score": 23130,
       "duos_persona_min": "ForSocialism"
     },
     {
@@ -401,7 +401,7 @@
     {
       "name": "Tinderlords",
       "rank": 67,
-      "level_score": 19945,
+      "level_score": 19975,
       "duos_persona_min": "Ero±ar"
     },
     {
@@ -425,7 +425,7 @@
     {
       "name": "2 man Show",
       "rank": 71,
-      "level_score": 18870,
+      "level_score": 18820,
       "duos_persona_min": "Dadomeister"
     },
     {
@@ -455,7 +455,7 @@
     {
       "name": "AMK FB live ",
       "rank": 76,
-      "level_score": 18040,
+      "level_score": 18240,
       "duos_persona_min": "AMK9"
     },
     {
@@ -479,7 +479,7 @@
     {
       "name": "Goda kompisar",
       "rank": 80,
-      "level_score": 17655,
+      "level_score": 17625,
       "duos_persona_min": "Vladimir"
     },
     {
@@ -585,28 +585,28 @@
       "duos_persona_min": "LOrain"
     },
     {
-      "name": "КустикиНаЖопе",
+      "name": "Блатной Удар",
       "rank": 98,
+      "level_score": 15715,
+      "duos_persona_min": "BOT (AI)"
+    },
+    {
+      "name": "КустикиНаЖопе",
+      "rank": 99,
       "level_score": 15710,
       "duos_persona_min": "Mr.Liga"
     },
     {
+      "name": "Bros before hoes",
+      "rank": 100,
+      "level_score": 15675,
+      "duos_persona_min": "WCYD"
+    },
+    {
       "name": "AdolfKitzler",
-      "rank": 99,
+      "rank": 101,
       "level_score": 15675,
       "duos_persona_min": "Swansonson"
-    },
-    {
-      "name": "Блатной Удар",
-      "rank": 100,
-      "level_score": 15615,
-      "duos_persona_min": "BOT (AI)"
-    },
-    {
-      "name": "Bros before hoes",
-      "rank": 101,
-      "level_score": 15575,
-      "duos_persona_min": "WCYD"
     },
     {
       "name": "Gockelgang",
