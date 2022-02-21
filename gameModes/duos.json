@@ -1,6 +1,6 @@
 {
-  "time_posted": 1645441982,
-  "next_scheduled_post_time": 1645442042,
+  "time_posted": 1645445582,
+  "next_scheduled_post_time": 1645445642,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -191,7 +191,7 @@
     {
       "name": "пепси",
       "rank": 32,
-      "level_score": 32255,
+      "level_score": 32355,
       "duos_persona_min": "24"
     },
     {
@@ -251,7 +251,7 @@
     {
       "name": "巴别塔之覆",
       "rank": 42,
-      "level_score": 27205,
+      "level_score": 27405,
       "duos_persona_min": "526925485"
     },
     {
@@ -417,16 +417,16 @@
       "duos_persona_min": "Simonka"
     },
     {
-      "name": "Tinderlords",
-      "rank": 70,
-      "level_score": 20175,
-      "duos_persona_min": "Ero±ar"
-    },
-    {
       "name": "Kayak Team",
-      "rank": 71,
+      "rank": 70,
       "level_score": 20130,
       "duos_persona_min": "Infi"
+    },
+    {
+      "name": "Tinderlords",
+      "rank": 71,
+      "level_score": 20005,
+      "duos_persona_min": "Ero±ar"
     },
     {
       "name": "Doggos",
