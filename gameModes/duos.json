@@ -1,11 +1,11 @@
 {
-  "time_posted": 1645531983,
-  "next_scheduled_post_time": 1645532043,
+  "time_posted": 1645535582,
+  "next_scheduled_post_time": 1645535642,
   "leaderboard": [
     {
       "name": "Amaranda",
       "rank": 1,
-      "level_score": 170810,
+      "level_score": 170510,
       "duos_persona_min": "DD"
     },
     {
@@ -305,7 +305,7 @@
     {
       "name": "пупырышки",
       "rank": 51,
-      "level_score": 24850,
+      "level_score": 25050,
       "duos_persona_min": "uvargalanik8"
     },
     {
@@ -525,22 +525,22 @@
       "duos_persona_min": "Beleevng"
     },
     {
-      "name": "AMK FB live ",
-      "rank": 88,
-      "level_score": 17770,
-      "duos_persona_min": "AMK9"
-    },
-    {
       "name": "Козявочкины",
-      "rank": 89,
+      "rank": 88,
       "level_score": 17740,
       "duos_persona_min": "What?"
     },
     {
       "name": "WTF",
-      "rank": 90,
+      "rank": 89,
       "level_score": 17690,
       "duos_persona_min": "LvK'n"
+    },
+    {
+      "name": "AMK FB live ",
+      "rank": 90,
+      "level_score": 17570,
+      "duos_persona_min": "AMK9"
     },
     {
       "name": "Winners",
