@@ -1,6 +1,6 @@
 {
-  "time_posted": 1645549983,
-  "next_scheduled_post_time": 1645550043,
+  "time_posted": 1645553582,
+  "next_scheduled_post_time": 1645553642,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -167,20 +167,20 @@
     {
       "name": "хуюпа",
       "rank": 28,
-      "level_score": 33165,
+      "level_score": 33315,
       "duos_persona_min": "Privasi4ka"
     },
     {
-      "name": "Склад Хуёв",
+      "name": "2 Maiden 1 Tusk",
       "rank": 29,
-      "level_score": 32810,
-      "duos_persona_min": "76561198202225107"
+      "level_score": 32985,
+      "duos_persona_min": "Hmarius"
     },
     {
-      "name": "2 Maiden 1 Tusk",
+      "name": "Склад Хуёв",
       "rank": 30,
-      "level_score": 32785,
-      "duos_persona_min": "Hmarius"
+      "level_score": 32810,
+      "duos_persona_min": "76561198202225107"
     },
     {
       "name": "пепси",
@@ -233,7 +233,7 @@
     {
       "name": "top7-top8",
       "rank": 39,
-      "level_score": 29090,
+      "level_score": 29190,
       "duos_persona_min": "MOOD!?AQ"
     },
     {
@@ -251,7 +251,7 @@
     {
       "name": "АИД",
       "rank": 42,
-      "level_score": 27165,
+      "level_score": 27315,
       "duos_persona_min": "Ario 2.0"
     },
     {
@@ -281,7 +281,7 @@
     {
       "name": "SupperKu",
       "rank": 47,
-      "level_score": 26145,
+      "level_score": 26295,
       "duos_persona_min": "KuSieuFake"
     },
     {
@@ -491,20 +491,20 @@
     {
       "name": "2DamischeBuam",
       "rank": 82,
-      "level_score": 18245,
+      "level_score": 18345,
       "duos_persona_min": "elSpacko"
     },
     {
-      "name": "Mordo",
+      "name": "Goda kompisar",
       "rank": 83,
-      "level_score": 18090,
-      "duos_persona_min": "robertmackowiak.87"
+      "level_score": 18165,
+      "duos_persona_min": "Vladimir"
     },
     {
-      "name": "Goda kompisar",
+      "name": "Mordo",
       "rank": 84,
-      "level_score": 17965,
-      "duos_persona_min": "Vladimir"
+      "level_score": 18090,
+      "duos_persona_min": "robertmackowiak.87"
     },
     {
       "name": "Бобче Топче",
@@ -513,22 +513,22 @@
       "duos_persona_min": "Amellyy"
     },
     {
-      "name": "WTF",
-      "rank": 86,
-      "level_score": 17890,
-      "duos_persona_min": "LvK'n"
-    },
-    {
       "name": "beleevng",
-      "rank": 87,
+      "rank": 86,
       "level_score": 17795,
       "duos_persona_min": "Beleevng"
     },
     {
       "name": "Козявочкины",
-      "rank": 88,
+      "rank": 87,
       "level_score": 17740,
       "duos_persona_min": "What?"
+    },
+    {
+      "name": "WTF",
+      "rank": 88,
+      "level_score": 17690,
+      "duos_persona_min": "LvK'n"
     },
     {
       "name": "Winners",
@@ -603,28 +603,28 @@
       "duos_persona_min": "Combat_Phoenix"
     },
     {
-      "name": "FielDerft",
-      "rank": 101,
-      "level_score": 16115,
-      "duos_persona_min": "FieldDuck"
-    },
-    {
       "name": "AdolfKitzler",
-      "rank": 102,
+      "rank": 101,
       "level_score": 16045,
       "duos_persona_min": "Swansonson"
     },
     {
       "name": "Болгары",
-      "rank": 103,
+      "rank": 102,
       "level_score": 16015,
       "duos_persona_min": "сверхчебурек"
     },
     {
       "name": "武统指挥部",
-      "rank": 104,
+      "rank": 103,
       "level_score": 15980,
       "duos_persona_min": "frank is sb"
+    },
+    {
+      "name": "Мы справились",
+      "rank": 104,
+      "level_score": 15930,
+      "duos_persona_min": "Вода"
     },
     {
       "name": "DIE ATZEN",
@@ -645,142 +645,142 @@
       "duos_persona_min": "Spartos"
     },
     {
-      "name": "Мы справились",
-      "rank": 108,
-      "level_score": 15810,
-      "duos_persona_min": "Вода"
-    },
-    {
       "name": "ЧАЧКА ПИПСОВ",
-      "rank": 109,
+      "rank": 108,
       "level_score": 15760,
       "duos_persona_min": "Zai"
     },
     {
       "name": "Блатной Удар",
-      "rank": 110,
+      "rank": 109,
       "level_score": 15715,
       "duos_persona_min": "BOT (AI)"
     },
     {
       "name": "КустикиНаЖопе",
-      "rank": 111,
+      "rank": 110,
       "level_score": 15710,
       "duos_persona_min": "Mr.Liga"
     },
     {
       "name": "Охота на хохлов",
-      "rank": 112,
+      "rank": 111,
       "level_score": 15580,
       "duos_persona_min": "[K] OpTeR"
     },
     {
-      "name": "Лавеласы",
-      "rank": 113,
-      "level_score": 15570,
-      "duos_persona_min": "_paradox_"
-    },
-    {
       "name": "ForexPenguin.com",
-      "rank": 114,
+      "rank": 112,
       "level_score": 15520,
       "duos_persona_min": "Idegne"
     },
     {
       "name": "Bros before hoes",
-      "rank": 115,
+      "rank": 113,
       "level_score": 15475,
       "duos_persona_min": "WCYD"
     },
     {
+      "name": "Лавеласы",
+      "rank": 114,
+      "level_score": 15390,
+      "duos_persona_min": "_paradox_"
+    },
+    {
       "name": "Heavon natianal",
-      "rank": 116,
+      "rank": 115,
       "level_score": 15295,
       "duos_persona_min": "el roro"
     },
     {
       "name": "G'Lords",
-      "rank": 117,
+      "rank": 116,
       "level_score": 15250,
       "duos_persona_min": "B-Rabbit"
     },
     {
       "name": "УТКАГРАФ",
-      "rank": 118,
+      "rank": 117,
       "level_score": 15245,
       "duos_persona_min": "GRAF4ik"
     },
     {
-      "name": "gardinerelas",
-      "rank": 119,
-      "level_score": 15210,
-      "duos_persona_min": "Fuzue LOko"
-    },
-    {
       "name": "RS",
-      "rank": 120,
+      "rank": 118,
       "level_score": 15195,
       "duos_persona_min": "guld"
     },
     {
       "name": "Toplexxx",
-      "rank": 121,
+      "rank": 119,
       "level_score": 15155,
       "duos_persona_min": "Busake"
     },
     {
       "name": "мартыны",
-      "rank": 122,
+      "rank": 120,
       "level_score": 15120,
       "duos_persona_min": "ksensanna"
     },
     {
       "name": "Смелые черкаши",
-      "rank": 123,
+      "rank": 121,
       "level_score": 15105,
       "duos_persona_min": "Not TOO MuCH"
     },
     {
       "name": "REALITY KINGS",
-      "rank": 124,
+      "rank": 122,
       "level_score": 15065,
       "duos_persona_min": "Padofla"
     },
     {
-      "name": "Бубцы",
-      "rank": 125,
-      "level_score": 15050,
-      "duos_persona_min": "natylia1191"
-    },
-    {
       "name": "LeeROX",
-      "rank": 126,
+      "rank": 123,
       "level_score": 15050,
       "duos_persona_min": "ThomLee"
     },
     {
+      "name": "Бубцы",
+      "rank": 124,
+      "level_score": 15050,
+      "duos_persona_min": "natylia1191"
+    },
+    {
       "name": "mid or feed",
-      "rank": 127,
+      "rank": 125,
       "level_score": 15040,
       "duos_persona_min": "xd"
     },
     {
       "name": "Coup",
-      "rank": 128,
+      "rank": 126,
       "level_score": 15040,
       "duos_persona_min": "TÍU"
     },
     {
       "name": "We win You lose",
-      "rank": 129,
+      "rank": 127,
       "level_score": 14970,
       "duos_persona_min": "ZeRoXx✡IDF."
     },
     {
+      "name": "gardinerelas",
+      "rank": 128,
+      "level_score": 14960,
+      "duos_persona_min": "Fuzue LOko"
+    },
+    {
       "name": "Team Pisces",
-      "rank": 130,
+      "rank": 129,
       "level_score": 14885,
       "duos_persona_min": "tinkril"
+    },
+    {
+      "name": "герои донбаса",
+      "rank": 130,
+      "level_score": 14865,
+      "duos_persona_min": "weine, wenn ich es dir sage"
     },
     {
       "name": "BuTaЛя 6apMaTyXa",
@@ -789,74 +789,68 @@
       "duos_persona_min": "†6apMaTyXa†"
     },
     {
-      "name": "герои донбаса",
-      "rank": 132,
-      "level_score": 14765,
-      "duos_persona_min": "weine, wenn ich es dir sage"
-    },
-    {
       "name": "UgMa.....",
-      "rank": 133,
+      "rank": 132,
       "level_score": 14580,
       "duos_persona_min": "Mayu"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 134,
+      "rank": 133,
       "level_score": 14330,
       "duos_persona_min": "skallen"
     },
     {
       "name": "MiliMark",
-      "rank": 135,
+      "rank": 134,
       "level_score": 14215,
       "duos_persona_min": "Mili"
     },
     {
       "name": "两支小菜鸡",
-      "rank": 136,
+      "rank": 135,
       "level_score": 14130,
       "duos_persona_min": "换个名字吧！"
     },
     {
       "name": "Данюшки",
-      "rank": 137,
+      "rank": 136,
       "level_score": 13505,
       "duos_persona_min": "神圣的雨"
     },
     {
       "name": "VCG",
-      "rank": 138,
+      "rank": 137,
       "level_score": 13385,
       "duos_persona_min": "Murmel"
     },
     {
       "name": "Timon u Pumba",
-      "rank": 139,
+      "rank": 138,
       "level_score": 13280,
       "duos_persona_min": "Oksi"
     },
     {
       "name": "Ordo",
-      "rank": 140,
+      "rank": 139,
       "level_score": 12795,
       "duos_persona_min": "Arcijs"
     },
     {
       "name": "АНТИКВАСЕРЫ",
-      "rank": 141,
+      "rank": 140,
       "level_score": 11680,
       "duos_persona_min": "TuRok"
     },
     {
       "name": "为什么不BAN猛犸",
-      "rank": 142,
+      "rank": 141,
       "level_score": 11275,
       "duos_persona_min": "yuanyuan"
     },
     {
       "name": "Leteci Stojko",
-      "rank": 143,
+      "rank": 142,
       "level_score": 7600,
       "duos_persona_min": "NoPain"
     }
