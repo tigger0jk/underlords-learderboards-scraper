@@ -1,6 +1,6 @@
 {
-  "time_posted": 1646086383,
-  "next_scheduled_post_time": 1646086443,
+  "time_posted": 1646089983,
+  "next_scheduled_post_time": 1646090043,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -471,16 +471,16 @@
       "duos_persona_min": "Uarobey"
     },
     {
-      "name": "Johny & Co",
+      "name": "Doggos",
       "rank": 79,
-      "level_score": 19710,
-      "duos_persona_min": "RUNar8"
+      "level_score": 19730,
+      "duos_persona_min": "null"
     },
     {
-      "name": "Doggos",
+      "name": "Johny & Co",
       "rank": 80,
-      "level_score": 19530,
-      "duos_persona_min": "null"
+      "level_score": 19710,
+      "duos_persona_min": "RUNar8"
     },
     {
       "name": "2DamischeBuam",
@@ -761,7 +761,7 @@
     {
       "name": "Original Gouvis",
       "rank": 127,
-      "level_score": 13665,
+      "level_score": 13265,
       "duos_persona_min": "Weissblech"
     },
     {
@@ -771,14 +771,8 @@
       "duos_persona_min": "Murmel"
     },
     {
-      "name": "Cuquita y Pity",
-      "rank": 129,
-      "level_score": 10955,
-      "duos_persona_min": "IMBAZOR"
-    },
-    {
       "name": "Leteci Stojko",
-      "rank": 130,
+      "rank": 129,
       "level_score": 7600,
       "duos_persona_min": "NoPain"
     }
