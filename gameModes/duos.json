@@ -1,6 +1,6 @@
 {
-  "time_posted": 1646399583,
-  "next_scheduled_post_time": 1646399643,
+  "time_posted": 1646403183,
+  "next_scheduled_post_time": 1646403243,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -23,7 +23,7 @@
     {
       "name": "Vua của Hà Nội ",
       "rank": 4,
-      "level_score": 113865,
+      "level_score": 114215,
       "duos_persona_min": "s2meninblacks2"
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "养猫家庭",
       "rank": 21,
-      "level_score": 42055,
+      "level_score": 42085,
       "duos_persona_min": "Rose气泡水"
     },
     {
@@ -149,7 +149,7 @@
     {
       "name": "Bartriders",
       "rank": 25,
-      "level_score": 40175,
+      "level_score": 40375,
       "duos_persona_min": "Rayness"
     },
     {
@@ -171,46 +171,46 @@
       "duos_persona_min": "NodProb"
     },
     {
-      "name": "Trolling Stones",
-      "rank": 29,
-      "level_score": 35735,
-      "duos_persona_min": "LePtiCon"
-    },
-    {
       "name": "DCP322",
-      "rank": 30,
+      "rank": 29,
       "level_score": 35280,
       "duos_persona_min": "ПеНDoC"
     },
     {
       "name": "Упоротый дуэт",
-      "rank": 31,
-      "level_score": 34910,
+      "rank": 30,
+      "level_score": 35110,
       "duos_persona_min": "Мелих"
     },
     {
       "name": "АИД",
-      "rank": 32,
+      "rank": 31,
       "level_score": 32615,
       "duos_persona_min": "Ario 2.0"
     },
     {
       "name": "MartiniLovers",
-      "rank": 33,
+      "rank": 32,
       "level_score": 31475,
       "duos_persona_min": "Tapas"
     },
     {
       "name": "Pump Milk Team",
-      "rank": 34,
+      "rank": 33,
       "level_score": 31470,
       "duos_persona_min": "Cboullet"
     },
     {
       "name": "One Big Holiday",
-      "rank": 35,
+      "rank": 34,
       "level_score": 31255,
       "duos_persona_min": "81waves"
+    },
+    {
+      "name": "Boob Saga",
+      "rank": 35,
+      "level_score": 30665,
+      "duos_persona_min": "Titty Inspector"
     },
     {
       "name": "Fisting is $300",
@@ -233,7 +233,7 @@
     {
       "name": "MORON",
       "rank": 39,
-      "level_score": 29325,
+      "level_score": 29475,
       "duos_persona_min": "Nanoooooo"
     },
     {
@@ -243,16 +243,16 @@
       "duos_persona_min": "and"
     },
     {
-      "name": "Open Fort Losers",
-      "rank": 41,
-      "level_score": 28730,
-      "duos_persona_min": "BatyCab"
-    },
-    {
       "name": "หมาเหี้ย",
-      "rank": 42,
+      "rank": 41,
       "level_score": 28275,
       "duos_persona_min": "JNEXX"
+    },
+    {
+      "name": "лысый майнер",
+      "rank": 42,
+      "level_score": 28220,
+      "duos_persona_min": "shchukin_denis"
     },
     {
       "name": "Too old to play",
@@ -281,7 +281,7 @@
     {
       "name": "shh, it's secret",
       "rank": 47,
-      "level_score": 25700,
+      "level_score": 25850,
       "duos_persona_min": "baotianshihui"
     },
     {
@@ -417,16 +417,16 @@
       "duos_persona_min": "Amellyy"
     },
     {
-      "name": "AMK FB live ",
-      "rank": 70,
-      "level_score": 17820,
-      "duos_persona_min": "AMK9"
-    },
-    {
       "name": "Winners",
-      "rank": 71,
+      "rank": 70,
       "level_score": 17695,
       "duos_persona_min": "t!môn"
+    },
+    {
+      "name": "AMK FB live ",
+      "rank": 71,
+      "level_score": 17670,
+      "duos_persona_min": "AMK9"
     },
     {
       "name": "Фиксирую прибыль",
@@ -491,7 +491,7 @@
     {
       "name": "RUnklUlus",
       "rank": 82,
-      "level_score": 15855,
+      "level_score": 15655,
       "duos_persona_min": "[EGI]Milbory"
     },
     {
@@ -519,16 +519,16 @@
       "duos_persona_min": "Frost"
     },
     {
-      "name": "Team Pisces",
-      "rank": 87,
-      "level_score": 15095,
-      "duos_persona_min": "tinkril"
-    },
-    {
       "name": "Жеские дрюкалики",
-      "rank": 88,
+      "rank": 87,
       "level_score": 15040,
       "duos_persona_min": "Hanzo"
+    },
+    {
+      "name": "Team Pisces",
+      "rank": 88,
+      "level_score": 14695,
+      "duos_persona_min": "tinkril"
     },
     {
       "name": "PotatoeNightmare",
@@ -577,12 +577,6 @@
       "rank": 96,
       "level_score": 12480,
       "duos_persona_min": "TkSpawn1"
-    },
-    {
-      "name": "Leteci Stojko",
-      "rank": 97,
-      "level_score": 7600,
-      "duos_persona_min": "NoPain"
     }
   ],
   "success": true
