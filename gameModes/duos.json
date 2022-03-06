@@ -1,6 +1,6 @@
 {
-  "time_posted": 1646561585,
-  "next_scheduled_post_time": 1646561645,
+  "time_posted": 1646565182,
+  "next_scheduled_post_time": 1646565242,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -17,7 +17,7 @@
     {
       "name": "OnkelSchmalbrust",
       "rank": 3,
-      "level_score": 129715,
+      "level_score": 129865,
       "duos_persona_min": "airdrop87"
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Städservice",
       "rank": 21,
-      "level_score": 47915,
+      "level_score": 48115,
       "duos_persona_min": "SpaCC"
     },
     {
@@ -383,7 +383,7 @@
     {
       "name": "Tinderlords",
       "rank": 64,
-      "level_score": 19955,
+      "level_score": 19855,
       "duos_persona_min": "Ero±ar"
     },
     {
@@ -609,22 +609,22 @@
       "duos_persona_min": "wak"
     },
     {
-      "name": "Team Pisces",
-      "rank": 102,
-      "level_score": 14615,
-      "duos_persona_min": "tinkril"
-    },
-    {
       "name": "",
-      "rank": 103,
+      "rank": 102,
       "level_score": 14565,
       "duos_persona_min": "_Mar_Me_"
     },
     {
       "name": "MiliMark",
-      "rank": 104,
-      "level_score": 14495,
+      "rank": 103,
+      "level_score": 14525,
       "duos_persona_min": "Mili"
+    },
+    {
+      "name": "Team Pisces",
+      "rank": 104,
+      "level_score": 14415,
+      "duos_persona_min": "tinkril"
     },
     {
       "name": "Go for the eyes!",
