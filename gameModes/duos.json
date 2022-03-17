@@ -1,6 +1,6 @@
 {
-  "time_posted": 1647547982,
-  "next_scheduled_post_time": 1647548042,
+  "time_posted": 1647551582,
+  "next_scheduled_post_time": 1647551642,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -35,7 +35,7 @@
     {
       "name": "Sleeporz",
       "rank": 6,
-      "level_score": 84425,
+      "level_score": 84625,
       "duos_persona_min": "vuk"
     },
     {
@@ -147,16 +147,16 @@
       "duos_persona_min": "Rose气泡水"
     },
     {
-      "name": "Глаза в мясо",
+      "name": "АИД",
       "rank": 25,
       "level_score": 41795,
-      "duos_persona_min": "Гарри Каспаров"
+      "duos_persona_min": "Ario 2.0"
     },
     {
-      "name": "АИД",
+      "name": "Глаза в мясо",
       "rank": 26,
-      "level_score": 41765,
-      "duos_persona_min": "Ario 2.0"
+      "level_score": 41795,
+      "duos_persona_min": "Гарри Каспаров"
     },
     {
       "name": "Gulag Grinders",
@@ -173,7 +173,7 @@
     {
       "name": "DCP322",
       "rank": 29,
-      "level_score": 35650,
+      "level_score": 35800,
       "duos_persona_min": "ПеНDoC"
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "MORON",
       "rank": 32,
-      "level_score": 33735,
+      "level_score": 33935,
       "duos_persona_min": "tw.tv/Nanoo2314"
     },
     {
@@ -311,7 +311,7 @@
     {
       "name": "R & R",
       "rank": 52,
-      "level_score": 24495,
+      "level_score": 24595,
       "duos_persona_min": "R1994"
     },
     {
@@ -347,7 +347,7 @@
     {
       "name": "Жаркие обьятия🔥",
       "rank": 58,
-      "level_score": 21775,
+      "level_score": 21805,
       "duos_persona_min": "Олов☃"
     },
     {
@@ -371,7 +371,7 @@
     {
       "name": "Doggos",
       "rank": 62,
-      "level_score": 20800,
+      "level_score": 20950,
       "duos_persona_min": "null"
     },
     {
@@ -491,7 +491,7 @@
     {
       "name": "Les titilleurs",
       "rank": 82,
-      "level_score": 16865,
+      "level_score": 16915,
       "duos_persona_min": "Spartos"
     },
     {
@@ -597,16 +597,16 @@
       "duos_persona_min": "s1m0n"
     },
     {
-      "name": "Team Pisces",
+      "name": "MKTRX.com",
       "rank": 100,
-      "level_score": 15375,
-      "duos_persona_min": "tinkril"
+      "level_score": 15385,
+      "duos_persona_min": "Cid"
     },
     {
-      "name": "MKTRX.com",
+      "name": "Team Pisces",
       "rank": 101,
-      "level_score": 15285,
-      "duos_persona_min": "Cid"
+      "level_score": 15375,
+      "duos_persona_min": "tinkril"
     },
     {
       "name": "DeDichtenDichter",
@@ -621,22 +621,22 @@
       "duos_persona_min": "Putin Idi Nahui"
     },
     {
-      "name": "曹刘",
+      "name": "Kinky party",
       "rank": 104,
+      "level_score": 14985,
+      "duos_persona_min": "sweety_nagibator1337"
+    },
+    {
+      "name": "曹刘",
+      "rank": 105,
       "level_score": 14955,
       "duos_persona_min": "Miku请你吃大葱"
     },
     {
       "name": "ابوكم يحبكم",
-      "rank": 105,
+      "rank": 106,
       "level_score": 14905,
       "duos_persona_min": "IraKeR"
-    },
-    {
-      "name": "Kinky party",
-      "rank": 106,
-      "level_score": 14885,
-      "duos_persona_min": "sweety_nagibator1337"
     },
     {
       "name": "мы вас чпокен",
@@ -703,12 +703,6 @@
       "rank": 117,
       "level_score": 12615,
       "duos_persona_min": "指尖烟草味"
-    },
-    {
-      "name": "АНТИКВАСЕРЫ",
-      "rank": 118,
-      "level_score": 11210,
-      "duos_persona_min": "TuRok"
     }
   ],
   "success": true
