@@ -1,6 +1,6 @@
 {
-  "time_posted": 1648055582,
-  "next_scheduled_post_time": 1648055642,
+  "time_posted": 1648059182,
+  "next_scheduled_post_time": 1648059242,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -23,7 +23,7 @@
     {
       "name": "2hp",
       "rank": 4,
-      "level_score": 107480,
+      "level_score": 107680,
       "duos_persona_min": "sheshegov"
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "31337",
       "rank": 7,
-      "level_score": 71865,
+      "level_score": 72015,
       "duos_persona_min": "butkoviv"
     },
     {
@@ -71,7 +71,7 @@
     {
       "name": "NAMIMIW",
       "rank": 12,
-      "level_score": 62390,
+      "level_score": 62520,
       "duos_persona_min": "igris"
     },
     {
@@ -135,76 +135,76 @@
       "duos_persona_min": "SpaCC"
     },
     {
-      "name": "BNG",
+      "name": "АИД",
       "rank": 23,
+      "level_score": 45945,
+      "duos_persona_min": "Ario 2.0"
+    },
+    {
+      "name": "BNG",
+      "rank": 24,
       "level_score": 45940,
       "duos_persona_min": "Ay Caramba!"
     },
     {
-      "name": "АИД",
-      "rank": 24,
-      "level_score": 45915,
-      "duos_persona_min": "Ario 2.0"
+      "name": "First placers",
+      "rank": 25,
+      "level_score": 45795,
+      "duos_persona_min": "kojic.lazar"
     },
     {
       "name": "Phineas and Ferb",
-      "rank": 25,
+      "rank": 26,
       "level_score": 44860,
       "duos_persona_min": "suhoruckovandrey"
     },
     {
       "name": "养猫家庭",
-      "rank": 26,
+      "rank": 27,
       "level_score": 43495,
       "duos_persona_min": "Rose气泡水"
     },
     {
       "name": "Bartriders",
-      "rank": 27,
+      "rank": 28,
       "level_score": 42795,
       "duos_persona_min": "Rayness"
     },
     {
       "name": "Gulag Grinders",
-      "rank": 28,
+      "rank": 29,
       "level_score": 42515,
       "duos_persona_min": "Itzmi"
     },
     {
       "name": "Глаза в мясо",
-      "rank": 29,
+      "rank": 30,
       "level_score": 42155,
       "duos_persona_min": "Гарри Каспаров"
     },
     {
       "name": "Yattara",
-      "rank": 30,
+      "rank": 31,
       "level_score": 40790,
       "duos_persona_min": "parisian pasha"
     },
     {
       "name": "Вольвец и Аудец",
-      "rank": 31,
+      "rank": 32,
       "level_score": 40490,
       "duos_persona_min": "76561198867427374"
     },
     {
       "name": "Trolling Stones",
-      "rank": 32,
+      "rank": 33,
       "level_score": 37495,
       "duos_persona_min": "LePtiCon"
     },
     {
       "name": "拉翻全场",
-      "rank": 33,
+      "rank": 34,
       "level_score": 36505,
       "duos_persona_min": "叮叮鬼鬼儿"
-    },
-    {
-      "name": "Потрошители Поп",
-      "rank": 34,
-      "level_score": 36450,
-      "duos_persona_min": "_bzik_"
     },
     {
       "name": "BLUP",
@@ -291,16 +291,16 @@
       "duos_persona_min": "and"
     },
     {
-      "name": "Rip Again",
+      "name": "SupperKu",
       "rank": 49,
-      "level_score": 28785,
-      "duos_persona_min": "Nyx"
+      "level_score": 28885,
+      "duos_persona_min": "KuSieuFake"
     },
     {
-      "name": "SupperKu",
+      "name": "Rip Again",
       "rank": 50,
-      "level_score": 28685,
-      "duos_persona_min": "KuSieuFake"
+      "level_score": 28785,
+      "duos_persona_min": "Nyx"
     },
     {
       "name": "Galileo",
@@ -419,7 +419,7 @@
     {
       "name": "Tinderlords",
       "rank": 70,
-      "level_score": 21665,
+      "level_score": 21565,
       "duos_persona_min": "Ero±ar"
     },
     {
@@ -447,22 +447,22 @@
       "duos_persona_min": "Dadomeister"
     },
     {
-      "name": "Nabs",
+      "name": "Обамэ",
       "rank": 75,
+      "level_score": 19420,
+      "duos_persona_min": "gastly8787"
+    },
+    {
+      "name": "Nabs",
+      "rank": 76,
       "level_score": 19360,
       "duos_persona_min": "dawnfall26"
     },
     {
       "name": "ебем не глядя ",
-      "rank": 76,
+      "rank": 77,
       "level_score": 19335,
       "duos_persona_min": "Adolfo Ganzalo"
-    },
-    {
-      "name": "Обамэ",
-      "rank": 77,
-      "level_score": 19320,
-      "duos_persona_min": "gastly8787"
     },
     {
       "name": "EXIBM",
@@ -557,7 +557,7 @@
     {
       "name": "бАНКРОТЫ",
       "rank": 93,
-      "level_score": 16560,
+      "level_score": 16590,
       "duos_persona_min": "Вода"
     },
     {
@@ -587,26 +587,26 @@
     {
       "name": "GK",
       "rank": 98,
-      "level_score": 16440,
+      "level_score": 16340,
       "duos_persona_min": "ILT丶DD"
     },
     {
-      "name": "FielDerft",
-      "rank": 99,
-      "level_score": 16295,
-      "duos_persona_min": "FieldDuck"
-    },
-    {
       "name": "отсосёте инфа100",
-      "rank": 100,
+      "rank": 99,
       "level_score": 16285,
       "duos_persona_min": "Antony"
     },
     {
       "name": "мартыны",
-      "rank": 101,
+      "rank": 100,
       "level_score": 16110,
       "duos_persona_min": "ksensanna"
+    },
+    {
+      "name": "FielDerft",
+      "rank": 101,
+      "level_score": 16095,
+      "duos_persona_min": "FieldDuck"
     },
     {
       "name": "В соло суки",
@@ -633,22 +633,22 @@
       "duos_persona_min": "Visthunt"
     },
     {
-      "name": "ابوكم يحبكم",
+      "name": "DAMAGE DIETERS",
       "rank": 106,
+      "level_score": 15475,
+      "duos_persona_min": "s1m0n"
+    },
+    {
+      "name": "ابوكم يحبكم",
+      "rank": 107,
       "level_score": 15405,
       "duos_persona_min": "IraKeR"
     },
     {
       "name": "RV",
-      "rank": 107,
+      "rank": 108,
       "level_score": 15330,
       "duos_persona_min": "[Igzibed]"
-    },
-    {
-      "name": "DAMAGE DIETERS",
-      "rank": 108,
-      "level_score": 15325,
-      "duos_persona_min": "s1m0n"
     },
     {
       "name": "Kinky party",
@@ -773,7 +773,7 @@
     {
       "name": "Ordo",
       "rank": 129,
-      "level_score": 12625,
+      "level_score": 12825,
       "duos_persona_min": "Arcijs"
     },
     {
