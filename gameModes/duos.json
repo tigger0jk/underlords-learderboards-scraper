@@ -1,6 +1,6 @@
 {
-  "time_posted": 1648473183,
-  "next_scheduled_post_time": 1648473243,
+  "time_posted": 1648476784,
+  "next_scheduled_post_time": 1648476844,
   "leaderboard": [
     {
       "name": "Amaranda",
@@ -23,7 +23,7 @@
     {
       "name": "喜欢刚交的女朋友",
       "rank": 4,
-      "level_score": 84590,
+      "level_score": 84740,
       "duos_persona_min": "ahegao"
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "GRUBIE ESPORTS",
       "rank": 16,
-      "level_score": 56370,
+      "level_score": 56570,
       "duos_persona_min": "паляниця"
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "DCP322",
       "rank": 27,
-      "level_score": 36290,
+      "level_score": 36320,
       "duos_persona_min": "ПеНDoC"
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "Упоротый дуэт",
       "rank": 29,
-      "level_score": 35740,
+      "level_score": 35770,
       "duos_persona_min": "Мелих"
     },
     {
@@ -255,22 +255,22 @@
       "duos_persona_min": "Lórien"
     },
     {
-      "name": "Open Fort Losers",
+      "name": "Rip Again",
       "rank": 43,
+      "level_score": 29255,
+      "duos_persona_min": "Nyx"
+    },
+    {
+      "name": "Open Fort Losers",
+      "rank": 44,
       "level_score": 29180,
       "duos_persona_min": "BatyCab"
     },
     {
       "name": "SupperKu",
-      "rank": 44,
+      "rank": 45,
       "level_score": 29105,
       "duos_persona_min": "KuSieuFake"
-    },
-    {
-      "name": "Rip Again",
-      "rank": 45,
-      "level_score": 29055,
-      "duos_persona_min": "Nyx"
     },
     {
       "name": "Katsapliades",
@@ -317,7 +317,7 @@
     {
       "name": "MGLwarriors",
       "rank": 53,
-      "level_score": 24560,
+      "level_score": 24530,
       "duos_persona_min": "FUUUCK"
     },
     {
@@ -495,58 +495,58 @@
       "duos_persona_min": "gastly8787"
     },
     {
-      "name": "AMK FB live ",
-      "rank": 83,
-      "level_score": 17480,
-      "duos_persona_min": "AMK9"
-    },
-    {
       "name": "Пинки и Брейн",
-      "rank": 84,
+      "rank": 83,
       "level_score": 17065,
       "duos_persona_min": "Vasyash"
     },
     {
       "name": "Всем пiзда",
-      "rank": 85,
+      "rank": 84,
       "level_score": 17010,
       "duos_persona_min": "zluka"
     },
     {
       "name": "Trafic de Buci",
-      "rank": 86,
+      "rank": 85,
       "level_score": 16830,
       "duos_persona_min": "ALC"
     },
     {
       "name": "Лучшие Вася!",
-      "rank": 87,
+      "rank": 86,
       "level_score": 16740,
       "duos_persona_min": "Вода"
     },
     {
       "name": "Масложопики ",
-      "rank": 88,
+      "rank": 87,
       "level_score": 16725,
       "duos_persona_min": "JuzzztDoIt"
     },
     {
       "name": "джокеры из DNS",
-      "rank": 89,
+      "rank": 88,
       "level_score": 16665,
       "duos_persona_min": "Сила"
     },
     {
       "name": "FielDerft",
-      "rank": 90,
+      "rank": 89,
       "level_score": 16645,
       "duos_persona_min": "FieldDuck"
     },
     {
       "name": "Heavon natianal",
-      "rank": 91,
+      "rank": 90,
       "level_score": 16515,
       "duos_persona_min": "el roro"
+    },
+    {
+      "name": "Boude Seerower",
+      "rank": 91,
+      "level_score": 16485,
+      "duos_persona_min": "DieAgterDeurBeer"
     },
     {
       "name": "мартыны",
@@ -555,194 +555,182 @@
       "duos_persona_min": "ksensanna"
     },
     {
-      "name": "Boude Seerower",
-      "rank": 93,
-      "level_score": 16385,
-      "duos_persona_min": "DieAgterDeurBeer"
-    },
-    {
       "name": "RS",
-      "rank": 94,
+      "rank": 93,
       "level_score": 16025,
       "duos_persona_min": "guld"
     },
     {
       "name": "В соло суки",
-      "rank": 95,
+      "rank": 94,
       "level_score": 15700,
       "duos_persona_min": "HiddenPool"
     },
     {
       "name": "Одноглазое лихо",
-      "rank": 96,
+      "rank": 95,
       "level_score": 15550,
       "duos_persona_min": "Charlatan"
     },
     {
       "name": "Дроченые ПСЫ",
-      "rank": 97,
+      "rank": 96,
       "level_score": 15525,
       "duos_persona_min": "danila228"
     },
     {
       "name": "RV",
-      "rank": 98,
+      "rank": 97,
       "level_score": 15510,
       "duos_persona_min": "[Igzibed]"
     },
     {
       "name": "Хуйсос пилосос",
-      "rank": 99,
+      "rank": 98,
       "level_score": 15470,
       "duos_persona_min": "Кот Борис"
     },
     {
       "name": "Ladder Team",
-      "rank": 100,
+      "rank": 99,
       "level_score": 15445,
       "duos_persona_min": "myraj00"
     },
     {
       "name": "Propellerpenisse",
-      "rank": 101,
+      "rank": 100,
       "level_score": 15395,
       "duos_persona_min": "★★★Obiwankenobi★★★"
     },
     {
       "name": "쥬지",
-      "rank": 102,
+      "rank": 101,
       "level_score": 15285,
       "duos_persona_min": "자유대한민국"
     },
     {
       "name": "DAMAGE DIETERS",
-      "rank": 103,
+      "rank": 102,
       "level_score": 15265,
       "duos_persona_min": "s1m0n"
     },
     {
       "name": "Kinky party",
-      "rank": 104,
+      "rank": 103,
       "level_score": 15195,
       "duos_persona_min": "sweety_nagibator1337"
     },
     {
       "name": "Везучие",
-      "rank": 105,
+      "rank": 104,
       "level_score": 15180,
       "duos_persona_min": "malov86"
     },
     {
-      "name": "gg",
-      "rank": 106,
-      "level_score": 15125,
-      "duos_persona_min": "BiGWOLF"
-    },
-    {
       "name": "Zero",
-      "rank": 107,
+      "rank": 105,
       "level_score": 15115,
       "duos_persona_min": "LightFire"
     },
     {
       "name": "ابوكم يحبكم",
-      "rank": 108,
+      "rank": 106,
       "level_score": 15105,
       "duos_persona_min": "IraKeR"
     },
     {
       "name": "Fok jou",
-      "rank": 109,
+      "rank": 107,
       "level_score": 15095,
       "duos_persona_min": "Stormersbabe"
     },
     {
       "name": "Schniddi",
-      "rank": 110,
+      "rank": 108,
       "level_score": 15065,
       "duos_persona_min": "Undividedme"
     },
     {
       "name": "чумные тотемы",
-      "rank": 111,
+      "rank": 109,
       "level_score": 15055,
       "duos_persona_min": "MissMurr"
     },
     {
       "name": "мы вас чпокен",
-      "rank": 112,
+      "rank": 110,
       "level_score": 15050,
       "duos_persona_min": "Chek!?"
     },
     {
+      "name": "gg",
+      "rank": 111,
+      "level_score": 14975,
+      "duos_persona_min": "BiGWOLF"
+    },
+    {
       "name": "zenni",
-      "rank": 113,
+      "rank": 112,
       "level_score": 14435,
       "duos_persona_min": "❖ acidelic"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 114,
+      "rank": 113,
       "level_score": 14270,
       "duos_persona_min": "skallen"
     },
     {
       "name": "ʕ•ᴥ•ʔ",
-      "rank": 115,
+      "rank": 114,
       "level_score": 14090,
       "duos_persona_min": "Balmipour"
     },
     {
       "name": "PotatoeNightmare",
-      "rank": 116,
+      "rank": 115,
       "level_score": 14010,
       "duos_persona_min": "wak"
     },
     {
       "name": "Coup",
-      "rank": 117,
+      "rank": 116,
       "level_score": 13940,
       "duos_persona_min": "TÍU"
     },
     {
       "name": "",
-      "rank": 118,
+      "rank": 117,
       "level_score": 13935,
       "duos_persona_min": "_Mar_Me_"
     },
     {
       "name": "Timon u Pumba",
-      "rank": 119,
+      "rank": 118,
       "level_score": 13350,
       "duos_persona_min": "Oksi"
     },
     {
-      "name": "两支小菜鸡",
-      "rank": 120,
-      "level_score": 13340,
-      "duos_persona_min": "换个名字吧！"
-    },
-    {
       "name": "Уважаемые люди",
-      "rank": 121,
+      "rank": 119,
       "level_score": 12815,
       "duos_persona_min": "PiF-PaFf"
     },
     {
       "name": "коньюктивит ",
-      "rank": 122,
+      "rank": 120,
       "level_score": 11140,
       "duos_persona_min": "TuRok"
     },
     {
       "name": "team del cuore",
-      "rank": 123,
+      "rank": 121,
       "level_score": 10845,
       "duos_persona_min": "Sarka"
     },
     {
       "name": "FendLaBise",
-      "rank": 124,
+      "rank": 122,
       "level_score": 8030,
       "duos_persona_min": "marie_ds"
     }
