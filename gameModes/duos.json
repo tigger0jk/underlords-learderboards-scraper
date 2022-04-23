@@ -1,6 +1,6 @@
 {
-  "time_posted": 1650737583,
-  "next_scheduled_post_time": 1650737643,
+  "time_posted": 1650741182,
+  "next_scheduled_post_time": 1650741242,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -23,7 +23,7 @@
     {
       "name": "ебем всех",
       "rank": 4,
-      "level_score": 91915,
+      "level_score": 92115,
       "duos_persona_min": "_MAD_"
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "Tatortreiniger",
       "rank": 7,
-      "level_score": 74080,
+      "level_score": 74280,
       "duos_persona_min": "Frechdachs"
     },
     {
@@ -105,16 +105,16 @@
       "duos_persona_min": "Ay Caramba!"
     },
     {
-      "name": "Bottom Boys",
-      "rank": 18,
-      "level_score": 45775,
-      "duos_persona_min": "֎"
-    },
-    {
       "name": "Gulag Grinders",
-      "rank": 19,
+      "rank": 18,
       "level_score": 45745,
       "duos_persona_min": "Itzmi"
+    },
+    {
+      "name": "Bottom Boys",
+      "rank": 19,
+      "level_score": 45745,
+      "duos_persona_min": "֎"
     },
     {
       "name": "Глаза в мясо",
@@ -125,7 +125,7 @@
     {
       "name": "GODDESGRAZI",
       "rank": 21,
-      "level_score": 42730,
+      "level_score": 42930,
       "duos_persona_min": "Salac"
     },
     {
@@ -269,7 +269,7 @@
     {
       "name": "Обращайся, вынес",
       "rank": 45,
-      "level_score": 26620,
+      "level_score": 26770,
       "duos_persona_min": "malov86"
     },
     {
@@ -297,82 +297,82 @@
       "duos_persona_min": "_paradox_"
     },
     {
-      "name": "ДЦП ТЕАМ",
-      "rank": 50,
-      "level_score": 23845,
-      "duos_persona_min": "Аста"
-    },
-    {
       "name": "Жаркие обьятия🔥",
-      "rank": 51,
+      "rank": 50,
       "level_score": 23785,
       "duos_persona_min": "Олов☃"
     },
     {
       "name": "old boys tn",
-      "rank": 52,
+      "rank": 51,
       "level_score": 22695,
       "duos_persona_min": "jorj"
     },
     {
       "name": "Вечно Вторые",
-      "rank": 53,
+      "rank": 52,
       "level_score": 22470,
       "duos_persona_min": "Moora"
     },
     {
       "name": "sold mom for t3",
-      "rank": 54,
-      "level_score": 22050,
+      "rank": 53,
+      "level_score": 21980,
       "duos_persona_min": "Капелька Fairy"
     },
     {
       "name": "Stale Window.",
-      "rank": 55,
+      "rank": 54,
       "level_score": 21550,
       "duos_persona_min": "RayDay"
     },
     {
       "name": "Tinderlords",
-      "rank": 56,
+      "rank": 55,
       "level_score": 21305,
       "duos_persona_min": "Ero±ar"
     },
     {
       "name": "Nabs",
-      "rank": 57,
+      "rank": 56,
       "level_score": 21230,
       "duos_persona_min": "dawnfall26"
     },
     {
       "name": "Козявочкины",
-      "rank": 58,
+      "rank": 57,
       "level_score": 20910,
       "duos_persona_min": "What?"
     },
     {
       "name": "EXIBM",
-      "rank": 59,
+      "rank": 58,
       "level_score": 20860,
       "duos_persona_min": "Silent_Bob"
     },
     {
       "name": "Пёс да Лис",
-      "rank": 60,
+      "rank": 59,
       "level_score": 20455,
       "duos_persona_min": "Uarobey"
     },
     {
       "name": "Schlammköpfe",
-      "rank": 61,
+      "rank": 60,
       "level_score": 19900,
       "duos_persona_min": "SchlammIrn"
     },
     {
       "name": "Les titilleurs",
-      "rank": 62,
+      "rank": 61,
       "level_score": 19825,
       "duos_persona_min": "Spartos"
+    },
+    {
+      "name": "Booty Blasters",
+      "rank": 62,
+      "level_score": 19760,
+      "duos_persona_min": "IglooBird"
     },
     {
       "name": "ебем не глядя ",
@@ -461,7 +461,7 @@
     {
       "name": "klukva&oblepiha",
       "rank": 77,
-      "level_score": 17240,
+      "level_score": 17390,
       "duos_persona_min": "x3k"
     },
     {
@@ -637,6 +637,18 @@
       "rank": 106,
       "level_score": 12295,
       "duos_persona_min": "Murmel"
+    },
+    {
+      "name": "Timon u Pumba",
+      "rank": 107,
+      "level_score": 12290,
+      "duos_persona_min": "Oksi"
+    },
+    {
+      "name": "team del cuore",
+      "rank": 108,
+      "level_score": 10445,
+      "duos_persona_min": "Sarka"
     }
   ],
   "success": true
