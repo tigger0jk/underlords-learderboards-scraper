@@ -1,6 +1,6 @@
 {
-  "time_posted": 1650892383,
-  "next_scheduled_post_time": 1650892443,
+  "time_posted": 1650895983,
+  "next_scheduled_post_time": 1650896043,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -149,7 +149,7 @@
     {
       "name": "Упоротый дуэт",
       "rank": 25,
-      "level_score": 38240,
+      "level_score": 38440,
       "duos_persona_min": "Мелих"
     },
     {
@@ -453,16 +453,16 @@
       "duos_persona_min": "DieAgterDeurBeer"
     },
     {
-      "name": "Zero",
+      "name": "nopasaran",
       "rank": 76,
-      "level_score": 15965,
-      "duos_persona_min": "LightFire"
+      "level_score": 15985,
+      "duos_persona_min": "Uci"
     },
     {
-      "name": "nopasaran",
+      "name": "Zero",
       "rank": 77,
-      "level_score": 15835,
-      "duos_persona_min": "Uci"
+      "level_score": 15965,
+      "duos_persona_min": "LightFire"
     },
     {
       "name": "쥬지",
@@ -575,18 +575,24 @@
     {
       "name": "В соло суки",
       "rank": 96,
-      "level_score": 12070,
+      "level_score": 12100,
       "duos_persona_min": "HiddenPool"
     },
     {
       "name": "Original Gouvis",
       "rank": 97,
-      "level_score": 11935,
+      "level_score": 11835,
       "duos_persona_min": "Weissblech"
     },
     {
-      "name": "team del cuore",
+      "name": "Marmot",
       "rank": 98,
+      "level_score": 11630,
+      "duos_persona_min": "TkSpawn1"
+    },
+    {
+      "name": "team del cuore",
+      "rank": 99,
       "level_score": 10265,
       "duos_persona_min": "Sarka"
     }
