@@ -1,6 +1,6 @@
 {
-  "time_posted": 1651399982,
-  "next_scheduled_post_time": 1651400042,
+  "time_posted": 1651403582,
+  "next_scheduled_post_time": 1651403642,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -191,7 +191,7 @@
     {
       "name": "Kartoffelsalat",
       "rank": 32,
-      "level_score": 34570,
+      "level_score": 34540,
       "duos_persona_min": "Alopetz"
     },
     {
@@ -215,7 +215,7 @@
     {
       "name": "Kaelas",
       "rank": 36,
-      "level_score": 33065,
+      "level_score": 33265,
       "duos_persona_min": "Lórien"
     },
     {
@@ -555,26 +555,32 @@
       "duos_persona_min": "ZeRoXx✡IDF."
     },
     {
-      "name": "gardinerelas",
+      "name": "",
       "rank": 93,
+      "level_score": 13935,
+      "duos_persona_min": "_Mar_Me_"
+    },
+    {
+      "name": "gardinerelas",
+      "rank": 94,
       "level_score": 13640,
       "duos_persona_min": "Fuzue LOko"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 94,
+      "rank": 95,
       "level_score": 13410,
       "duos_persona_min": "skallen"
     },
     {
       "name": "VCG",
-      "rank": 95,
+      "rank": 96,
       "level_score": 12395,
       "duos_persona_min": "Murmel"
     },
     {
       "name": "Original Gouvis",
-      "rank": 96,
+      "rank": 97,
       "level_score": 11595,
       "duos_persona_min": "Weissblech"
     }
