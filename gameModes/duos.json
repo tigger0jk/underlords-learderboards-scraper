@@ -1,6 +1,6 @@
 {
-  "time_posted": 1651925582,
-  "next_scheduled_post_time": 1651925642,
+  "time_posted": 1651929182,
+  "next_scheduled_post_time": 1651929242,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -149,7 +149,7 @@
     {
       "name": "Упоротый дуэт",
       "rank": 25,
-      "level_score": 39850,
+      "level_score": 39820,
       "duos_persona_min": "Мелих"
     },
     {
@@ -185,13 +185,13 @@
     {
       "name": "巴别塔之覆",
       "rank": 31,
-      "level_score": 34305,
+      "level_score": 34505,
       "duos_persona_min": "526925485"
     },
     {
       "name": "Kaelas",
       "rank": 32,
-      "level_score": 33815,
+      "level_score": 33875,
       "duos_persona_min": "Lórien"
     },
     {
@@ -263,7 +263,7 @@
     {
       "name": "shh, it's secret",
       "rank": 44,
-      "level_score": 26810,
+      "level_score": 27010,
       "duos_persona_min": "baotianshihui"
     },
     {
@@ -317,20 +317,20 @@
     {
       "name": "vart är vi?",
       "rank": 53,
-      "level_score": 21380,
+      "level_score": 21530,
       "duos_persona_min": "m0g1"
     },
     {
-      "name": "Поворотники",
+      "name": "Sabotage",
       "rank": 54,
-      "level_score": 21345,
-      "duos_persona_min": "Rage"
+      "level_score": 21385,
+      "duos_persona_min": "WarTraveler"
     },
     {
-      "name": "Sabotage",
+      "name": "Поворотники",
       "rank": 55,
-      "level_score": 21185,
-      "duos_persona_min": "WarTraveler"
+      "level_score": 21345,
+      "duos_persona_min": "Rage"
     },
     {
       "name": "Фраера ",
@@ -437,7 +437,7 @@
     {
       "name": "CATS",
       "rank": 73,
-      "level_score": 16565,
+      "level_score": 16365,
       "duos_persona_min": "osa911"
     },
     {
@@ -519,28 +519,28 @@
       "duos_persona_min": "Undividedme"
     },
     {
-      "name": "ابوكم يحبكم",
-      "rank": 87,
-      "level_score": 15205,
-      "duos_persona_min": "IraKeR"
-    },
-    {
       "name": "Protevistii",
-      "rank": 88,
+      "rank": 87,
       "level_score": 15135,
       "duos_persona_min": "Frost"
     },
     {
       "name": "SnG Bois",
-      "rank": 89,
+      "rank": 88,
       "level_score": 15125,
       "duos_persona_min": "laax"
     },
     {
       "name": "Бубцы",
-      "rank": 90,
+      "rank": 89,
       "level_score": 15090,
       "duos_persona_min": "natylia1191"
+    },
+    {
+      "name": "ابوكم يحبكم",
+      "rank": 90,
+      "level_score": 15055,
+      "duos_persona_min": "IraKeR"
     },
     {
       "name": "Биба и Боба",
@@ -563,7 +563,7 @@
     {
       "name": "pidariprotivnas",
       "rank": 94,
-      "level_score": 14250,
+      "level_score": 14400,
       "duos_persona_min": "4udak"
     },
     {
@@ -605,7 +605,7 @@
     {
       "name": "Marmot",
       "rank": 101,
-      "level_score": 11850,
+      "level_score": 11820,
       "duos_persona_min": "TkSpawn1"
     }
   ],
