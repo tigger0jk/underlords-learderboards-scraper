@@ -1,6 +1,6 @@
 {
-  "time_posted": 1652353992,
-  "next_scheduled_post_time": 1652354052,
+  "time_posted": 1652357593,
+  "next_scheduled_post_time": 1652357653,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -15,16 +15,16 @@
       "duos_persona_min": "sheshegov"
     },
     {
-      "name": "Sleeporz",
+      "name": "ебем всех",
       "rank": 3,
       "level_score": 93175,
-      "duos_persona_min": "vuk"
+      "duos_persona_min": "_MAD_"
     },
     {
-      "name": "ебем всех",
+      "name": "Sleeporz",
       "rank": 4,
       "level_score": 93175,
-      "duos_persona_min": "_MAD_"
+      "duos_persona_min": "vuk"
     },
     {
       "name": "Семейка Адамс",
@@ -553,12 +553,6 @@
       "rank": 92,
       "level_score": 11640,
       "duos_persona_min": "TkSpawn1"
-    },
-    {
-      "name": "FendLaBise",
-      "rank": 93,
-      "level_score": 7600,
-      "duos_persona_min": "marie_ds"
     }
   ],
   "success": true
