@@ -1,6 +1,6 @@
 {
-  "time_posted": 1652569993,
-  "next_scheduled_post_time": 1652570053,
+  "time_posted": 1652580793,
+  "next_scheduled_post_time": 1652580853,
   "leaderboard": [
     {
       "name": "Lvl up U LARDASS",
@@ -107,7 +107,7 @@
     {
       "name": "GODDESGRAZI",
       "rank": 18,
-      "level_score": 44380,
+      "level_score": 44350,
       "duos_persona_min": "Salac"
     },
     {
@@ -299,13 +299,13 @@
     {
       "name": "#1 duos team",
       "rank": 50,
-      "level_score": 20305,
+      "level_score": 20505,
       "duos_persona_min": "Sera"
     },
     {
       "name": "NfN",
       "rank": 51,
-      "level_score": 19540,
+      "level_score": 19640,
       "duos_persona_min": "Lickwid"
     },
     {
@@ -489,16 +489,16 @@
       "duos_persona_min": "s1m0n"
     },
     {
-      "name": "Воха и Лёха",
+      "name": "топ-4 дай бог",
       "rank": 82,
-      "level_score": 14840,
-      "duos_persona_min": "Ashe"
+      "level_score": 14865,
+      "duos_persona_min": "Roldozer"
     },
     {
-      "name": "топ-4 дай бог",
+      "name": "Воха и Лёха",
       "rank": 83,
-      "level_score": 14835,
-      "duos_persona_min": "Roldozer"
+      "level_score": 14840,
+      "duos_persona_min": "Ashe"
     },
     {
       "name": "227",
@@ -547,6 +547,12 @@
       "rank": 91,
       "level_score": 12625,
       "duos_persona_min": "Murmel"
+    },
+    {
+      "name": "Marmot",
+      "rank": 92,
+      "level_score": 11790,
+      "duos_persona_min": "TkSpawn1"
     }
   ],
   "success": true
