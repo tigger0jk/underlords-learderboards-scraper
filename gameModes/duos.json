@@ -1,6 +1,6 @@
 {
-  "time_posted": 1653862383,
-  "next_scheduled_post_time": 1653862443,
+  "time_posted": 1653865982,
+  "next_scheduled_post_time": 1653866042,
   "leaderboard": [
     {
       "name": "Lvl up U LARDASS",
@@ -95,7 +95,7 @@
     {
       "name": "Too old to play",
       "rank": 16,
-      "level_score": 50180,
+      "level_score": 50380,
       "duos_persona_min": "SILENT4ever"
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Trolling Stones",
       "rank": 21,
-      "level_score": 41075,
+      "level_score": 41105,
       "duos_persona_min": "LePtiCon"
     },
     {
@@ -411,16 +411,16 @@
       "duos_persona_min": "Ammebonken"
     },
     {
-      "name": "Preben Brothers",
-      "rank": 69,
-      "level_score": 15750,
-      "duos_persona_min": "Something"
-    },
-    {
       "name": "фин.махинации",
-      "rank": 70,
+      "rank": 69,
       "level_score": 15735,
       "duos_persona_min": "Prihvosten'"
+    },
+    {
+      "name": "Preben Brothers",
+      "rank": 70,
+      "level_score": 15700,
+      "duos_persona_min": "Something"
     },
     {
       "name": "Finallwhitespire",
@@ -507,8 +507,14 @@
       "duos_persona_min": "Stormersbabe"
     },
     {
-      "name": "team del cuore",
+      "name": "",
       "rank": 85,
+      "level_score": 12845,
+      "duos_persona_min": "_Mar_Me_"
+    },
+    {
+      "name": "team del cuore",
+      "rank": 86,
       "level_score": 10675,
       "duos_persona_min": "Sarka"
     }
