@@ -1,6 +1,6 @@
 {
-  "time_posted": 1653999183,
-  "next_scheduled_post_time": 1653999243,
+  "time_posted": 1654002783,
+  "next_scheduled_post_time": 1654002843,
   "leaderboard": [
     {
       "name": "Lvl up U LARDASS",
@@ -209,7 +209,7 @@
     {
       "name": "老树盘根",
       "rank": 35,
-      "level_score": 27230,
+      "level_score": 27200,
       "duos_persona_min": "鬼脚七"
     },
     {
@@ -267,16 +267,16 @@
       "duos_persona_min": "IglooBird"
     },
     {
-      "name": "Tinderlords",
-      "rank": 45,
-      "level_score": 21165,
-      "duos_persona_min": "Ero±ar"
-    },
-    {
       "name": "WSVP",
-      "rank": 46,
+      "rank": 45,
       "level_score": 21145,
       "duos_persona_min": "Chronic Stress"
+    },
+    {
+      "name": "Tinderlords",
+      "rank": 46,
+      "level_score": 21065,
+      "duos_persona_min": "Ero±ar"
     },
     {
       "name": "Pod Kapotom v12",
@@ -549,8 +549,14 @@
       "duos_persona_min": "Murmel"
     },
     {
-      "name": "team del cuore",
+      "name": "Original Gouvis",
       "rank": 92,
+      "level_score": 11655,
+      "duos_persona_min": "Weissblech"
+    },
+    {
+      "name": "team del cuore",
+      "rank": 93,
       "level_score": 10675,
       "duos_persona_min": "Sarka"
     }
