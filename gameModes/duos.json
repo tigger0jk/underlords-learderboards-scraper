@@ -1,6 +1,6 @@
 {
-  "time_posted": 1654258382,
-  "next_scheduled_post_time": 1654258442,
+  "time_posted": 1654261984,
+  "next_scheduled_post_time": 1654262044,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -381,22 +381,22 @@
       "duos_persona_min": "Rishti"
     },
     {
-      "name": "Сквиртолёт",
+      "name": "Spam",
       "rank": 64,
+      "level_score": 15635,
+      "duos_persona_min": "Arke"
+    },
+    {
+      "name": "Сквиртолёт",
+      "rank": 65,
       "level_score": 15555,
       "duos_persona_min": "HIDEMAN"
     },
     {
       "name": "Бубцы",
-      "rank": 65,
+      "rank": 66,
       "level_score": 15490,
       "duos_persona_min": "natylia1191"
-    },
-    {
-      "name": "Spam",
-      "rank": 66,
-      "level_score": 15435,
-      "duos_persona_min": "Arke"
     },
     {
       "name": "фин.махинации",
@@ -423,16 +423,16 @@
       "duos_persona_min": "lynus11s"
     },
     {
-      "name": "топ-4 дай бог",
-      "rank": 71,
-      "level_score": 14625,
-      "duos_persona_min": "Roldozer"
-    },
-    {
       "name": "227",
-      "rank": 72,
+      "rank": 71,
       "level_score": 14490,
       "duos_persona_min": "Boldi"
+    },
+    {
+      "name": "топ-4 дай бог",
+      "rank": 72,
+      "level_score": 14425,
+      "duos_persona_min": "Roldozer"
     },
     {
       "name": "Go for the eyes!",
