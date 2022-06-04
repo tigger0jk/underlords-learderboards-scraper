@@ -1,6 +1,6 @@
 {
-  "time_posted": 1654377183,
-  "next_scheduled_post_time": 1654377243,
+  "time_posted": 1654380784,
+  "next_scheduled_post_time": 1654380844,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -53,7 +53,7 @@
     {
       "name": "АИД",
       "rank": 9,
-      "level_score": 69765,
+      "level_score": 69965,
       "duos_persona_min": "Ario 2.0"
     },
     {
@@ -83,7 +83,7 @@
     {
       "name": "First placers",
       "rank": 14,
-      "level_score": 55605,
+      "level_score": 55705,
       "duos_persona_min": "kojic.lazar"
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "Too old to play",
       "rank": 16,
-      "level_score": 51480,
+      "level_score": 51580,
       "duos_persona_min": "SILENT4ever"
     },
     {
@@ -129,16 +129,16 @@
       "duos_persona_min": "Мелих"
     },
     {
-      "name": "Oompa Loompas",
+      "name": "2 Maiden 1 Tusk",
       "rank": 22,
-      "level_score": 37370,
-      "duos_persona_min": "MadQueen"
+      "level_score": 37385,
+      "duos_persona_min": "Hmarius"
     },
     {
-      "name": "2 Maiden 1 Tusk",
+      "name": "Oompa Loompas",
       "rank": 23,
-      "level_score": 37185,
-      "duos_persona_min": "Hmarius"
+      "level_score": 37370,
+      "duos_persona_min": "MadQueen"
     },
     {
       "name": "Kartoffelsalat",
@@ -347,7 +347,7 @@
     {
       "name": "джокеры из DNS",
       "rank": 58,
-      "level_score": 17445,
+      "level_score": 17545,
       "duos_persona_min": "камень ножницы бу"
     },
     {
@@ -371,7 +371,7 @@
     {
       "name": "Боевой Anal",
       "rank": 62,
-      "level_score": 16635,
+      "level_score": 16485,
       "duos_persona_min": "Sideliner"
     },
     {
@@ -395,7 +395,7 @@
     {
       "name": "Preben Brothers",
       "rank": 66,
-      "level_score": 16000,
+      "level_score": 15970,
       "duos_persona_min": "Something"
     },
     {
@@ -423,74 +423,80 @@
       "duos_persona_min": "Undividedme"
     },
     {
-      "name": "фин.махинации",
+      "name": "BT Basic Bitches",
       "rank": 71,
+      "level_score": 15540,
+      "duos_persona_min": "Just 3lb0!"
+    },
+    {
+      "name": "NighTCrowN",
+      "rank": 72,
+      "level_score": 15465,
+      "duos_persona_min": "SadneSSGOD"
+    },
+    {
+      "name": "фин.махинации",
+      "rank": 73,
       "level_score": 15435,
       "duos_persona_min": "Prihvosten'"
     },
     {
       "name": "Soja & vitlök",
-      "rank": 72,
+      "rank": 74,
       "level_score": 15430,
       "duos_persona_min": "DrDoom"
     },
     {
       "name": "Бубцы",
-      "rank": 73,
+      "rank": 75,
       "level_score": 15390,
       "duos_persona_min": "natylia1191"
     },
     {
-      "name": "Salt Miners",
-      "rank": 74,
-      "level_score": 15285,
-      "duos_persona_min": "ma boiii1"
-    },
-    {
       "name": "Protevistii",
-      "rank": 75,
+      "rank": 76,
       "level_score": 15205,
       "duos_persona_min": "Frost"
     },
     {
       "name": "топ-4 дай бог",
-      "rank": 76,
+      "rank": 77,
       "level_score": 14795,
       "duos_persona_min": "Roldozer"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 77,
+      "rank": 78,
       "level_score": 14380,
       "duos_persona_min": "skallen"
     },
     {
       "name": "7.11",
-      "rank": 78,
+      "rank": 79,
       "level_score": 14310,
       "duos_persona_min": "Seven_7.11"
     },
     {
       "name": "Данюшки",
-      "rank": 79,
+      "rank": 80,
       "level_score": 13985,
       "duos_persona_min": "神圣的雨"
     },
     {
       "name": "Fok jou",
-      "rank": 80,
+      "rank": 81,
       "level_score": 13655,
       "duos_persona_min": "Stormersbabe"
     },
     {
       "name": "VCG",
-      "rank": 81,
+      "rank": 82,
       "level_score": 12465,
       "duos_persona_min": "Murmel"
     },
     {
       "name": "Marmot",
-      "rank": 82,
+      "rank": 83,
       "level_score": 11290,
       "duos_persona_min": "TkSpawn1"
     }
