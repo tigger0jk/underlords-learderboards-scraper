@@ -1,6 +1,6 @@
 {
-  "time_posted": 1654431183,
-  "next_scheduled_post_time": 1654431243,
+  "time_posted": 1654434783,
+  "next_scheduled_post_time": 1654434843,
   "leaderboard": [
     {
       "name": "Lvl up U LARDASS",
@@ -23,7 +23,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 4,
-      "level_score": 80530,
+      "level_score": 80680,
       "duos_persona_min": "Mutex"
     },
     {
@@ -135,16 +135,16 @@
       "duos_persona_min": "Мелих"
     },
     {
-      "name": "2 Maiden 1 Tusk",
+      "name": "Oompa Loompas",
       "rank": 23,
-      "level_score": 37385,
-      "duos_persona_min": "Hmarius"
+      "level_score": 37570,
+      "duos_persona_min": "MadQueen"
     },
     {
-      "name": "Oompa Loompas",
+      "name": "2 Maiden 1 Tusk",
       "rank": 24,
-      "level_score": 37370,
-      "duos_persona_min": "MadQueen"
+      "level_score": 37385,
+      "duos_persona_min": "Hmarius"
     },
     {
       "name": "Kartoffelsalat",
@@ -287,7 +287,7 @@
     {
       "name": "STOP CHEATING",
       "rank": 48,
-      "level_score": 20700,
+      "level_score": 20600,
       "duos_persona_min": "KonZe"
     },
     {
@@ -405,22 +405,22 @@
       "duos_persona_min": "Something"
     },
     {
-      "name": "Охота на хохлов",
+      "name": "Spam",
       "rank": 68,
+      "level_score": 15985,
+      "duos_persona_min": "Arke"
+    },
+    {
+      "name": "Охота на хохлов",
+      "rank": 69,
       "level_score": 15950,
       "duos_persona_min": "[K] OpTeR"
     },
     {
       "name": "2 Potatoes",
-      "rank": 69,
+      "rank": 70,
       "level_score": 15920,
       "duos_persona_min": "Rishti"
-    },
-    {
-      "name": "Spam",
-      "rank": 70,
-      "level_score": 15785,
-      "duos_persona_min": "Arke"
     },
     {
       "name": "Schniddi",
@@ -443,7 +443,7 @@
     {
       "name": "NighTCrowN",
       "rank": 74,
-      "level_score": 15465,
+      "level_score": 15565,
       "duos_persona_min": "SadneSSGOD"
     },
     {
@@ -465,16 +465,16 @@
       "duos_persona_min": "natylia1191"
     },
     {
-      "name": "топ-4 дай бог",
+      "name": "VAN DARKHOLe",
       "rank": 78,
-      "level_score": 14795,
-      "duos_persona_min": "Roldozer"
+      "level_score": 15070,
+      "duos_persona_min": "b1k"
     },
     {
-      "name": "7.11",
+      "name": "топ-4 дай бог",
       "rank": 79,
-      "level_score": 14460,
-      "duos_persona_min": "Seven_7.11"
+      "level_score": 14795,
+      "duos_persona_min": "Roldozer"
     },
     {
       "name": "Go for the eyes!",
@@ -483,26 +483,32 @@
       "duos_persona_min": "skallen"
     },
     {
-      "name": "Данюшки",
+      "name": "7.11",
       "rank": 81,
+      "level_score": 14340,
+      "duos_persona_min": "Seven_7.11"
+    },
+    {
+      "name": "Данюшки",
+      "rank": 82,
       "level_score": 13985,
       "duos_persona_min": "神圣的雨"
     },
     {
       "name": "Fok jou",
-      "rank": 82,
-      "level_score": 13655,
+      "rank": 83,
+      "level_score": 13855,
       "duos_persona_min": "Stormersbabe"
     },
     {
       "name": "VCG",
-      "rank": 83,
+      "rank": 84,
       "level_score": 12465,
       "duos_persona_min": "Murmel"
     },
     {
       "name": "Marmot",
-      "rank": 84,
+      "rank": 85,
       "level_score": 11290,
       "duos_persona_min": "TkSpawn1"
     }
