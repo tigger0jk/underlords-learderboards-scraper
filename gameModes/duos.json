@@ -1,6 +1,6 @@
 {
-  "time_posted": 1655032383,
-  "next_scheduled_post_time": 1655032443,
+  "time_posted": 1655035984,
+  "next_scheduled_post_time": 1655036044,
   "leaderboard": [
     {
       "name": "2hp",
@@ -237,16 +237,16 @@
       "duos_persona_min": "laax"
     },
     {
-      "name": "Team Pisces",
-      "rank": 40,
-      "level_score": 19915,
-      "duos_persona_min": "tinkril"
-    },
-    {
       "name": "Nischelgamer",
-      "rank": 41,
+      "rank": 40,
       "level_score": 19905,
       "duos_persona_min": "wolfsstar"
+    },
+    {
+      "name": "Team Pisces",
+      "rank": 41,
+      "level_score": 19885,
+      "duos_persona_min": "tinkril"
     },
     {
       "name": "2 Chill Stonerz",
@@ -287,7 +287,7 @@
     {
       "name": "FielDerft",
       "rank": 48,
-      "level_score": 16985,
+      "level_score": 17135,
       "duos_persona_min": "FieldDuck"
     },
     {
