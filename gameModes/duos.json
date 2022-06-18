@@ -1,6 +1,6 @@
 {
-  "time_posted": 1655554397,
-  "next_scheduled_post_time": 1655554457,
+  "time_posted": 1655557998,
+  "next_scheduled_post_time": 1655558058,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -59,7 +59,7 @@
     {
       "name": "Cassage de fion",
       "rank": 10,
-      "level_score": 65380,
+      "level_score": 65480,
       "duos_persona_min": "Cortez"
     },
     {
@@ -225,34 +225,34 @@
       "duos_persona_min": "Hakiro Isuzu"
     },
     {
-      "name": "Jedi & Sith",
-      "rank": 38,
-      "level_score": 21510,
-      "duos_persona_min": "anyamermaid"
-    },
-    {
       "name": "Doggos",
-      "rank": 39,
+      "rank": 38,
       "level_score": 21480,
       "duos_persona_min": "null"
     },
     {
       "name": "Pod Kapotom v12",
-      "rank": 40,
+      "rank": 39,
       "level_score": 21470,
       "duos_persona_min": "Слава Україні!"
     },
     {
-      "name": "Team Pisces",
-      "rank": 41,
-      "level_score": 20505,
-      "duos_persona_min": "tinkril"
+      "name": "Jedi & Sith",
+      "rank": 40,
+      "level_score": 21410,
+      "duos_persona_min": "anyamermaid"
     },
     {
       "name": "Nischelgamer",
-      "rank": 42,
+      "rank": 41,
       "level_score": 20495,
       "duos_persona_min": "wolfsstar"
+    },
+    {
+      "name": "Team Pisces",
+      "rank": 42,
+      "level_score": 20475,
+      "duos_persona_min": "tinkril"
     },
     {
       "name": "SnG Bois",
@@ -305,7 +305,7 @@
     {
       "name": "ابوكم يحبكم",
       "rank": 51,
-      "level_score": 17285,
+      "level_score": 17255,
       "duos_persona_min": "IraKeR"
     },
     {
@@ -393,22 +393,22 @@
       "duos_persona_min": "JustStas"
     },
     {
-      "name": "Protevistii",
+      "name": "AiCetiGandon",
       "rank": 66,
+      "level_score": 15395,
+      "duos_persona_min": "bad and boujee-_-"
+    },
+    {
+      "name": "Protevistii",
+      "rank": 67,
       "level_score": 15335,
       "duos_persona_min": "Frost"
     },
     {
       "name": "DAMAGE DIETERS",
-      "rank": 67,
+      "rank": 68,
       "level_score": 15245,
       "duos_persona_min": "s1m0n"
-    },
-    {
-      "name": "AiCetiGandon",
-      "rank": 68,
-      "level_score": 15195,
-      "duos_persona_min": "bad and boujee-_-"
     },
     {
       "name": "Бубцы",
@@ -473,7 +473,7 @@
     {
       "name": "Marmot",
       "rank": 79,
-      "level_score": 10870,
+      "level_score": 10970,
       "duos_persona_min": "TkSpawn1"
     }
   ],
