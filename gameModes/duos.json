@@ -1,6 +1,6 @@
 {
-  "time_posted": 1655586797,
-  "next_scheduled_post_time": 1655586857,
+  "time_posted": 1655590397,
+  "next_scheduled_post_time": 1655590457,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -155,13 +155,13 @@
     {
       "name": "2 Maiden 1 Tusk",
       "rank": 26,
-      "level_score": 38335,
+      "level_score": 38485,
       "duos_persona_min": "Hmarius"
     },
     {
       "name": "TOUR DE LORDS",
       "rank": 27,
-      "level_score": 37575,
+      "level_score": 37425,
       "duos_persona_min": "PAYK"
     },
     {
@@ -219,52 +219,52 @@
       "duos_persona_min": "KonZe"
     },
     {
-      "name": "AnimeShmanime",
+      "name": "Козявочкины",
       "rank": 37,
+      "level_score": 22290,
+      "duos_persona_min": "What?"
+    },
+    {
+      "name": "AnimeShmanime",
+      "rank": 38,
       "level_score": 21925,
       "duos_persona_min": "Hakiro Isuzu"
     },
     {
       "name": "Pod Kapotom v12",
-      "rank": 38,
+      "rank": 39,
       "level_score": 21670,
       "duos_persona_min": "Слава Україні!"
     },
     {
       "name": "Jedi & Sith",
-      "rank": 39,
+      "rank": 40,
       "level_score": 21410,
       "duos_persona_min": "anyamermaid"
     },
     {
       "name": "Nischelgamer",
-      "rank": 40,
+      "rank": 41,
       "level_score": 20845,
       "duos_persona_min": "wolfsstar"
     },
     {
       "name": "Team Pisces",
-      "rank": 41,
+      "rank": 42,
       "level_score": 20595,
       "duos_persona_min": "tinkril"
     },
     {
       "name": "SnG Bois",
-      "rank": 42,
+      "rank": 43,
       "level_score": 19805,
       "duos_persona_min": "laax"
     },
     {
       "name": "TEAM NOOBS",
-      "rank": 43,
+      "rank": 44,
       "level_score": 19550,
       "duos_persona_min": "MADARA"
-    },
-    {
-      "name": "Говядина",
-      "rank": 44,
-      "level_score": 19210,
-      "duos_persona_min": "goose"
     },
     {
       "name": "まーしー＆みかど",
@@ -285,64 +285,64 @@
       "duos_persona_min": "x3k"
     },
     {
-      "name": "ЧАЧКА ПИПСОВ",
-      "rank": 48,
-      "level_score": 18260,
-      "duos_persona_min": "Zai"
-    },
-    {
       "name": "As a Badass",
-      "rank": 49,
+      "rank": 48,
       "level_score": 18120,
       "duos_persona_min": "Laborde"
     },
     {
       "name": "G'Lords",
-      "rank": 50,
+      "rank": 49,
       "level_score": 17910,
       "duos_persona_min": "B-Rabbit"
     },
     {
       "name": "фк коломяги",
-      "rank": 51,
+      "rank": 50,
       "level_score": 17555,
       "duos_persona_min": "StickTheGeneral"
     },
     {
       "name": "ابوكم يحبكم",
-      "rank": 52,
-      "level_score": 17285,
+      "rank": 51,
+      "level_score": 17485,
       "duos_persona_min": "IraKeR"
     },
     {
       "name": "FielDerft",
-      "rank": 53,
+      "rank": 52,
       "level_score": 17255,
       "duos_persona_min": "FieldDuck"
     },
     {
       "name": "Ошъялки",
-      "rank": 54,
+      "rank": 53,
       "level_score": 17040,
       "duos_persona_min": "[Igzibed]"
     },
     {
-      "name": "eeeee",
-      "rank": 55,
-      "level_score": 17025,
-      "duos_persona_min": "No__MercY"
-    },
-    {
       "name": "FLAP",
-      "rank": 56,
+      "rank": 54,
       "level_score": 17015,
       "duos_persona_min": "FabianusMaximus"
     },
     {
+      "name": "eeeee",
+      "rank": 55,
+      "level_score": 16995,
+      "duos_persona_min": "No__MercY"
+    },
+    {
       "name": "Schniddi",
-      "rank": 57,
+      "rank": 56,
       "level_score": 16665,
       "duos_persona_min": "Undividedme"
+    },
+    {
+      "name": "СтАлЬнЫх ИЭиТС",
+      "rank": 57,
+      "level_score": 16550,
+      "duos_persona_min": "Hadding"
     },
     {
       "name": "Soja & vitlök",
@@ -357,28 +357,28 @@
       "duos_persona_min": "Erken"
     },
     {
-      "name": "СтАлЬнЫх ИЭиТС",
-      "rank": 60,
-      "level_score": 16350,
-      "duos_persona_min": "Hadding"
-    },
-    {
       "name": "Spam",
-      "rank": 61,
+      "rank": 60,
       "level_score": 16265,
       "duos_persona_min": "Arke"
     },
     {
       "name": "BuTaЛя 6apMaTyXa",
-      "rank": 62,
+      "rank": 61,
       "level_score": 16085,
       "duos_persona_min": "6apMaTyXa"
     },
     {
       "name": "2 Potatoes",
-      "rank": 63,
+      "rank": 62,
       "level_score": 15970,
       "duos_persona_min": "Rishti"
+    },
+    {
+      "name": "AiCetiGandon",
+      "rank": 63,
+      "level_score": 15825,
+      "duos_persona_min": "bad and boujee-_-"
     },
     {
       "name": "Boude Seerower",
@@ -387,22 +387,22 @@
       "duos_persona_min": "DieAgterDeurBeer"
     },
     {
-      "name": "AiCetiGandon",
-      "rank": 65,
-      "level_score": 15625,
-      "duos_persona_min": "bad and boujee-_-"
-    },
-    {
       "name": "ForexPenguin.com",
-      "rank": 66,
+      "rank": 65,
       "level_score": 15520,
       "duos_persona_min": "Idegne"
     },
     {
       "name": "OkkkBoomer",
-      "rank": 67,
+      "rank": 66,
       "level_score": 15505,
       "duos_persona_min": "JustStas"
+    },
+    {
+      "name": "BT Basic Bitches",
+      "rank": 67,
+      "level_score": 15490,
+      "duos_persona_min": "Just 3lb0!"
     },
     {
       "name": "Protevistii",
@@ -479,7 +479,7 @@
     {
       "name": "7.11",
       "rank": 80,
-      "level_score": 12010,
+      "level_score": 12210,
       "duos_persona_min": "Seven_7.11"
     },
     {
