@@ -1,6 +1,6 @@
 {
-  "time_posted": 1656112382,
-  "next_scheduled_post_time": 1656112442,
+  "time_posted": 1656123182,
+  "next_scheduled_post_time": 1656123242,
   "leaderboard": [
     {
       "name": "2hp",
@@ -29,7 +29,7 @@
     {
       "name": "Yggdrasil",
       "rank": 5,
-      "level_score": 75050,
+      "level_score": 75080,
       "duos_persona_min": "Rynax"
     },
     {
@@ -207,22 +207,22 @@
       "duos_persona_min": "SchlammIrn"
     },
     {
-      "name": "обновите игру",
+      "name": "AdolfKitzler",
       "rank": 35,
+      "level_score": 20095,
+      "duos_persona_min": "Swansonson"
+    },
+    {
+      "name": "обновите игру",
+      "rank": 36,
       "level_score": 20080,
       "duos_persona_min": "Каспаров Гари"
     },
     {
       "name": "Les titilleurs",
-      "rank": 36,
+      "rank": 37,
       "level_score": 20035,
       "duos_persona_min": "Spartos"
-    },
-    {
-      "name": "AdolfKitzler",
-      "rank": 37,
-      "level_score": 19895,
-      "duos_persona_min": "Swansonson"
     },
     {
       "name": "ебем не глядя ",
@@ -375,34 +375,34 @@
       "duos_persona_min": "JustStas"
     },
     {
-      "name": "топ-1 надежно ",
-      "rank": 63,
-      "level_score": 15445,
-      "duos_persona_min": "Roldozer"
-    },
-    {
       "name": "fratii pedala",
-      "rank": 64,
+      "rank": 63,
       "level_score": 15430,
       "duos_persona_min": "Gymlii"
     },
     {
       "name": "Педро&Рикардо",
-      "rank": 65,
+      "rank": 64,
       "level_score": 15340,
       "duos_persona_min": "Lega"
     },
     {
       "name": "1winWith100hp!",
-      "rank": 66,
+      "rank": 65,
       "level_score": 15335,
       "duos_persona_min": "Luukaas"
     },
     {
       "name": "Preben Brothers",
-      "rank": 67,
+      "rank": 66,
       "level_score": 15330,
       "duos_persona_min": "Something"
+    },
+    {
+      "name": "топ-1 надежно ",
+      "rank": 67,
+      "level_score": 15295,
+      "duos_persona_min": "Roldozer"
     },
     {
       "name": "Dominators",
