@@ -1,6 +1,6 @@
 {
-  "time_posted": 1656522783,
-  "next_scheduled_post_time": 1656522843,
+  "time_posted": 1656526383,
+  "next_scheduled_post_time": 1656526443,
   "leaderboard": [
     {
       "name": "Lvl up U LARDASS",
@@ -23,7 +23,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 4,
-      "level_score": 85300,
+      "level_score": 85500,
       "duos_persona_min": "Mutex"
     },
     {
@@ -65,7 +65,7 @@
     {
       "name": "Непоседы",
       "rank": 11,
-      "level_score": 59460,
+      "level_score": 59660,
       "duos_persona_min": "enferoff"
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "кактус",
       "rank": 27,
-      "level_score": 30845,
+      "level_score": 30995,
       "duos_persona_min": "IDidn'tKnowSheWas15"
     },
     {
@@ -339,22 +339,22 @@
       "duos_persona_min": "Frost"
     },
     {
-      "name": "Dominators",
-      "rank": 57,
-      "level_score": 15765,
-      "duos_persona_min": "CHarry SupPotter"
-    },
-    {
       "name": "QueueBacca",
-      "rank": 58,
+      "rank": 57,
       "level_score": 15760,
       "duos_persona_min": "Just 3lb0!"
     },
     {
       "name": "МЫяЗаПутина",
-      "rank": 59,
+      "rank": 58,
       "level_score": 15690,
       "duos_persona_min": "Тихий Дон"
+    },
+    {
+      "name": "Dominators",
+      "rank": 59,
+      "level_score": 15615,
+      "duos_persona_min": "CHarry SupPotter"
     },
     {
       "name": "Педро&Рикардо",
