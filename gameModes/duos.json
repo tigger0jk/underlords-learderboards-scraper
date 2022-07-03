@@ -1,6 +1,6 @@
 {
-  "time_posted": 1656871983,
-  "next_scheduled_post_time": 1656872043,
+  "time_posted": 1656875583,
+  "next_scheduled_post_time": 1656875643,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -83,7 +83,7 @@
     {
       "name": "Ộc Chô",
       "rank": 14,
-      "level_score": 43430,
+      "level_score": 43400,
       "duos_persona_min": "◯△□ ❹❺❻"
     },
     {
@@ -195,16 +195,16 @@
       "duos_persona_min": "Swansonson"
     },
     {
-      "name": "Говядина",
+      "name": "ебем не глядя ",
       "rank": 33,
-      "level_score": 19830,
-      "duos_persona_min": "goose"
+      "level_score": 20005,
+      "duos_persona_min": "Adolfo Ganzalo"
     },
     {
-      "name": "ебем не глядя ",
+      "name": "Говядина",
       "rank": 34,
-      "level_score": 19805,
-      "duos_persona_min": "Adolfo Ganzalo"
+      "level_score": 19830,
+      "duos_persona_min": "goose"
     },
     {
       "name": "Fucc boiz",
@@ -275,7 +275,7 @@
     {
       "name": "咱就是榜一张老头",
       "rank": 46,
-      "level_score": 16465,
+      "level_score": 16495,
       "duos_persona_min": "我的修补匠呢?"
     },
     {
@@ -391,6 +391,12 @@
       "rank": 65,
       "level_score": 10915,
       "duos_persona_min": "Sarka"
+    },
+    {
+      "name": "Marmot",
+      "rank": 66,
+      "level_score": 10720,
+      "duos_persona_min": "TkSpawn1"
     }
   ],
   "success": true
