@@ -1,6 +1,6 @@
 {
-  "time_posted": 1657473181,
-  "next_scheduled_post_time": 1657473241,
+  "time_posted": 1657476782,
+  "next_scheduled_post_time": 1657476842,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -23,7 +23,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 4,
-      "level_score": 88280,
+      "level_score": 88480,
       "duos_persona_min": "Mutex"
     },
     {
@@ -83,7 +83,7 @@
     {
       "name": "Калхознікі",
       "rank": 14,
-      "level_score": 45430,
+      "level_score": 45630,
       "duos_persona_min": "Кіт Борис"
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "Sabotage",
       "rank": 30,
-      "level_score": 21235,
+      "level_score": 21335,
       "duos_persona_min": "WarTraveler"
     },
     {
@@ -285,46 +285,46 @@
       "duos_persona_min": "Arke"
     },
     {
-      "name": "Kinky party",
+      "name": "Never Surrender",
       "rank": 48,
+      "level_score": 16785,
+      "duos_persona_min": "Hort"
+    },
+    {
+      "name": "Kinky party",
+      "rank": 49,
       "level_score": 16695,
       "duos_persona_min": "sweety_nagibator1337"
     },
     {
       "name": "Rexor & Thorgrim",
-      "rank": 49,
+      "rank": 50,
       "level_score": 16420,
       "duos_persona_min": "[AFS] IronI"
     },
     {
       "name": "Schniddi",
-      "rank": 50,
+      "rank": 51,
       "level_score": 16195,
       "duos_persona_min": "Undividedme"
     },
     {
       "name": "Пилигрим Тук",
-      "rank": 51,
+      "rank": 52,
       "level_score": 16115,
       "duos_persona_min": "Captain Jack Sparrow"
     },
     {
       "name": "Dominators",
-      "rank": 52,
+      "rank": 53,
       "level_score": 16015,
       "duos_persona_min": "CHarry SupPotter"
     },
     {
       "name": "Педро&Рикардо",
-      "rank": 53,
+      "rank": 54,
       "level_score": 15850,
       "duos_persona_min": "Lega"
-    },
-    {
-      "name": "1winWith100hp!",
-      "rank": 54,
-      "level_score": 15785,
-      "duos_persona_min": "Luukaas"
     },
     {
       "name": "жадные до ганджи",
@@ -333,74 +333,80 @@
       "duos_persona_min": "Mikky Pirson"
     },
     {
-      "name": "ELP ELP",
+      "name": "1winWith100hp!",
       "rank": 56,
+      "level_score": 15585,
+      "duos_persona_min": "Luukaas"
+    },
+    {
+      "name": "ELP ELP",
+      "rank": 57,
       "level_score": 15365,
       "duos_persona_min": "CHAPKA."
     },
     {
       "name": "Preben Brothers",
-      "rank": 57,
+      "rank": 58,
       "level_score": 15280,
       "duos_persona_min": "Something"
     },
     {
       "name": "Бубцы",
-      "rank": 58,
+      "rank": 59,
       "level_score": 15260,
       "duos_persona_min": "natylia1191"
     },
     {
       "name": "PencilTrollz",
-      "rank": 59,
+      "rank": 60,
       "level_score": 15105,
       "duos_persona_min": "texie"
     },
     {
       "name": "Вафельки!",
-      "rank": 60,
+      "rank": 61,
       "level_score": 14895,
       "duos_persona_min": "Tartios"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 61,
+      "rank": 62,
       "level_score": 13990,
       "duos_persona_min": "skallen"
     },
     {
       "name": "UgMa.....",
-      "rank": 62,
+      "rank": 63,
       "level_score": 13870,
       "duos_persona_min": "Mayu"
     },
     {
       "name": "хоть бы не 5",
-      "rank": 63,
+      "rank": 64,
       "level_score": 13605,
       "duos_persona_min": "Roldozer"
     },
     {
+      "name": "7.11",
+      "rank": 65,
+      "level_score": 12710,
+      "duos_persona_min": "Seven_7.11"
+    },
+    {
       "name": "VCG",
-      "rank": 64,
+      "rank": 66,
       "level_score": 12705,
       "duos_persona_min": "Murmel"
     },
     {
-      "name": "7.11",
-      "rank": 65,
-      "level_score": 12560,
-      "duos_persona_min": "Seven_7.11"
-    },
-    {
       "name": "team del cuore",
-      "rank": 66,
-      "level_score": 11065,
+      "rank": 67,
+      "level_score": 11095,
       "duos_persona_min": "Sarka"
     },
     {
       "name": "Leteci Stojko",
-      "rank": 67,
+      "rank": 68,
       "level_score": 7940,
       "duos_persona_min": "NoPain"
     }
