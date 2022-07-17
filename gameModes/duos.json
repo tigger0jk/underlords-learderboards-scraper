@@ -1,6 +1,6 @@
 {
-  "time_posted": 1658056388,
-  "next_scheduled_post_time": 1658056448,
+  "time_posted": 1658059985,
+  "next_scheduled_post_time": 1658060045,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -23,7 +23,7 @@
     {
       "name": "Семейка Адамс",
       "rank": 4,
-      "level_score": 88980,
+      "level_score": 89180,
       "duos_persona_min": "Mutex"
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "MartiniLovers",
       "rank": 17,
-      "level_score": 33935,
+      "level_score": 33905,
       "duos_persona_min": "Tapas"
     },
     {
@@ -353,7 +353,7 @@
     {
       "name": "7.11",
       "rank": 59,
-      "level_score": 12980,
+      "level_score": 13010,
       "duos_persona_min": "Seven_7.11"
     },
     {
@@ -361,6 +361,12 @@
       "rank": 60,
       "level_score": 12945,
       "duos_persona_min": "Murmel"
+    },
+    {
+      "name": "team del cuore",
+      "rank": 61,
+      "level_score": 10595,
+      "duos_persona_min": "Sarka"
     }
   ],
   "success": true
