@@ -1,6 +1,6 @@
 {
-  "time_posted": 1658052785,
-  "next_scheduled_post_time": 1658052845,
+  "time_posted": 1658056388,
+  "next_scheduled_post_time": 1658056448,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -83,7 +83,7 @@
     {
       "name": "Kartoffelsalat",
       "rank": 14,
-      "level_score": 40060,
+      "level_score": 40090,
       "duos_persona_min": "Alopetz"
     },
     {
@@ -201,22 +201,22 @@
       "duos_persona_min": "Cliquez"
     },
     {
-      "name": "фк коломяги",
+      "name": "ابوكم يحبكم",
       "rank": 34,
+      "level_score": 17845,
+      "duos_persona_min": "IraKeR"
+    },
+    {
+      "name": "фк коломяги",
+      "rank": 35,
       "level_score": 17775,
       "duos_persona_min": "StickTheGeneral"
     },
     {
       "name": "Redhead Beasts",
-      "rank": 35,
+      "rank": 36,
       "level_score": 17710,
       "duos_persona_min": "Ruf"
-    },
-    {
-      "name": "ابوكم يحبكم",
-      "rank": 36,
-      "level_score": 17695,
-      "duos_persona_min": "IraKeR"
     },
     {
       "name": "Пора Тащить!",
@@ -351,16 +351,16 @@
       "duos_persona_min": "Mayu"
     },
     {
-      "name": "VCG",
+      "name": "7.11",
       "rank": 59,
-      "level_score": 12945,
-      "duos_persona_min": "Murmel"
+      "level_score": 12980,
+      "duos_persona_min": "Seven_7.11"
     },
     {
-      "name": "7.11",
+      "name": "VCG",
       "rank": 60,
-      "level_score": 12780,
-      "duos_persona_min": "Seven_7.11"
+      "level_score": 12945,
+      "duos_persona_min": "Murmel"
     }
   ],
   "success": true
