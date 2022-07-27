@@ -1,6 +1,6 @@
 {
-  "time_posted": 1658934785,
-  "next_scheduled_post_time": 1658934845,
+  "time_posted": 1658938386,
+  "next_scheduled_post_time": 1658938446,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -17,7 +17,7 @@
     {
       "name": "喜欢刚交的女朋友",
       "rank": 3,
-      "level_score": 96470,
+      "level_score": 96500,
       "duos_persona_min": "ahegao"
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "BLUP",
       "rank": 16,
-      "level_score": 41205,
+      "level_score": 41405,
       "duos_persona_min": "Sophos"
     },
     {
@@ -125,7 +125,7 @@
     {
       "name": "Wehrmacht",
       "rank": 21,
-      "level_score": 35675,
+      "level_score": 35875,
       "duos_persona_min": "VectivuS"
     },
     {
@@ -305,13 +305,13 @@
     {
       "name": "Rexor & Thorgrim",
       "rank": 51,
-      "level_score": 16710,
+      "level_score": 16680,
       "duos_persona_min": "[AFS] IronI"
     },
     {
       "name": "1winWith100hp!",
       "rank": 52,
-      "level_score": 16515,
+      "level_score": 16615,
       "duos_persona_min": "Luukaas"
     },
     {
@@ -447,8 +447,14 @@
       "duos_persona_min": "Mayu"
     },
     {
-      "name": "7.11",
+      "name": "VCG",
       "rank": 75,
+      "level_score": 13165,
+      "duos_persona_min": "Murmel"
+    },
+    {
+      "name": "7.11",
+      "rank": 76,
       "level_score": 12660,
       "duos_persona_min": "Seven_7.11"
     }
