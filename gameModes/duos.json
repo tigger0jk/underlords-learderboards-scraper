@@ -1,6 +1,6 @@
 {
-  "time_posted": 1658938386,
-  "next_scheduled_post_time": 1658938446,
+  "time_posted": 1658941984,
+  "next_scheduled_post_time": 1658942044,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -53,7 +53,7 @@
     {
       "name": "H4ndsƒree™",
       "rank": 9,
-      "level_score": 68290,
+      "level_score": 68440,
       "duos_persona_min": "H4ndsƒree"
     },
     {
@@ -95,7 +95,7 @@
     {
       "name": "BLUP",
       "rank": 16,
-      "level_score": 41405,
+      "level_score": 41555,
       "duos_persona_min": "Sophos"
     },
     {
@@ -129,16 +129,16 @@
       "duos_persona_min": "VectivuS"
     },
     {
-      "name": "One Big Holiday",
+      "name": "MartiniLovers",
       "rank": 22,
-      "level_score": 33785,
-      "duos_persona_min": "81waves"
+      "level_score": 33805,
+      "duos_persona_min": "Tapas"
     },
     {
-      "name": "MartiniLovers",
+      "name": "One Big Holiday",
       "rank": 23,
-      "level_score": 33775,
-      "duos_persona_min": "Tapas"
+      "level_score": 33785,
+      "duos_persona_min": "81waves"
     },
     {
       "name": "В Душевой..",
@@ -149,7 +149,7 @@
     {
       "name": "укус паукус",
       "rank": 25,
-      "level_score": 32000,
+      "level_score": 32200,
       "duos_persona_min": "and"
     },
     {
@@ -285,16 +285,16 @@
       "duos_persona_min": "IraKeR"
     },
     {
-      "name": "Пинки и Брейн",
+      "name": "Пора Тащить!",
       "rank": 48,
-      "level_score": 17875,
-      "duos_persona_min": "Vasyash"
+      "level_score": 17960,
+      "duos_persona_min": "Вода"
     },
     {
-      "name": "Пора Тащить!",
+      "name": "Пинки и Брейн",
       "rank": 49,
-      "level_score": 17760,
-      "duos_persona_min": "Вода"
+      "level_score": 17875,
+      "duos_persona_min": "Vasyash"
     },
     {
       "name": "Trafic de Buci",
@@ -311,7 +311,7 @@
     {
       "name": "1winWith100hp!",
       "rank": 52,
-      "level_score": 16615,
+      "level_score": 16585,
       "duos_persona_min": "Luukaas"
     },
     {
@@ -363,16 +363,16 @@
       "duos_persona_min": "我的修补匠呢?"
     },
     {
-      "name": "DAMAGE DIETERS",
-      "rank": 61,
-      "level_score": 15875,
-      "duos_persona_min": "s1m0n"
-    },
-    {
       "name": "Очконадиратели",
-      "rank": 62,
+      "rank": 61,
       "level_score": 15640,
       "duos_persona_min": "[R]nal@yde  凸(◣_◢)凸"
+    },
+    {
+      "name": "DAMAGE DIETERS",
+      "rank": 62,
+      "level_score": 15575,
+      "duos_persona_min": "s1m0n"
     },
     {
       "name": "Propellerpenisse",
@@ -383,80 +383,62 @@
     {
       "name": "",
       "rank": 64,
-      "level_score": 15405,
-      "duos_persona_min": "bakanov.volodya2016"
-    },
-    {
-      "name": "Заказывай лицо",
-      "rank": 65,
-      "level_score": 15290,
-      "duos_persona_min": "Rosy_A"
-    },
-    {
-      "name": "",
-      "rank": 66,
       "level_score": 15205,
       "duos_persona_min": "BigAl"
     },
     {
       "name": "Transboys",
-      "rank": 67,
+      "rank": 65,
       "level_score": 15190,
       "duos_persona_min": "Cᴏʀᴏɴᴀ Cᴏᴏғᴇʀ"
     },
     {
       "name": "Ы",
-      "rank": 68,
-      "level_score": 15150,
+      "rank": 66,
+      "level_score": 15120,
       "duos_persona_min": "janeabramovaspb"
     },
     {
       "name": "Вафельки!",
-      "rank": 69,
+      "rank": 67,
       "level_score": 14965,
       "duos_persona_min": "Tartios"
     },
     {
       "name": "PornForce",
-      "rank": 70,
+      "rank": 68,
       "level_score": 14940,
       "duos_persona_min": "Vaginator†"
     },
     {
       "name": "Бубцы",
-      "rank": 71,
+      "rank": 69,
       "level_score": 14760,
       "duos_persona_min": "natylia1191"
     },
     {
       "name": "Данюшки",
-      "rank": 72,
+      "rank": 70,
       "level_score": 14485,
       "duos_persona_min": "神圣的雨"
     },
     {
       "name": "Majin Mafia",
-      "rank": 73,
+      "rank": 71,
       "level_score": 14205,
       "duos_persona_min": "majinr"
     },
     {
       "name": "vitunvittu",
-      "rank": 74,
+      "rank": 72,
       "level_score": 13590,
       "duos_persona_min": "Mayu"
     },
     {
       "name": "VCG",
-      "rank": 75,
+      "rank": 73,
       "level_score": 13165,
       "duos_persona_min": "Murmel"
-    },
-    {
-      "name": "7.11",
-      "rank": 76,
-      "level_score": 12660,
-      "duos_persona_min": "Seven_7.11"
     }
   ],
   "success": true
