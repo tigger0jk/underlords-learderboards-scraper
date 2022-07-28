@@ -1,6 +1,6 @@
 {
-  "time_posted": 1659028385,
-  "next_scheduled_post_time": 1659028445,
+  "time_posted": 1659031985,
+  "next_scheduled_post_time": 1659032045,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -95,7 +95,7 @@
     {
       "name": "BLUP",
       "rank": 16,
-      "level_score": 41555,
+      "level_score": 41585,
       "duos_persona_min": "Sophos"
     },
     {
@@ -267,16 +267,16 @@
       "duos_persona_min": "IraKeR"
     },
     {
-      "name": "Peach Boyz",
+      "name": "Пора Тащить!",
       "rank": 45,
-      "level_score": 18260,
-      "duos_persona_min": "Erken"
+      "level_score": 18310,
+      "duos_persona_min": "Вода"
     },
     {
-      "name": "Пора Тащить!",
+      "name": "Peach Boyz",
       "rank": 46,
-      "level_score": 18210,
-      "duos_persona_min": "Вода"
+      "level_score": 18260,
+      "duos_persona_min": "Erken"
     },
     {
       "name": "Пинки и Брейн",
@@ -439,6 +439,12 @@
       "rank": 73,
       "level_score": 13165,
       "duos_persona_min": "Murmel"
+    },
+    {
+      "name": "team del cuore",
+      "rank": 74,
+      "level_score": 10925,
+      "duos_persona_min": "Sarka"
     }
   ],
   "success": true
