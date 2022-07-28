@@ -1,6 +1,6 @@
 {
-  "time_posted": 1659031985,
-  "next_scheduled_post_time": 1659032045,
+  "time_posted": 1659035584,
+  "next_scheduled_post_time": 1659035644,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -227,7 +227,7 @@
     {
       "name": "Les titilleurs",
       "rank": 38,
-      "level_score": 21085,
+      "level_score": 21315,
       "duos_persona_min": "Spartos"
     },
     {
@@ -327,124 +327,136 @@
       "duos_persona_min": "Frost"
     },
     {
-      "name": "ELP ELP",
+      "name": "Schniddi",
       "rank": 55,
+      "level_score": 16425,
+      "duos_persona_min": "Undividedme"
+    },
+    {
+      "name": "ELP ELP",
+      "rank": 56,
       "level_score": 16285,
       "duos_persona_min": "CHAPKA."
     },
     {
       "name": "Заебешь1день",
-      "rank": 56,
+      "rank": 57,
       "level_score": 16250,
       "duos_persona_min": "Lega"
     },
     {
       "name": "Preben Brothers",
-      "rank": 57,
+      "rank": 58,
       "level_score": 16190,
       "duos_persona_min": "Something"
     },
     {
       "name": "Lauren<3",
-      "rank": 58,
+      "rank": 59,
       "level_score": 16070,
       "duos_persona_min": "lisewies"
     },
     {
       "name": "АУ ПГУ",
-      "rank": 59,
+      "rank": 60,
       "level_score": 15935,
       "duos_persona_min": "Aidaxo"
     },
     {
       "name": "咱就是榜一张老头",
-      "rank": 60,
+      "rank": 61,
       "level_score": 15915,
       "duos_persona_min": "我的修补匠呢?"
     },
     {
       "name": "Очконадиратели",
-      "rank": 61,
+      "rank": 62,
       "level_score": 15640,
       "duos_persona_min": "[R]nal@yde  凸(◣_◢)凸"
     },
     {
       "name": "DAMAGE DIETERS",
-      "rank": 62,
+      "rank": 63,
       "level_score": 15575,
       "duos_persona_min": "s1m0n"
     },
     {
       "name": "Propellerpenisse",
-      "rank": 63,
+      "rank": 64,
       "level_score": 15475,
       "duos_persona_min": "★★★Obiwankenobi★★★"
     },
     {
       "name": "",
-      "rank": 64,
+      "rank": 65,
       "level_score": 15205,
       "duos_persona_min": "BigAl"
     },
     {
       "name": "Transboys",
-      "rank": 65,
+      "rank": 66,
       "level_score": 15190,
       "duos_persona_min": "Cᴏʀᴏɴᴀ Cᴏᴏғᴇʀ"
     },
     {
       "name": "Ы",
-      "rank": 66,
+      "rank": 67,
       "level_score": 15050,
       "duos_persona_min": "janeabramovaspb"
     },
     {
       "name": "Бубцы",
-      "rank": 67,
+      "rank": 68,
       "level_score": 14960,
       "duos_persona_min": "natylia1191"
     },
     {
       "name": "PornForce",
-      "rank": 68,
+      "rank": 69,
       "level_score": 14940,
       "duos_persona_min": "Vaginator†"
     },
     {
       "name": "Вафельки!",
-      "rank": 69,
+      "rank": 70,
       "level_score": 14595,
       "duos_persona_min": "Tartios"
     },
     {
       "name": "Данюшки",
-      "rank": 70,
+      "rank": 71,
       "level_score": 14485,
       "duos_persona_min": "神圣的雨"
     },
     {
       "name": "Majin Mafia",
-      "rank": 71,
+      "rank": 72,
       "level_score": 14205,
       "duos_persona_min": "majinr"
     },
     {
       "name": "vitunvittu",
-      "rank": 72,
+      "rank": 73,
       "level_score": 13590,
       "duos_persona_min": "Mayu"
     },
     {
       "name": "VCG",
-      "rank": 73,
+      "rank": 74,
       "level_score": 13165,
       "duos_persona_min": "Murmel"
     },
     {
       "name": "team del cuore",
-      "rank": 74,
+      "rank": 75,
       "level_score": 10925,
       "duos_persona_min": "Sarka"
+    },
+    {
+      "name": "Leteci Stojko",
+      "rank": 76,
+      "level_score": 7980,
+      "duos_persona_min": "NoPain"
     }
   ],
   "success": true
