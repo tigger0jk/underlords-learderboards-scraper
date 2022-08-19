@@ -1,6 +1,6 @@
 {
-  "time_posted": 1660918390,
-  "next_scheduled_post_time": 1660918450,
+  "time_posted": 1660921990,
+  "next_scheduled_post_time": 1660922050,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -89,7 +89,7 @@
     {
       "name": "Wehrmacht",
       "rank": 15,
-      "level_score": 38995,
+      "level_score": 39195,
       "duos_persona_min": "VectivuS"
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Pepega Jugend2",
       "rank": 26,
-      "level_score": 20835,
+      "level_score": 21035,
       "duos_persona_min": "ahj0#"
     },
     {
@@ -303,14 +303,20 @@
       "duos_persona_min": "Balmipour"
     },
     {
-      "name": "7.11",
+      "name": "Majin Mafia",
       "rank": 51,
+      "level_score": 13575,
+      "duos_persona_min": "majinr"
+    },
+    {
+      "name": "7.11",
+      "rank": 52,
       "level_score": 12830,
       "duos_persona_min": "Seven_7.11"
     },
     {
       "name": "VCG",
-      "rank": 52,
+      "rank": 53,
       "level_score": 12605,
       "duos_persona_min": "Murmel"
     }
