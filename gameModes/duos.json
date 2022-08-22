@@ -1,6 +1,6 @@
 {
-  "time_posted": 1661181184,
-  "next_scheduled_post_time": 1661181244,
+  "time_posted": 1661184783,
+  "next_scheduled_post_time": 1661184843,
   "leaderboard": [
     {
       "name": "Vua của Hà Nội ",
@@ -441,16 +441,16 @@
       "duos_persona_min": "majinr"
     },
     {
-      "name": "VCG",
-      "rank": 74,
-      "level_score": 12625,
-      "duos_persona_min": "Murmel"
-    },
-    {
       "name": "7.11",
-      "rank": 75,
+      "rank": 74,
       "level_score": 12540,
       "duos_persona_min": "Seven_7.11"
+    },
+    {
+      "name": "VCG",
+      "rank": 75,
+      "level_score": 12525,
+      "duos_persona_min": "Murmel"
     }
   ],
   "success": true
