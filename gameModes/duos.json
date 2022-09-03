@@ -1,6 +1,6 @@
 {
-  "time_posted": 1662203586,
-  "next_scheduled_post_time": 1662203646,
+  "time_posted": 1662207189,
+  "next_scheduled_post_time": 1662207249,
   "leaderboard": [
     {
       "name": "OnkelSchmalbrust",
@@ -251,7 +251,7 @@
     {
       "name": "PencilTrollz",
       "rank": 42,
-      "level_score": 15825,
+      "level_score": 16025,
       "duos_persona_min": "texie"
     },
     {
@@ -267,14 +267,20 @@
       "duos_persona_min": "b1k"
     },
     {
-      "name": "Нагибаторы",
+      "name": "Рефреш на омнике",
       "rank": 45,
+      "level_score": 15070,
+      "duos_persona_min": "euroMOPS"
+    },
+    {
+      "name": "Нагибаторы",
+      "rank": 46,
       "level_score": 15055,
       "duos_persona_min": "bakanov.volodya2016"
     },
     {
       "name": "Oompa Loompas",
-      "rank": 46,
+      "rank": 47,
       "level_score": 14980,
       "duos_persona_min": "Kumo"
     }
