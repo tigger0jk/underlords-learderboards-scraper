@@ -1,6 +1,6 @@
 {
-  "time_posted": 1664215989,
-  "next_scheduled_post_time": 1664216049,
+  "time_posted": 1664219590,
+  "next_scheduled_post_time": 1664219650,
   "leaderboard": [
     {
       "name": "Sleeporz",
@@ -93,16 +93,16 @@
       "duos_persona_min": "Nyx"
     },
     {
-      "name": "Козявочкины",
+      "name": "Svanen og Bæstet",
       "rank": 16,
-      "level_score": 25560,
-      "duos_persona_min": "What?"
+      "level_score": 30925,
+      "duos_persona_min": "mikkeleh"
     },
     {
-      "name": "AnimeShmanime",
+      "name": "Козявочкины",
       "rank": 17,
-      "level_score": 24735,
-      "duos_persona_min": "Hikaro Isuzu"
+      "level_score": 25560,
+      "duos_persona_min": "What?"
     },
     {
       "name": "LeeghoofdLucas",
@@ -155,7 +155,7 @@
     {
       "name": "Могилізація",
       "rank": 26,
-      "level_score": 20300,
+      "level_score": 20100,
       "duos_persona_min": "MaXaM"
     },
     {
@@ -265,6 +265,12 @@
       "rank": 44,
       "level_score": 14490,
       "duos_persona_min": "Cᴏʀᴏɴᴀ Cᴏᴏғᴇʀ"
+    },
+    {
+      "name": "KnUlLaRnNa",
+      "rank": 45,
+      "level_score": 13105,
+      "duos_persona_min": "Terry A. Davis"
     }
   ],
   "success": true
