@@ -1,6 +1,6 @@
 {
-  "time_posted": 1664734390,
-  "next_scheduled_post_time": 1664734450,
+  "time_posted": 1664737990,
+  "next_scheduled_post_time": 1664738050,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
@@ -23,7 +23,7 @@
     {
       "name": "Next Level Play",
       "rank": 4,
-      "level_score": 77895,
+      "level_score": 78095,
       "duos_persona_min": "CrackerJack"
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "First placers",
       "rank": 9,
-      "level_score": 57255,
+      "level_score": 57355,
       "duos_persona_min": "kojic.lazar"
     },
     {
@@ -161,7 +161,7 @@
     {
       "name": "Могилізація",
       "rank": 27,
-      "level_score": 20510,
+      "level_score": 20160,
       "duos_persona_min": "MaXaM"
     },
     {
@@ -189,57 +189,57 @@
       "duos_persona_min": "JustYell"
     },
     {
-      "name": "NO CRIMINALITY",
+      "name": "Go for the eyes!",
       "rank": 32,
+      "level_score": 18050,
+      "duos_persona_min": "skallen"
+    },
+    {
+      "name": "NO CRIMINALITY",
+      "rank": 33,
       "level_score": 17795,
       "duos_persona_min": "yermakoff#"
     },
     {
       "name": "Лихие Лекари",
-      "rank": 33,
+      "rank": 34,
       "level_score": 17570,
       "duos_persona_min": "Dark Wolf"
     },
     {
       "name": "ohmahgawd",
-      "rank": 34,
+      "rank": 35,
       "level_score": 17410,
       "duos_persona_min": "lolen32k"
     },
     {
+      "name": "ГейВечеринка",
+      "rank": 36,
+      "level_score": 17070,
+      "duos_persona_min": "Lega"
+    },
+    {
       "name": "PencilTrollz",
-      "rank": 35,
+      "rank": 37,
       "level_score": 17065,
       "duos_persona_min": "texie"
     },
     {
       "name": "CoCaJIuTu",
-      "rank": 36,
+      "rank": 38,
       "level_score": 17045,
       "duos_persona_min": "☂♪yamakasi♪"
     },
     {
-      "name": "ГейВечеринка",
-      "rank": 37,
-      "level_score": 17040,
-      "duos_persona_min": "Lega"
-    },
-    {
       "name": "Oculus Prime",
-      "rank": 38,
-      "level_score": 16065,
-      "duos_persona_min": "gr0m0vnik"
-    },
-    {
-      "name": "FuckBooooyyyzzz",
       "rank": 39,
-      "level_score": 15700,
-      "duos_persona_min": "Hambühen"
+      "level_score": 15865,
+      "duos_persona_min": "gr0m0vnik"
     },
     {
       "name": "Бубцы",
       "rank": 40,
-      "level_score": 15650,
+      "level_score": 15620,
       "duos_persona_min": "natylia1191"
     },
     {
@@ -279,16 +279,16 @@
       "duos_persona_min": "правый аристарх"
     },
     {
-      "name": "VCG",
+      "name": "7.11",
       "rank": 47,
-      "level_score": 12835,
-      "duos_persona_min": "Murmel"
+      "level_score": 12840,
+      "duos_persona_min": "Seven_7.11"
     },
     {
-      "name": "7.11",
+      "name": "VCG",
       "rank": 48,
-      "level_score": 12810,
-      "duos_persona_min": "Seven_7.11"
+      "level_score": 12835,
+      "duos_persona_min": "Murmel"
     }
   ],
   "success": true
