@@ -1,11 +1,11 @@
 {
-  "time_posted": 1664727190,
-  "next_scheduled_post_time": 1664727250,
+  "time_posted": 1664730791,
+  "next_scheduled_post_time": 1664730851,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
       "rank": 1,
-      "level_score": 100460,
+      "level_score": 100490,
       "duos_persona_min": "Mutex"
     },
     {
@@ -41,7 +41,7 @@
     {
       "name": "Milfhunters",
       "rank": 7,
-      "level_score": 67315,
+      "level_score": 67515,
       "duos_persona_min": "NoobfromEU"
     },
     {
@@ -83,7 +83,7 @@
     {
       "name": "мужчины",
       "rank": 14,
-      "level_score": 32635,
+      "level_score": 32665,
       "duos_persona_min": "IDidn'tKnowSheWas15"
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "А - Асобеные",
       "rank": 30,
-      "level_score": 19120,
+      "level_score": 19090,
       "duos_persona_min": "JustYell"
     },
     {
@@ -225,34 +225,34 @@
       "duos_persona_min": "gr0m0vnik"
     },
     {
-      "name": "2 Sepui",
-      "rank": 38,
-      "level_score": 15895,
-      "duos_persona_min": "Muorsa"
-    },
-    {
       "name": "FuckBooooyyyzzz",
-      "rank": 39,
+      "rank": 38,
       "level_score": 15700,
       "duos_persona_min": "Hambühen"
     },
     {
       "name": "Везучие",
-      "rank": 40,
+      "rank": 39,
       "level_score": 15250,
       "duos_persona_min": "malov86"
     },
     {
       "name": "Волопас",
-      "rank": 41,
+      "rank": 40,
       "level_score": 15115,
       "duos_persona_min": "Lesnoi_bolvan"
     },
     {
       "name": "IQOS TEAM",
-      "rank": 42,
+      "rank": 41,
       "level_score": 15025,
       "duos_persona_min": "baby tuyul"
+    },
+    {
+      "name": "Furlasocafofo",
+      "rank": 42,
+      "level_score": 14920,
+      "duos_persona_min": "Fuzue LOko"
     },
     {
       "name": "SIEGER!HAHAHA",
@@ -271,6 +271,12 @@
       "rank": 45,
       "level_score": 12870,
       "duos_persona_min": "Seven_7.11"
+    },
+    {
+      "name": "VCG",
+      "rank": 46,
+      "level_score": 12635,
+      "duos_persona_min": "Murmel"
     }
   ],
   "success": true
