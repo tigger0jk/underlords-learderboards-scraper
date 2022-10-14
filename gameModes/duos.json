@@ -1,6 +1,6 @@
 {
-  "time_posted": 1665760390,
-  "next_scheduled_post_time": 1665760450,
+  "time_posted": 1665763990,
+  "next_scheduled_post_time": 1665764050,
   "leaderboard": [
     {
       "name": "Sleeporz",
@@ -165,52 +165,52 @@
       "duos_persona_min": "texie"
     },
     {
-      "name": "PISKA-NEVELISKA",
-      "rank": 28,
-      "level_score": 17495,
-      "duos_persona_min": "Антонио Benderes"
-    },
-    {
       "name": "2 Potatoes",
-      "rank": 29,
+      "rank": 28,
       "level_score": 17340,
       "duos_persona_min": "Rishti"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 30,
+      "rank": 29,
       "level_score": 17300,
       "duos_persona_min": "skallen"
     },
     {
       "name": "ГейВечеринка",
-      "rank": 31,
+      "rank": 30,
       "level_score": 17260,
       "duos_persona_min": "Lega"
     },
     {
       "name": "MAULDASCHA!",
-      "rank": 32,
+      "rank": 31,
       "level_score": 15850,
       "duos_persona_min": "SchadeSchokolade"
     },
     {
       "name": "FuckBooooyyyzzz",
-      "rank": 33,
+      "rank": 32,
       "level_score": 15800,
       "duos_persona_min": "Hambühen"
     },
     {
       "name": "The Howlers ",
-      "rank": 34,
+      "rank": 33,
       "level_score": 15740,
       "duos_persona_min": "Darrow"
     },
     {
       "name": "ʕ•ᴥ•ʔ",
-      "rank": 35,
+      "rank": 34,
       "level_score": 14660,
       "duos_persona_min": "Balmipour"
+    },
+    {
+      "name": "VCG",
+      "rank": 35,
+      "level_score": 12895,
+      "duos_persona_min": "Murmel"
     }
   ],
   "success": true
