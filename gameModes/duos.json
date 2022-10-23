@@ -1,6 +1,6 @@
 {
-  "time_posted": 1666537990,
-  "next_scheduled_post_time": 1666538050,
+  "time_posted": 1666541590,
+  "next_scheduled_post_time": 1666541650,
   "leaderboard": [
     {
       "name": "ебем всех",
@@ -47,7 +47,7 @@
     {
       "name": "Wehrmacht",
       "rank": 8,
-      "level_score": 41955,
+      "level_score": 42155,
       "duos_persona_min": "VectivuS"
     },
     {
@@ -117,16 +117,16 @@
       "duos_persona_min": "yermakoff#"
     },
     {
-      "name": "Go for the eyes!",
-      "rank": 20,
-      "level_score": 17680,
-      "duos_persona_min": "skallen"
-    },
-    {
       "name": "PencilTrollz",
-      "rank": 21,
+      "rank": 20,
       "level_score": 17655,
       "duos_persona_min": "texie"
+    },
+    {
+      "name": "Go for the eyes!",
+      "rank": 21,
+      "level_score": 17530,
+      "duos_persona_min": "skallen"
     },
     {
       "name": "eta!rr",
