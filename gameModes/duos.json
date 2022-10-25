@@ -1,78 +1,78 @@
 {
-  "time_posted": 1666717990,
-  "next_scheduled_post_time": 1666718050,
+  "time_posted": 1666721590,
+  "next_scheduled_post_time": 1666721650,
   "leaderboard": [
     {
-      "name": "Семейка Адамс",
+      "name": "Sleeporz",
       "rank": 1,
-      "level_score": 102110,
+      "level_score": 107095,
+      "duos_persona_min": "vuk"
+    },
+    {
+      "name": "Семейка Адамс",
+      "rank": 2,
+      "level_score": 102140,
       "duos_persona_min": "Mutex"
     },
     {
       "name": "ебем всех",
-      "rank": 2,
-      "level_score": 98085,
+      "rank": 3,
+      "level_score": 98115,
       "duos_persona_min": "_MAD_"
     },
     {
       "name": "Valley Girls",
-      "rank": 3,
+      "rank": 4,
       "level_score": 83145,
       "duos_persona_min": "Shoaty"
     },
     {
       "name": "Next Level Play",
-      "rank": 4,
+      "rank": 5,
       "level_score": 79355,
       "duos_persona_min": "CrackerJack"
     },
     {
       "name": "BeD D0gs",
-      "rank": 5,
-      "level_score": 75050,
+      "rank": 6,
+      "level_score": 75020,
       "duos_persona_min": "NOT DED D0G"
     },
     {
       "name": "Milfhunters",
-      "rank": 6,
+      "rank": 7,
       "level_score": 69655,
       "duos_persona_min": "NoobfromEU"
     },
     {
       "name": "Пирожочки",
-      "rank": 7,
+      "rank": 8,
       "level_score": 57325,
       "duos_persona_min": "legendarno"
     },
     {
       "name": "WE ARE GROOT",
-      "rank": 8,
+      "rank": 9,
       "level_score": 56910,
       "duos_persona_min": "Sparky73"
     },
     {
       "name": "LUCIUS NERO",
-      "rank": 9,
+      "rank": 10,
       "level_score": 56270,
       "duos_persona_min": "Salac"
     },
     {
       "name": "DCP322",
-      "rank": 10,
-      "level_score": 44110,
+      "rank": 11,
+      "level_score": 44210,
       "duos_persona_min": "Нилл Киггерс"
     },
     {
       "name": "Wehrmacht",
-      "rank": 11,
+      "rank": 12,
       "level_score": 42305,
       "duos_persona_min": "VectivuS"
-    },
-    {
-      "name": "top7-top8",
-      "rank": 12,
-      "level_score": 33740,
-      "duos_persona_min": "MOOD!?AQ"
     },
     {
       "name": "Svanen og Bæstet",
@@ -159,34 +159,34 @@
       "duos_persona_min": "emJe"
     },
     {
-      "name": "NO CRIMINALITY",
+      "name": "Schniddi",
       "rank": 27,
+      "level_score": 18925,
+      "duos_persona_min": "Undividedme"
+    },
+    {
+      "name": "NO CRIMINALITY",
+      "rank": 28,
       "level_score": 18315,
       "duos_persona_min": "yermakoff#"
     },
     {
       "name": "PencilTrollz",
-      "rank": 28,
-      "level_score": 17655,
+      "rank": 29,
+      "level_score": 17625,
       "duos_persona_min": "texie"
     },
     {
       "name": "CoCaJIuTu",
-      "rank": 29,
-      "level_score": 17525,
+      "rank": 30,
+      "level_score": 17625,
       "duos_persona_min": "☂♪yamakasi♪"
     },
     {
       "name": "Go for the eyes!",
-      "rank": 30,
+      "rank": 31,
       "level_score": 17500,
       "duos_persona_min": "skallen"
-    },
-    {
-      "name": "ПоМолодецки",
-      "rank": 31,
-      "level_score": 16490,
-      "duos_persona_min": "Lega"
     },
     {
       "name": "eta!rr",
@@ -201,38 +201,44 @@
       "duos_persona_min": "CrazyLucy"
     },
     {
-      "name": "Бубцы",
+      "name": "ПоМолодецки",
       "rank": 34,
+      "level_score": 16340,
+      "duos_persona_min": "Lega"
+    },
+    {
+      "name": "Бубцы",
+      "rank": 35,
       "level_score": 16070,
       "duos_persona_min": "natylia1191"
     },
     {
       "name": "пес да лис",
-      "rank": 35,
+      "rank": 36,
       "level_score": 15255,
       "duos_persona_min": "Дашминатор"
     },
     {
       "name": "corona virus",
-      "rank": 36,
+      "rank": 37,
       "level_score": 15215,
       "duos_persona_min": "Leki"
     },
     {
       "name": "жадные до ганджи",
-      "rank": 37,
-      "level_score": 14945,
+      "rank": 38,
+      "level_score": 14825,
       "duos_persona_min": "Mikky Pirson"
     },
     {
       "name": "Boude Seerower",
-      "rank": 38,
+      "rank": 39,
       "level_score": 14265,
       "duos_persona_min": "DieAgterDeurBeer"
     },
     {
       "name": "Transboys",
-      "rank": 39,
+      "rank": 40,
       "level_score": 14000,
       "duos_persona_min": "Cᴏʀᴏɴᴀ Cᴏᴏғᴇʀ"
     }
