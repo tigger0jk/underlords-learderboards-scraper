@@ -1,6 +1,6 @@
 {
-  "time_posted": 1667056391,
-  "next_scheduled_post_time": 1667056451,
+  "time_posted": 1667059991,
+  "next_scheduled_post_time": 1667060051,
   "leaderboard": [
     {
       "name": "Sleeporz",
@@ -11,13 +11,13 @@
     {
       "name": "Семейка Адамс",
       "rank": 2,
-      "level_score": 102790,
+      "level_score": 102990,
       "duos_persona_min": "Mutex"
     },
     {
       "name": "ебем всех",
       "rank": 3,
-      "level_score": 98615,
+      "level_score": 98765,
       "duos_persona_min": "_MAD_"
     },
     {
@@ -139,12 +139,6 @@
       "rank": 23,
       "level_score": 13850,
       "duos_persona_min": "Cᴏʀᴏɴᴀ Cᴏᴏғᴇʀ"
-    },
-    {
-      "name": "VCG",
-      "rank": 24,
-      "level_score": 12915,
-      "duos_persona_min": "Murmel"
     }
   ],
   "success": true
