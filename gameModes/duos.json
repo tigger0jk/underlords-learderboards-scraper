@@ -1,6 +1,6 @@
 {
-  "time_posted": 1667142791,
-  "next_scheduled_post_time": 1667142851,
+  "time_posted": 1667146391,
+  "next_scheduled_post_time": 1667146451,
   "leaderboard": [
     {
       "name": "Sleeporz",
@@ -17,7 +17,7 @@
     {
       "name": "ебем всех",
       "rank": 3,
-      "level_score": 99065,
+      "level_score": 98965,
       "duos_persona_min": "_MAD_"
     },
     {
@@ -69,16 +69,16 @@
       "duos_persona_min": "Panda"
     },
     {
-      "name": "Schniddi",
-      "rank": 12,
-      "level_score": 19055,
-      "duos_persona_min": "Undividedme"
-    },
-    {
       "name": "Каждый день",
-      "rank": 13,
+      "rank": 12,
       "level_score": 19040,
       "duos_persona_min": "Вода"
+    },
+    {
+      "name": "Schniddi",
+      "rank": 13,
+      "level_score": 18935,
+      "duos_persona_min": "Undividedme"
     },
     {
       "name": "Animals",
