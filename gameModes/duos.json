@@ -1,6 +1,6 @@
 {
-  "time_posted": 1667153591,
-  "next_scheduled_post_time": 1667153651,
+  "time_posted": 1667157191,
+  "next_scheduled_post_time": 1667157251,
   "leaderboard": [
     {
       "name": "Sleeporz",
@@ -21,70 +21,70 @@
       "duos_persona_min": "_MAD_"
     },
     {
-      "name": "Bloodybutchers",
-      "rank": 4,
-      "level_score": 84445,
-      "duos_persona_min": "SchaTTeN_ZwerG"
-    },
-    {
       "name": "BeD D0gs",
-      "rank": 5,
+      "rank": 4,
       "level_score": 75420,
       "duos_persona_min": "NOT DED D0G"
     },
     {
       "name": "Milfhunters",
-      "rank": 6,
-      "level_score": 70155,
+      "rank": 5,
+      "level_score": 70355,
       "duos_persona_min": "NoobfromEU"
     },
     {
       "name": "FAZ O L LUCIUS",
-      "rank": 7,
+      "rank": 6,
       "level_score": 56420,
       "duos_persona_min": "Salac"
     },
     {
       "name": "DCP322",
-      "rank": 8,
+      "rank": 7,
       "level_score": 44400,
       "duos_persona_min": "Нилл Киггерс"
     },
     {
       "name": "Wehrmacht",
-      "rank": 9,
-      "level_score": 42855,
+      "rank": 8,
+      "level_score": 42955,
       "duos_persona_min": "VectivuS"
     },
     {
       "name": "жопа",
-      "rank": 10,
+      "rank": 9,
       "level_score": 30570,
       "duos_persona_min": "amk.upsale"
     },
     {
       "name": "Uplenione winko",
-      "rank": 11,
+      "rank": 10,
       "level_score": 23380,
       "duos_persona_min": "robertmackowiak.87"
     },
     {
       "name": "ЕБЕМ НЕГЛЯДЯ",
-      "rank": 12,
+      "rank": 11,
       "level_score": 20350,
       "duos_persona_min": "Panda"
     },
     {
       "name": "Каждый день",
-      "rank": 13,
+      "rank": 12,
       "level_score": 19040,
       "duos_persona_min": "Вода"
     },
     {
       "name": "Schniddi",
-      "rank": 14,
+      "rank": 13,
       "level_score": 18935,
       "duos_persona_min": "Undividedme"
+    },
+    {
+      "name": "10 MG",
+      "rank": 14,
+      "level_score": 18745,
+      "duos_persona_min": "Cliquez"
     },
     {
       "name": "Animals",
@@ -147,21 +147,21 @@
       "duos_persona_min": "Pososige"
     },
     {
-      "name": "Хорошо нападало",
+      "name": "FuckBooooyyyzzz",
       "rank": 25,
+      "level_score": 15400,
+      "duos_persona_min": "Hambühen"
+    },
+    {
+      "name": "Хорошо нападало",
+      "rank": 26,
       "level_score": 15305,
       "duos_persona_min": "kmnft"
     },
     {
-      "name": "FuckBooooyyyzzz",
-      "rank": 26,
-      "level_score": 15200,
-      "duos_persona_min": "Hambühen"
-    },
-    {
       "name": "жадные до ганджи",
       "rank": 27,
-      "level_score": 14745,
+      "level_score": 14895,
       "duos_persona_min": "Mikky Pirson"
     },
     {
@@ -175,6 +175,12 @@
       "rank": 29,
       "level_score": 12145,
       "duos_persona_min": "Roldozer"
+    },
+    {
+      "name": "Leteci Stojko",
+      "rank": 30,
+      "level_score": 7670,
+      "duos_persona_min": "NoPain"
     }
   ],
   "success": true
