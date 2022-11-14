@@ -1,11 +1,11 @@
 {
-  "time_posted": 1668445990,
-  "next_scheduled_post_time": 1668446050,
+  "time_posted": 1668449590,
+  "next_scheduled_post_time": 1668449650,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
       "rank": 1,
-      "level_score": 105780,
+      "level_score": 105980,
       "duos_persona_min": "Mutex"
     },
     {
@@ -123,21 +123,21 @@
       "duos_persona_min": "stickthegeneral"
     },
     {
-      "name": "Пилигрим Тук",
+      "name": "NO CRIMINALITY",
       "rank": 21,
+      "level_score": 18715,
+      "duos_persona_min": "yermakoff#"
+    },
+    {
+      "name": "Пилигрим Тук",
+      "rank": 22,
       "level_score": 18635,
       "duos_persona_min": "Captain Jack Sparrow"
     },
     {
-      "name": "NO CRIMINALITY",
-      "rank": 22,
-      "level_score": 18515,
-      "duos_persona_min": "yermakoff#"
-    },
-    {
       "name": "Go for the eyes!",
       "rank": 23,
-      "level_score": 18160,
+      "level_score": 18310,
       "duos_persona_min": "skallen"
     },
     {
@@ -159,22 +159,22 @@
       "duos_persona_min": "SchadeSchokolade"
     },
     {
-      "name": "boring",
-      "rank": 27,
-      "level_score": 17115,
-      "duos_persona_min": "relaxer"
-    },
-    {
       "name": "мартыны",
-      "rank": 28,
+      "rank": 27,
       "level_score": 17090,
       "duos_persona_min": "ksensanna"
     },
     {
       "name": "PencilTrollz",
-      "rank": 29,
+      "rank": 28,
       "level_score": 17085,
       "duos_persona_min": "texie"
+    },
+    {
+      "name": "boring",
+      "rank": 29,
+      "level_score": 16915,
+      "duos_persona_min": "relaxer"
     },
     {
       "name": "NaVi",
@@ -185,7 +185,7 @@
     {
       "name": "",
       "rank": 31,
-      "level_score": 16215,
+      "level_score": 16365,
       "duos_persona_min": "BigAl"
     },
     {
