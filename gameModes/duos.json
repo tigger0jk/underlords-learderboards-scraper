@@ -1,11 +1,11 @@
 {
-  "time_posted": 1670094789,
-  "next_scheduled_post_time": 1670094849,
+  "time_posted": 1670098390,
+  "next_scheduled_post_time": 1670098450,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
       "rank": 1,
-      "level_score": 107610,
+      "level_score": 107710,
       "duos_persona_min": "Mutex"
     },
     {
@@ -17,7 +17,7 @@
     {
       "name": "Пирожочки",
       "rank": 3,
-      "level_score": 60115,
+      "level_score": 60315,
       "duos_persona_min": "legendarno"
     },
     {
@@ -57,22 +57,22 @@
       "duos_persona_min": "B-Rabbit"
     },
     {
-      "name": "Go for the eyes!",
-      "rank": 10,
-      "level_score": 18850,
-      "duos_persona_min": "skallen"
-    },
-    {
       "name": "Курва Ежик",
-      "rank": 11,
-      "level_score": 17200,
+      "rank": 10,
+      "level_score": 17400,
       "duos_persona_min": "Lega"
     },
     {
       "name": "Kinky party",
-      "rank": 12,
+      "rank": 11,
       "level_score": 16495,
       "duos_persona_min": "sweety_nagibator1337"
+    },
+    {
+      "name": "Never Surrender",
+      "rank": 12,
+      "level_score": 16335,
+      "duos_persona_min": "Hort"
     },
     {
       "name": "Na'Vi KZ",
@@ -83,7 +83,7 @@
     {
       "name": "жадные до ганджи",
       "rank": 14,
-      "level_score": 15475,
+      "level_score": 15275,
       "duos_persona_min": "Mikky Pirson"
     },
     {
