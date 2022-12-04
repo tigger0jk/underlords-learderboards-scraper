@@ -1,66 +1,66 @@
 {
-  "time_posted": 1670181190,
-  "next_scheduled_post_time": 1670181250,
+  "time_posted": 1670184790,
+  "next_scheduled_post_time": 1670184850,
   "leaderboard": [
     {
-      "name": "Sleeporz",
+      "name": "Lvl up U LARDASS",
       "rank": 1,
+      "level_score": 150550,
+      "duos_persona_min": "unnis_incarnate"
+    },
+    {
+      "name": "Sleeporz",
+      "rank": 2,
       "level_score": 110205,
       "duos_persona_min": "vuk"
     },
     {
       "name": "Семейка Адамс",
-      "rank": 2,
-      "level_score": 107710,
+      "rank": 3,
+      "level_score": 107780,
       "duos_persona_min": "Mutex"
     },
     {
       "name": "Valley Girls",
-      "rank": 3,
-      "level_score": 86095,
+      "rank": 4,
+      "level_score": 86245,
       "duos_persona_min": "Shoaty"
     },
     {
       "name": "Пирожочки",
-      "rank": 4,
+      "rank": 5,
       "level_score": 60315,
       "duos_persona_min": "legendarno"
     },
     {
       "name": "DumbleDoodies",
-      "rank": 5,
+      "rank": 6,
       "level_score": 22630,
       "duos_persona_min": "der_dude"
     },
     {
       "name": "Schlammköpfe",
-      "rank": 6,
+      "rank": 7,
       "level_score": 20740,
       "duos_persona_min": "SchlammIrn"
     },
     {
       "name": "Пилигрим Тук",
-      "rank": 7,
+      "rank": 8,
       "level_score": 20085,
       "duos_persona_min": "Captain Jack Sparrow"
     },
     {
       "name": "Animals",
-      "rank": 8,
+      "rank": 9,
       "level_score": 19330,
       "duos_persona_min": "Kabel Heinz"
     },
     {
       "name": "G'Lords",
-      "rank": 9,
+      "rank": 10,
       "level_score": 18890,
       "duos_persona_min": "B-Rabbit"
-    },
-    {
-      "name": "Курва Ежик",
-      "rank": 10,
-      "level_score": 17000,
-      "duos_persona_min": "Lega"
     },
     {
       "name": "corona virus",
@@ -69,27 +69,39 @@
       "duos_persona_min": "Leki"
     },
     {
-      "name": "Never Surrender",
+      "name": "Курва Ежик",
       "rank": 12,
+      "level_score": 16650,
+      "duos_persona_min": "Lega"
+    },
+    {
+      "name": "Never Surrender",
+      "rank": 13,
       "level_score": 16335,
       "duos_persona_min": "Hort"
     },
     {
+      "name": "FuckBooooyyyzzz",
+      "rank": 14,
+      "level_score": 16230,
+      "duos_persona_min": "Hambühen"
+    },
+    {
       "name": "Na'Vi KZ",
-      "rank": 13,
+      "rank": 15,
       "level_score": 15790,
       "duos_persona_min": "ShINkoz"
     },
     {
       "name": "жадные до ганджи",
-      "rank": 14,
-      "level_score": 15555,
+      "rank": 16,
+      "level_score": 15615,
       "duos_persona_min": "Mikky Pirson"
     },
     {
       "name": "Timon u Pumba",
-      "rank": 15,
-      "level_score": 11510,
+      "rank": 17,
+      "level_score": 11480,
       "duos_persona_min": "Oksi"
     }
   ],
