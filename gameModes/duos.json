@@ -1,6 +1,6 @@
 {
-  "time_posted": 1670616789,
-  "next_scheduled_post_time": 1670616849,
+  "time_posted": 1670620390,
+  "next_scheduled_post_time": 1670620450,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
@@ -15,16 +15,16 @@
       "duos_persona_min": "Shoaty"
     },
     {
-      "name": "First placers",
-      "rank": 3,
-      "level_score": 57715,
-      "duos_persona_min": "kojic.lazar"
-    },
-    {
       "name": "hello n00bs",
-      "rank": 4,
+      "rank": 3,
       "level_score": 27270,
       "duos_persona_min": "Haxx"
+    },
+    {
+      "name": "POLSKA GUROM",
+      "rank": 4,
+      "level_score": 24410,
+      "duos_persona_min": "robertmackowiak.87"
     },
     {
       "name": "DumbleDoodies",
@@ -57,28 +57,16 @@
       "duos_persona_min": "Vasyash"
     },
     {
-      "name": "corona virus",
-      "rank": 10,
-      "level_score": 17165,
-      "duos_persona_min": "Leki"
-    },
-    {
       "name": "мартыны",
-      "rank": 11,
+      "rank": 10,
       "level_score": 16690,
       "duos_persona_min": "ksensanna"
     },
     {
       "name": "№1",
-      "rank": 12,
+      "rank": 11,
       "level_score": 15320,
       "duos_persona_min": "Droly"
-    },
-    {
-      "name": "Transboys",
-      "rank": 13,
-      "level_score": 13240,
-      "duos_persona_min": "Cᴏʀᴏɴᴀ Cᴏᴏғᴇʀ"
     }
   ],
   "success": true
