@@ -1,6 +1,6 @@
 {
-  "time_posted": 1670623990,
-  "next_scheduled_post_time": 1670624050,
+  "time_posted": 1670627590,
+  "next_scheduled_post_time": 1670627650,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
@@ -55,6 +55,12 @@
       "rank": 9,
       "level_score": 15320,
       "duos_persona_min": "Droly"
+    },
+    {
+      "name": "хоть бы не 5",
+      "rank": 10,
+      "level_score": 11155,
+      "duos_persona_min": "Roldozer"
     }
   ],
   "success": true
