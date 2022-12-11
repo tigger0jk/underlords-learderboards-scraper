@@ -1,6 +1,6 @@
 {
-  "time_posted": 1670775190,
-  "next_scheduled_post_time": 1670775250,
+  "time_posted": 1670778790,
+  "next_scheduled_post_time": 1670778850,
   "leaderboard": [
     {
       "name": "Семейка Адамс",
@@ -17,7 +17,7 @@
     {
       "name": "SHE WAS 14?",
       "rank": 3,
-      "level_score": 58840,
+      "level_score": 58640,
       "duos_persona_min": "Salac"
     },
     {
@@ -59,18 +59,24 @@
     {
       "name": "Бобче Топче",
       "rank": 10,
-      "level_score": 18730,
+      "level_score": 18830,
       "duos_persona_min": "Amellyy"
     },
     {
-      "name": "№1",
+      "name": "PencilTrollz",
       "rank": 11,
+      "level_score": 17675,
+      "duos_persona_min": "texie"
+    },
+    {
+      "name": "№1",
+      "rank": 12,
       "level_score": 15390,
       "duos_persona_min": "Droly"
     },
     {
       "name": "хоть бы не 5",
-      "rank": 12,
+      "rank": 13,
       "level_score": 11255,
       "duos_persona_min": "Roldozer"
     }
