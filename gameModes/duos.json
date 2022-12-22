@@ -1,6 +1,6 @@
 {
-  "time_posted": 1671736390,
-  "next_scheduled_post_time": 1671736450,
+  "time_posted": 1671739990,
+  "next_scheduled_post_time": 1671740050,
   "leaderboard": [
     {
       "name": "TOP-8",
@@ -15,46 +15,52 @@
       "duos_persona_min": "VectivuS"
     },
     {
-      "name": "STOP CHEATING",
+      "name": "hello n00bs",
       "rank": 3,
-      "level_score": 25610,
+      "level_score": 27480,
+      "duos_persona_min": "Haxx"
+    },
+    {
+      "name": "STOP CHEATING",
+      "rank": 4,
+      "level_score": 25710,
       "duos_persona_min": "KonZe"
     },
     {
       "name": "Pepega Jugend2",
-      "rank": 4,
+      "rank": 5,
       "level_score": 23755,
       "duos_persona_min": "ahj0#"
     },
     {
+      "name": "Kinky party",
+      "rank": 6,
+      "level_score": 16585,
+      "duos_persona_min": "sweety_nagibator1337"
+    },
+    {
       "name": "Курва Ежик",
-      "rank": 5,
+      "rank": 7,
       "level_score": 16470,
       "duos_persona_min": "Lega"
     },
     {
       "name": "boring",
-      "rank": 6,
+      "rank": 8,
       "level_score": 16465,
       "duos_persona_min": "relaxer"
-    },
-    {
-      "name": "Never Surrender",
-      "rank": 7,
-      "level_score": 15885,
-      "duos_persona_min": "Hort"
-    },
-    {
-      "name": "RukarioXLiven",
-      "rank": 8,
-      "level_score": 15190,
-      "duos_persona_min": "menyeretku kesini"
     },
     {
       "name": "Пися и попа",
       "rank": 9,
       "level_score": 15100,
       "duos_persona_min": "Droly"
+    },
+    {
+      "name": "RukarioXLiven",
+      "rank": 10,
+      "level_score": 15090,
+      "duos_persona_min": "menyeretku kesini"
     }
   ],
   "success": true
