@@ -1,6 +1,6 @@
 {
-  "time_posted": 1672171989,
-  "next_scheduled_post_time": 1672172049,
+  "time_posted": 1672175590,
+  "next_scheduled_post_time": 1672175650,
   "leaderboard": [
     {
       "name": "31337",
@@ -13,12 +13,6 @@
       "rank": 2,
       "level_score": 15815,
       "duos_persona_min": "Mikky Pirson"
-    },
-    {
-      "name": "Пися и попа",
-      "rank": 3,
-      "level_score": 15320,
-      "duos_persona_min": "Droly"
     }
   ],
   "success": true
