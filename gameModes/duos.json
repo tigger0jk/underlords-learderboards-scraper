@@ -1,12 +1,24 @@
 {
-  "time_posted": 1672611189,
-  "next_scheduled_post_time": 1672611249,
+  "time_posted": 1672614789,
+  "next_scheduled_post_time": 1672614849,
   "leaderboard": [
     {
-      "name": "hello n00bs",
+      "name": "Open Fort Losers",
       "rank": 1,
+      "level_score": 30560,
+      "duos_persona_min": "BabyCat"
+    },
+    {
+      "name": "hello n00bs",
+      "rank": 2,
       "level_score": 27500,
       "duos_persona_min": "Haxx"
+    },
+    {
+      "name": "мартыны",
+      "rank": 3,
+      "level_score": 17190,
+      "duos_persona_min": "ksensanna"
     }
   ],
   "success": true
