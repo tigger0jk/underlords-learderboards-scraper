@@ -1,23 +1,35 @@
 {
-  "time_posted": 1672686790,
-  "next_scheduled_post_time": 1672686850,
+  "time_posted": 1672690389,
+  "next_scheduled_post_time": 1672690449,
   "leaderboard": [
     {
-      "name": "Open Fort Losers",
+      "name": "Домашняя",
       "rank": 1,
+      "level_score": 33435,
+      "duos_persona_min": "9395632"
+    },
+    {
+      "name": "Open Fort Losers",
+      "rank": 2,
       "level_score": 30560,
       "duos_persona_min": "BabyCat"
     },
     {
       "name": "hello n00bs",
-      "rank": 2,
-      "level_score": 27200,
+      "rank": 3,
+      "level_score": 27230,
       "duos_persona_min": "Haxx"
     },
     {
+      "name": "мартыны",
+      "rank": 4,
+      "level_score": 17160,
+      "duos_persona_min": "ksensanna"
+    },
+    {
       "name": "VCG",
-      "rank": 3,
-      "level_score": 13025,
+      "rank": 5,
+      "level_score": 13175,
       "duos_persona_min": "Murmel"
     }
   ],
