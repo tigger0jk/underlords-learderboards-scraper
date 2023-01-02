@@ -1,40 +1,46 @@
 {
-  "time_posted": 1672693990,
-  "next_scheduled_post_time": 1672694050,
+  "time_posted": 1672697590,
+  "next_scheduled_post_time": 1672697650,
   "leaderboard": [
     {
-      "name": "Домашняя",
+      "name": "Lvl up U LARDASS",
       "rank": 1,
-      "level_score": 33565,
+      "level_score": 152500,
+      "duos_persona_min": "unnis_incarnate"
+    },
+    {
+      "name": "Домашняя",
+      "rank": 2,
+      "level_score": 33365,
       "duos_persona_min": "9395632"
     },
     {
       "name": "Open Fort Losers",
-      "rank": 2,
+      "rank": 3,
       "level_score": 30710,
       "duos_persona_min": "BabyCat"
     },
     {
       "name": "hello n00bs",
-      "rank": 3,
+      "rank": 4,
       "level_score": 27380,
       "duos_persona_min": "Haxx"
     },
     {
       "name": "PushUpsMiter!",
-      "rank": 4,
-      "level_score": 17220,
+      "rank": 5,
+      "level_score": 17370,
       "duos_persona_min": "SchadeSchokolade"
     },
     {
       "name": "мартыны",
-      "rank": 5,
+      "rank": 6,
       "level_score": 17030,
       "duos_persona_min": "ksensanna"
     },
     {
       "name": "VCG",
-      "rank": 6,
+      "rank": 7,
       "level_score": 13175,
       "duos_persona_min": "Murmel"
     }
