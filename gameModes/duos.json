@@ -1,22 +1,28 @@
 {
-  "time_posted": 1673385190,
-  "next_scheduled_post_time": 1673385250,
+  "time_posted": 1673388790,
+  "next_scheduled_post_time": 1673388850,
   "leaderboard": [
     {
-      "name": "corona virus",
+      "name": "AdolfKitzler",
       "rank": 1,
-      "level_score": 17365,
+      "level_score": 22675,
+      "duos_persona_min": "Swansonson"
+    },
+    {
+      "name": "corona virus",
+      "rank": 2,
+      "level_score": 17465,
       "duos_persona_min": "Leki"
     },
     {
       "name": "Бубцы",
-      "rank": 2,
+      "rank": 3,
       "level_score": 15380,
       "duos_persona_min": "natylia1191"
     },
     {
       "name": "Timon u Pumba",
-      "rank": 3,
+      "rank": 4,
       "level_score": 11160,
       "duos_persona_min": "Oksi"
     }
