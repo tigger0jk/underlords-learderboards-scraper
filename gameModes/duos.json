@@ -1,6 +1,6 @@
 {
-  "time_posted": 1673554391,
-  "next_scheduled_post_time": 1673554451,
+  "time_posted": 1673557990,
+  "next_scheduled_post_time": 1673558050,
   "leaderboard": [
     {
       "name": "AdolfKitzler",
@@ -15,8 +15,14 @@
       "duos_persona_min": "Leki"
     },
     {
-      "name": "Timon u Pumba",
+      "name": "VCG",
       "rank": 3,
+      "level_score": 13075,
+      "duos_persona_min": "Murmel"
+    },
+    {
+      "name": "Timon u Pumba",
+      "rank": 4,
       "level_score": 11160,
       "duos_persona_min": "Oksi"
     }
