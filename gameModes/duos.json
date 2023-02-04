@@ -1,6 +1,13 @@
 {
-  "time_posted": 1675541589,
-  "next_scheduled_post_time": 1675541649,
-  "leaderboard": [],
+  "time_posted": 1675545190,
+  "next_scheduled_post_time": 1675545250,
+  "leaderboard": [
+    {
+      "name": "Valley Girls",
+      "rank": 1,
+      "level_score": 89525,
+      "duos_persona_min": "Shoaty"
+    }
+  ],
   "success": true
 }
